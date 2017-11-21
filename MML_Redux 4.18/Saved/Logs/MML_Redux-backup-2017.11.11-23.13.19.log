@@ -1,0 +1,1391 @@
+﻿Log file open, 11/11/17 22:44:49
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MML_Redux
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1833184753) SRandInit(-1833184753).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3709383, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.384065
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Substance
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3709383
+LogInit: Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Oct 20 2017 10:39:19
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: E:/Unreal Engine Content/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.12-06.44.52:780][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.12-06.44.52:781][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.12-06.44.52:794][  0]LogInit: Computer: JJ-PC
+[2017.11.12-06.44.52:794][  0]LogInit: User: JJ
+[2017.11.12-06.44.52:794][  0]LogInit: CPU Page size=4096, Cores=8
+[2017.11.12-06.44.52:794][  0]LogInit: High frequency timer resolution =2.597657 MHz
+[2017.11.12-06.44.52:794][  0]LogMemory: Memory total: Physical=64.0GB (64GB approx)
+[2017.11.12-06.44.52:794][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.12-06.44.52:794][  0]LogMemory: Process Physical Memory: 275.13 MB used, 275.13 MB peak
+[2017.11.12-06.44.52:794][  0]LogMemory: Process Virtual Memory: 270.71 MB used, 270.71 MB peak
+[2017.11.12-06.44.52:794][  0]LogMemory: Physical Memory: 13357.01 MB used,  52167.14 MB free, 65524.16 MB total
+[2017.11.12-06.44.52:794][  0]LogMemory: Virtual Memory: 654.23 MB used,  52167.14 MB free, 134217728.00 MB total
+[2017.11.12-06.44.53:513][  0]LogInit: Using OS detected language (en-US).
+[2017.11.12-06.44.53:513][  0]LogInit: Using OS detected locale (en-US).
+[2017.11.12-06.44.53:518][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.12-06.44.54:097][  0]LogInit: Setting process to per monitor DPI aware
+[2017.11.12-06.44.54:792][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.12-06.44.54:840][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2017.11.12-06.44.54:840][  0]LogD3D11RHI:       4060/0/32762 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2017.11.12-06.44.54:842][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.12-06.44.54:842][  0]LogD3D11RHI:       0/0/32762 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.12-06.44.54:842][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.12-06.44.54:857][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.12-06.44.54:858][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.12-06.44.54:858][  0]LogWindows: EnumDisplayDevices:
+[2017.11.12-06.44.54:858][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2017.11.12-06.44.54:858][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2017.11.12-06.44.54:858][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2017.11.12-06.44.54:858][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2017.11.12-06.44.54:859][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.12-06.44.54:859][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2017.11.12-06.44.54:859][  0]LogD3D11RHI:   Driver Version: 388.13 (internal:23.21.13.8813, unified:388.13)
+[2017.11.12-06.44.54:859][  0]LogD3D11RHI:      Driver Date: 10-27-2017
+[2017.11.12-06.44.54:859][  0]LogRHI: Texture pool is 2842 MB (70% of 4060 MB)
+[2017.11.12-06.44.54:901][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.12-06.44.54:948][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.12-06.44.55:036][  0]LogShaderCompilers: Guid format shader working directory is -3 characters bigger than the processId version (../../../../../Unreal Projects/MML_Redux 4.18/Intermediate/Shaders/WorkingDirectory/43340/).
+[2017.11.12-06.44.55:036][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JJ/AppData/Local/Temp/UnrealShaderWorkingDir/05433B2C49543BC8F84BBAACD193A4FD/'.
+[2017.11.12-06.44.55:036][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.12-06.44.57:147][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.12-06.44.57:343][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.12-06.44.57:540][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.12-06.44.57:742][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.12-06.44.57:941][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.12-06.44.58:137][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.12-06.44.58:333][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.12-06.44.58:531][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.12-06.44.58:719][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.12-06.44.58:915][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.12-06.44.59:107][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.12-06.44.59:300][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.12-06.44.59:492][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.12-06.44.59:685][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.12-06.45.00:074][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.12-06.45.00:074][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.12-06.45.00:270][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.12-06.45.00:447][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.12-06.45.00:757][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.12-06.45.00:869][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.12-06.45.01:062][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.12-06.45.01:261][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.12-06.45.01:456][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.12-06.45.01:649][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.12-06.45.01:649][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.12-06.45.03:836][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.12-06.45.03:979][  0]LogDerivedDataCache: Loaded boot cache 0.14s 78MB C:/Users/JJ/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.12-06.45.03:979][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/JJ/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.11.12-06.45.03:980][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Unreal Projects/MML_Redux 4.18/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.12-06.45.03:980][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.12-06.45.03:980][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Unreal Projects/MML_Redux 4.18/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.12-06.45.03:980][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.12-06.45.04:002][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.12-06.45.04:014][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.12-06.45.04:031][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.12-06.45.04:032][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.12-06.45.04:033][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.12-06.45.04:033][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.12-06.45.04:722][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.12-06.45.05:860][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.12-06.45.06:048][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.12-06.45.06:048][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.12-06.45.06:048][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.12-06.45.06:048][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.12-06.45.06:048][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.12-06.45.06:115][  0]LogNetVersion: MML_Redux , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3724097922)
+[2017.11.12-06.45.06:456][  0]LogAssetRegistry: FAssetRegistry took 0.0294 seconds to start up
+[2017.11.12-06.45.07:466][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.071786 seconds
+[2017.11.12-06.45.07:475][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.11.12-06.45.07:475][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.11.12-06.45.07:475][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.12-06.45.07:760][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.11.12-06.45.16:076][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.12-06.45.16:208][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.12-06.45.17:991][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2017.11.12-06.45.18:817][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.12-06.45.20:300][  0]SourceControl: Source control is disabled
+[2017.11.12-06.45.20:300][  0]SourceControl: Source control is disabled
+[2017.11.12-06.45.20:508][  0]SourceControl: Source control is disabled
+[2017.11.12-06.45.20:718][  0]SourceControl: Source control is disabled
+[2017.11.12-06.45.23:871][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.12-06.45.24:961][  0]LogOcInput: OculusInput pre-init called
+[2017.11.12-06.45.26:593][  0]LogEngine: Initializing Engine...
+[2017.11.12-06.45.26:625][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.11.12-06.45.26:976][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.12-06.45.26:977][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.12-06.45.27:520][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.12-06.45.27:532][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.12-06.45.27:549][  0]LogInit: FAudioDevice initialized.
+[2017.11.12-06.45.27:686][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/JJ/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.11.12-06.45.27:711][  0]LogInit: Texture streaming: Enabled
+[2017.11.12-06.45.28:220][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.12-06.45.28:772][  0]LogInit: Transaction tracking system initialized
+[2017.11.12-06.45.30:168][  0]BlueprintLog: New page: Editor Load
+[2017.11.12-06.45.34:103][  0]LocalizationService: Localization service is disabled
+[2017.11.12-06.45.37:311][  0]LogConsoleResponse: Display: 
+[2017.11.12-06.45.37:631][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.12-06.45.37:631][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.12-06.45.37:631][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.12-06.45.38:648][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Content/' took 0.03s
+[2017.11.12-06.45.42:650][  0]SourceControl: Source control is disabled
+[2017.11.12-06.45.42:650][  0]Cmd: MAP LOAD FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.12-06.45.42:651][  0]LightingResults: New page: Lighting Build
+[2017.11.12-06.45.42:833][  0]MapCheck: New page: Map Check
+[2017.11.12-06.45.42:833][  0]LightingResults: New page: Lighting Build
+[2017.11.12-06.45.43:516][  0]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2017.11.12-06.45.43:532][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone2) is flushing async loading
+[2017.11.12-06.45.44:547][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone1) is flushing async loading
+[2017.11.12-06.45.44:891][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone3) is flushing async loading
+[2017.11.12-06.45.45:016][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.12-06.45.45:076][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.12-06.45.45:178][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.277ms to complete.
+[2017.11.12-06.45.45:178][  0]LogFileHelpers: Loading map 'Ocean_Tower_Main' took 2.527
+[2017.11.12-06.45.45:283][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.12-06.45.45:283][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.12-06.45.45:497][  0]LogCollectionManager: Loaded 0 collections in 0.002603 seconds
+[2017.11.12-06.45.45:732][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Saved/Collections/' took 0.01s
+[2017.11.12-06.45.45:732][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Content/Developers/JJ/Collections/' took 0.01s
+[2017.11.12-06.45.45:732][  0]LogFileCache: Scanning file cache for directory 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Content/Collections/' took 0.01s
+[2017.11.12-06.45.45:732][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.12-06.45.45:747][  0]LogContentBrowser: Native class hierarchy populated in 0.0147 seconds. Added 2377 classes and 525 folders.
+[2017.11.12-06.45.46:091][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.12-06.45.46:181][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.11.12-06.45.46:380][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.12-06.45.46:581][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0005 seconds. Added 2 classes and 3 folders.
+[2017.11.12-06.45.46:808][  0]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.12-06.45.46:812][  0]LogSlate: Took 0.000381 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.12-06.45.46:820][  0]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.12-06.45.47:005][  0]LogRenderer: Reallocating scene render targets to support 1616x808 Format 10 NumSamples 1 (Frame:1).
+[2017.11.12-06.45.47:498][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.11.12-06.45.47:498][  0]LogLoad: (Engine Initialization) Total time: 60.23 seconds
+[2017.11.12-06.45.47:498][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.12-06.45.47:498][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.11.12-06.45.47:534][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.12-06.45.47:682][  2]LogAssetRegistry: Asset discovery search completed in 41.2486 seconds
+[2017.11.12-06.45.47:686][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.12-06.45.47:687][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000095 seconds (updated 0 objects)
+[2017.11.12-06.46.15:123][758]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.12-06.46.15:203][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cinematics/Sequences/OceanTowerElevator" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/Sequences/OceanTowerElevator.uasset" SILENT=true
+[2017.11.12-06.46.15:219][758]LogSavePackage: Save=14.36ms
+[2017.11.12-06.46.15:219][758]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/OceanTowerElevatorFF6235F94AB12302202D39803ED816B5.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/Sequences/OceanTowerElevator.uasset'
+[2017.11.12-06.46.15:221][758]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/Sequences/OceanTowerElevator.uasset
+[2017.11.12-06.46.15:225][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cinematics/OceanTowerElevator" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/OceanTowerElevator.uasset" SILENT=true
+[2017.11.12-06.46.15:229][758]LogSavePackage: Save=0.99ms
+[2017.11.12-06.46.15:230][758]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/OceanTowerElevator73317B6E40AB43A105CDEE8CB5CEC8B7.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/OceanTowerElevator.uasset'
+[2017.11.12-06.46.15:231][758]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/OceanTowerElevator.uasset
+[2017.11.12-06.46.19:951][149]LogSavePackage: Save=14.12ms
+[2017.11.12-06.46.19:951][149]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/OceanTowerElevatorFF90E5CC46865E67D1136BA8D47103B6.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/Sequences/MML_Redux_Intro_/OceanTowerElevator.uasset'
+[2017.11.12-06.46.19:953][149]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/Sequences/MML_Redux_Intro_/OceanTowerElevator.uasset
+[2017.11.12-06.46.20:195][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Cinematics/OceanTowerElevator" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/OceanTowerElevator.uasset" SILENT=true
+[2017.11.12-06.46.20:199][149]LogSavePackage: Save=1.13ms
+[2017.11.12-06.46.20:199][149]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/OceanTowerElevatorAB6603EC45C7E02389EBB5968468148C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/OceanTowerElevator.uasset'
+[2017.11.12-06.46.20:200][149]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Cinematics/OceanTowerElevator.uasset
+[2017.11.12-06.46.27:733][768]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone3" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-06.46.27:799][768]LogSpawn: Warning: UWorld::DestroyActor: World has no context! World: Ocean_Tower_Zone3, Actor: /Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.REINST_Ocean_Tower_Zone3_C_0
+[2017.11.12-06.46.28:065][768]LogSavePackage: Save=303.39ms
+[2017.11.12-06.46.28:066][768]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone3C2E62D094973501321AABDBA8A4D0131.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone3.umap'
+[2017.11.12-06.46.28:068][768]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone3.umap
+[2017.11.12-06.46.28:069][768]LogFileHelpers: Saving map 'Ocean_Tower_Zone3' took 0.430
+[2017.11.12-06.47.26:623][575]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.12-06.47.26:833][575]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 116 classes and 0 folders.
+[2017.11.12-06.47.28:128][575]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.12-06.47.28:300][576]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.12-06.47.53:545][677]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.11.12-06.47.56:133][793]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2017.11.12-06.47.58:672][890]LogSavePackage: Save=39.08ms
+[2017.11.12-06.47.58:672][890]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ThirdPersonGameModeB3FDAAB2435FC0B368DEBBBECDE30D78.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.12-06.47.58:674][890]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.12-06.49.24:704][280]BlueprintLog: New page: Compile Zakobon_BP
+[2017.11.12-06.49.28:033][316]BlueprintLog: New page: Compile Zakobon_BP
+[2017.11.12-06.49.42:650][136]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.12-06.50.13:121][136]LogMaterial: Missing cached shader map for material M_ExplosiveSphere, compiling. 
+[2017.11.12-06.50.13:121][136]LogMaterial: Warning: E:\Unreal Engine Content\Unreal Projects\MML_Redux 4.18\Content\StaticMeshes\Materials\M_ExplosiveSphere.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.12-06.50.13:121][136]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.12-06.50.13:125][136]LogMaterial: Missing cached shader map for material M_ExplosiveSphere, compiling. 
+[2017.11.12-06.50.13:125][136]LogMaterial: Warning: E:\Unreal Engine Content\Unreal Projects\MML_Redux 4.18\Content\StaticMeshes\Materials\M_ExplosiveSphere.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.12-06.50.13:125][136]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.12-06.50.13:128][136]LogMaterial: Missing cached shader map for material M_ExplosiveSphere, compiling. 
+[2017.11.12-06.50.13:129][136]LogMaterial: Warning: E:\Unreal Engine Content\Unreal Projects\MML_Redux 4.18\Content\StaticMeshes\Materials\M_ExplosiveSphere.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.12-06.50.13:129][136]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.11.12-06.50.30:337][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone2" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-06.50.31:603][284]LogSavePackage: Save=1224.45ms
+[2017.11.12-06.50.31:603][284]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone29BF2A5B740E8BED8609D269CC430A286.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap'
+[2017.11.12-06.50.31:605][284]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap
+[2017.11.12-06.50.31:609][284]LogFileHelpers: Saving map 'Ocean_Tower_Zone2' took 1.377
+[2017.11.12-06.50.31:729][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone1" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-06.50.32:501][284]LogSavePackage: Save=731.32ms
+[2017.11.12-06.50.32:501][284]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone14995FC1542D3F024035E99BCF9F2D9B7.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap'
+[2017.11.12-06.50.32:503][284]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap
+[2017.11.12-06.50.32:505][284]LogFileHelpers: Saving map 'Ocean_Tower_Zone1' took 0.883
+[2017.11.12-06.50.32:548][284]LogSavePackage: Save=38.14ms
+[2017.11.12-06.50.32:548][284]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ThirdPersonGameModeEAF902FF4833D5E4E24B27B5CBC8C3B9.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.12-06.50.32:550][284]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.12-06.50.32:696][284]LogSavePackage: Save=50.83ms
+[2017.11.12-06.50.32:696][284]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Zakobon_BP58C357CB49DE4CF0338D77BBFD2A3798.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.uasset'
+[2017.11.12-06.50.32:698][284]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.uasset
+[2017.11.12-06.51.44:821][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Geometry/Meshes/1M_Cube" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2017.11.12-06.51.44:836][ 79]LogSavePackage: Save=13.23ms
+[2017.11.12-06.51.44:836][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/1M_CubeBD7B344E4A72023488E19D877D0BC1C1.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/1M_Cube.uasset'
+[2017.11.12-06.51.44:838][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/1M_Cube.uasset
+[2017.11.12-06.51.44:841][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2017.11.12-06.51.44:846][ 79]LogSavePackage: Save=0.95ms
+[2017.11.12-06.51.44:846][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/1M_CubeFA5AF6164CBBDC7967193BB64C0BAE3C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/1M_Cube.uasset'
+[2017.11.12-06.51.44:848][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/1M_Cube.uasset
+[2017.11.12-06.51.44:890][ 79]LogSavePackage: Save=13.89ms
+[2017.11.12-06.51.44:890][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/1M_Cube_Chamfer8CAADD154A5FFFAAA279B59C32278B11.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2017.11.12-06.51.44:892][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.11.12-06.51.44:896][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_Chamfer" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2017.11.12-06.51.44:900][ 79]LogSavePackage: Save=0.99ms
+[2017.11.12-06.51.44:900][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/1M_Cube_Chamfer5DE2AF234CB947783200DBA8C7BC425F.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2017.11.12-06.51.44:902][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2017.11.12-06.51.44:927][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Geometry/Meshes/CubeMaterial" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2017.11.12-06.51.44:945][ 79]LogSavePackage: Save=16.15ms
+[2017.11.12-06.51.44:945][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/CubeMaterialE97846DD42562209FB08CCBDAF75117E.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/CubeMaterial.uasset'
+[2017.11.12-06.51.44:947][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/CubeMaterial.uasset
+[2017.11.12-06.51.44:990][ 79]LogSavePackage: Save=14.06ms
+[2017.11.12-06.51.44:990][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/TemplateFloor70794C6D4ADE639E38328282C467EDCD.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/TemplateFloor.uasset'
+[2017.11.12-06.51.44:992][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/Geometry/Meshes/TemplateFloor.uasset
+[2017.11.12-06.51.44:995][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2017.11.12-06.51.45:001][ 79]LogSavePackage: Save=1.29ms
+[2017.11.12-06.51.45:001][ 79]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/TemplateFloor9A064B424718F7FB31D78B9A392FBF7E.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/TemplateFloor.uasset'
+[2017.11.12-06.51.45:003][ 79]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Geometry/Meshes/TemplateFloor.uasset
+[2017.11.12-06.51.59:221][167]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2017.11.12-06.51.59:697][167]LogSavePackage: Save=261.57ms
+[2017.11.12-06.51.59:697][167]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ThirdPersonExampleMap8F1ED3104D743BCCBF9AAB8F87F2DDFC.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.12-06.51.59:700][167]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.12-06.51.59:706][167]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.434
+[2017.11.12-06.53.08:748][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Ruins/ForceField_BlockOut_SM" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/ForceField_BlockOut_SM.uasset" SILENT=true
+[2017.11.12-06.53.08:764][170]LogSavePackage: Save=14.92ms
+[2017.11.12-06.53.08:764][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ForceField_BlockOut_SM7665D09348CC9829A4A6269EDCAD2C71.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/ForceField_BlockOut_SM.uasset'
+[2017.11.12-06.53.08:766][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/ForceField_BlockOut_SM.uasset
+[2017.11.12-06.53.08:792][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Ruins/Generator_SM" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Generator_SM.uasset" SILENT=true
+[2017.11.12-06.53.08:808][170]LogSavePackage: Save=14.99ms
+[2017.11.12-06.53.08:808][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Generator_SMC717628F462C5FE37667898B4A043715.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Generator_SM.uasset'
+[2017.11.12-06.53.08:810][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Generator_SM.uasset
+[2017.11.12-06.53.08:833][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Ruins/SM_ChestBottom" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_ChestBottom.uasset" SILENT=true
+[2017.11.12-06.53.08:850][170]LogSavePackage: Save=15.67ms
+[2017.11.12-06.53.08:850][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/SM_ChestBottom1447CB394965704919CEBEBCB6DA49D1.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_ChestBottom.uasset'
+[2017.11.12-06.53.08:852][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_ChestBottom.uasset
+[2017.11.12-06.53.08:875][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Ruins/SM_ChestTop" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_ChestTop.uasset" SILENT=true
+[2017.11.12-06.53.08:893][170]LogSavePackage: Save=16.35ms
+[2017.11.12-06.53.08:893][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/SM_ChestTop473323804FAB71E5D19CC1B2623702D7.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_ChestTop.uasset'
+[2017.11.12-06.53.08:895][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_ChestTop.uasset
+[2017.11.12-06.53.08:918][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Ruins/SM_TowerElevator" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_TowerElevator.uasset" SILENT=true
+[2017.11.12-06.53.08:934][170]LogSavePackage: Save=14.94ms
+[2017.11.12-06.53.08:935][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/SM_TowerElevator1F6B02034553CE6BF02C35ACD8E6AE67.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_TowerElevator.uasset'
+[2017.11.12-06.53.08:937][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/SM_TowerElevator.uasset
+[2017.11.12-06.53.09:751][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/ForceField_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/ForceField_BP.uasset" SILENT=true
+[2017.11.12-06.53.09:783][170]LogSavePackage: Save=28.24ms
+[2017.11.12-06.53.09:783][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ForceField_BPFCFC159B47549B67D08F2B851B963818.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/ForceField_BP.uasset'
+[2017.11.12-06.53.09:786][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/ForceField_BP.uasset
+[2017.11.12-06.53.09:819][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Generator_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/Generator_BP.uasset" SILENT=true
+[2017.11.12-06.53.09:899][170]LogSavePackage: Save=75.27ms
+[2017.11.12-06.53.09:899][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Generator_BP68BE4EC8468D64A15C3F8091068DC4E6.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/Generator_BP.uasset'
+[2017.11.12-06.53.09:901][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/Generator_BP.uasset
+[2017.11.12-06.53.09:932][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/TreasureChest_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/TreasureChest_BP.uasset" SILENT=true
+[2017.11.12-06.53.10:039][170]LogSavePackage: Save=102.07ms
+[2017.11.12-06.53.10:039][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/TreasureChest_BP06950793403E30786C8A278BDA167BBD.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/TreasureChest_BP.uasset'
+[2017.11.12-06.53.10:041][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/TreasureChest_BP.uasset
+[2017.11.12-06.53.10:071][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_TowerElevator" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/BP_TowerElevator.uasset" SILENT=true
+[2017.11.12-06.53.10:159][170]LogSavePackage: Save=83.38ms
+[2017.11.12-06.53.10:159][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/BP_TowerElevator10212DFD4C0039DC3A72EFBA2BA18379.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/BP_TowerElevator.uasset'
+[2017.11.12-06.53.10:161][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/BP_TowerElevator.uasset
+[2017.11.12-06.53.10:460][170]LogSavePackage: Save=20.18ms
+[2017.11.12-06.53.10:460][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_TreasureChest32D33C484D3D98B45D947390E6A8174C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Materials/M_TreasureChest.uasset'
+[2017.11.12-06.53.10:462][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Materials/M_TreasureChest.uasset
+[2017.11.12-06.53.10:501][170]LogSavePackage: Save=13.79ms
+[2017.11.12-06.53.10:501][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_Interact_BlockoutD15413C3439EB9253C911BB3A35D1F0A.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Materials/M_Interact_Blockout.uasset'
+[2017.11.12-06.53.10:503][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Materials/M_Interact_Blockout.uasset
+[2017.11.12-06.53.10:507][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StaticMeshes/Materials/M_Interact_Blockout" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Materials/M_Interact_Blockout.uasset" SILENT=true
+[2017.11.12-06.53.10:512][170]LogSavePackage: Save=0.97ms
+[2017.11.12-06.53.10:512][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_Interact_Blockout3BE19A844507779779F7C8ACCDA53283.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Materials/M_Interact_Blockout.uasset'
+[2017.11.12-06.53.10:514][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Materials/M_Interact_Blockout.uasset
+[2017.11.12-06.53.11:250][170]LogSavePackage: Save=143.71ms
+[2017.11.12-06.53.11:250][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_TreasureChest_COLC114330A445D6F9856899ABD167F2FC2.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_COL.uasset'
+[2017.11.12-06.53.11:252][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_COL.uasset
+[2017.11.12-06.53.11:397][170]LogSavePackage: Save=121.41ms
+[2017.11.12-06.53.11:397][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_TreasureChest_NRME4523D2A48CCB2C7BC5000813D69BB27.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_NRM.uasset'
+[2017.11.12-06.53.11:399][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_NRM.uasset
+[2017.11.12-06.53.11:629][170]LogSavePackage: Save=206.11ms
+[2017.11.12-06.53.11:629][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_TreasureChest_RMAOCE65219941075CE1C244AAA0D9EB40CA.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_RMAO.uasset'
+[2017.11.12-06.53.11:631][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_RMAO.uasset
+[2017.11.12-06.53.11:673][170]LogSavePackage: Save=20.63ms
+[2017.11.12-06.53.11:674][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_TreasureChest_HGT69C39D194C80A3420D8C1F828DEDBCB0.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_HGT.uasset'
+[2017.11.12-06.53.11:676][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_HGT.uasset
+[2017.11.12-06.53.11:762][170]LogSavePackage: Save=69.27ms
+[2017.11.12-06.53.11:762][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_TreasureChest_MET9E6381B54AD4B9C386F5F3BAA78F75A1.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_MET.uasset'
+[2017.11.12-06.53.11:764][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_MET.uasset
+[2017.11.12-06.53.11:845][170]LogSavePackage: Save=62.93ms
+[2017.11.12-06.53.11:845][170]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_TreasureChest_RGH41838CC24D59CBA728FACE97D4F365DF.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_RGH.uasset'
+[2017.11.12-06.53.11:847][170]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StaticMeshes/Ruins/Textures/T_TreasureChest_RGH.uasset
+[2017.11.12-06.53.21:876][901]LogSavePackage: Save=93.32ms
+[2017.11.12-06.53.21:876][901]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Mirumijee_BPA5112D654000892A0FC88E918DC7FAF4.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.uasset'
+[2017.11.12-06.53.21:879][901]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.uasset
+[2017.11.12-06.53.21:987][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone1" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-06.53.22:758][901]LogSavePackage: Save=733.14ms
+[2017.11.12-06.53.22:758][901]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone1BE3BFEE84913D0EFB71129BF98B4FEEB.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap'
+[2017.11.12-06.53.22:760][901]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap
+[2017.11.12-06.53.22:762][901]LogFileHelpers: Saving map 'Ocean_Tower_Zone1' took 0.880
+[2017.11.12-06.55.57:538][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/Splash/EdSplash" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/Splash/EdSplash.uasset" SILENT=true
+[2017.11.12-06.55.57:552][621]LogSavePackage: Save=13.05ms
+[2017.11.12-06.55.57:552][621]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/EdSplash7064270540CCFA652F65C38B3A7557B8.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/Splash/EdSplash.uasset'
+[2017.11.12-06.55.57:554][621]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/Splash/EdSplash.uasset
+[2017.11.12-06.55.57:562][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/Splash/Splash" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/Splash/Splash.uasset" SILENT=true
+[2017.11.12-06.55.57:576][621]LogSavePackage: Save=12.69ms
+[2017.11.12-06.55.57:576][621]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/SplashDCE605F1471A6833D9B1BD9A419AB3D3.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/Splash/Splash.uasset'
+[2017.11.12-06.55.57:578][621]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/Splash/Splash.uasset
+[2017.11.12-06.56.25:944][819]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2017.11.12-06.56.50:869][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_BACK_HOVER" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_BACK_HOVER.uasset" SILENT=true
+[2017.11.12-06.56.50:874][602]LogSavePackage: Save=4.37ms
+[2017.11.12-06.56.50:874][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_BACK_HOVER4D420F704B848934203D2B8859529542.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_BACK_HOVER.uasset'
+[2017.11.12-06.56.50:876][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_BACK_HOVER.uasset
+[2017.11.12-06.56.50:882][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_BACK" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_BACK.uasset" SILENT=true
+[2017.11.12-06.56.50:887][602]LogSavePackage: Save=3.76ms
+[2017.11.12-06.56.50:887][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_BACK15C428804EB7AB610D110FAEEED60386.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_BACK.uasset'
+[2017.11.12-06.56.50:889][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_BACK.uasset
+[2017.11.12-06.56.50:898][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_960x540" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_960x540.uasset" SILENT=true
+[2017.11.12-06.56.50:903][602]LogSavePackage: Save=4.27ms
+[2017.11.12-06.56.50:903][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_960x5405698F2A9474C81D71CC96D955B5ED76E.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_960x540.uasset'
+[2017.11.12-06.56.50:905][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_960x540.uasset
+[2017.11.12-06.56.50:917][602]LogSavePackage: Save=4.52ms
+[2017.11.12-06.56.50:917][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_960x540_HOVERC2B77AC14C7CDD64778BED890C48B988.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_960x540_HOVER.uasset'
+[2017.11.12-06.56.50:919][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_960x540_HOVER.uasset
+[2017.11.12-06.56.50:935][602]LogSavePackage: Save=4.64ms
+[2017.11.12-06.56.50:935][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_1280x720_HOVER5FDCC0414BA4BE9049C7D79CF3A11CF9.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1280x720_HOVER.uasset'
+[2017.11.12-06.56.50:937][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1280x720_HOVER.uasset
+[2017.11.12-06.56.50:943][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_1280x720" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1280x720.uasset" SILENT=true
+[2017.11.12-06.56.50:948][602]LogSavePackage: Save=4.31ms
+[2017.11.12-06.56.50:948][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_1280x7208E4496B64B9507E063AF9C9E9D7C2D76.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1280x720.uasset'
+[2017.11.12-06.56.50:950][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1280x720.uasset
+[2017.11.12-06.56.50:956][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_1920x1080" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1920x1080.uasset" SILENT=true
+[2017.11.12-06.56.50:961][602]LogSavePackage: Save=4.35ms
+[2017.11.12-06.56.50:961][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_1920x1080E7503A554C107CBFC5E4B6B2D5C85EAC.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1920x1080.uasset'
+[2017.11.12-06.56.50:963][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1920x1080.uasset
+[2017.11.12-06.56.50:975][602]LogSavePackage: Save=4.63ms
+[2017.11.12-06.56.50:975][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_1920x1080_HOVERA430815D48DB9C8370FAC08A93C44141.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1920x1080_HOVER.uasset'
+[2017.11.12-06.56.50:977][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_1920x1080_HOVER.uasset
+[2017.11.12-06.56.50:986][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_QUIT" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_QUIT.uasset" SILENT=true
+[2017.11.12-06.56.50:991][602]LogSavePackage: Save=3.75ms
+[2017.11.12-06.56.50:992][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_QUITB1F33B784DB58423FDAA81B0E3B031CE.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_QUIT.uasset'
+[2017.11.12-06.56.50:993][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_QUIT.uasset
+[2017.11.12-06.56.51:002][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_QUIT_HOVER" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_QUIT_HOVER.uasset" SILENT=true
+[2017.11.12-06.56.51:008][602]LogSavePackage: Save=4.04ms
+[2017.11.12-06.56.51:008][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_QUIT_HOVERA618A2024FB374BD7E13789AB5F7AE8C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_QUIT_HOVER.uasset'
+[2017.11.12-06.56.51:009][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_QUIT_HOVER.uasset
+[2017.11.12-06.56.51:015][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_OPTIONS" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_OPTIONS.uasset" SILENT=true
+[2017.11.12-06.56.51:020][602]LogSavePackage: Save=4.23ms
+[2017.11.12-06.56.51:020][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_OPTIONSFD555A06479E8C03BE1A3EB53BFB2876.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_OPTIONS.uasset'
+[2017.11.12-06.56.51:022][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_OPTIONS.uasset
+[2017.11.12-06.56.51:034][602]LogSavePackage: Save=4.49ms
+[2017.11.12-06.56.51:034][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_OPTIONS_HOVERA7A982D34EA7EBF27D1217842637292E.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_OPTIONS_HOVER.uasset'
+[2017.11.12-06.56.51:036][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_OPTIONS_HOVER.uasset
+[2017.11.12-06.56.51:042][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_START" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_START.uasset" SILENT=true
+[2017.11.12-06.56.51:047][602]LogSavePackage: Save=4.51ms
+[2017.11.12-06.56.51:047][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_START3351014C43B645478856AE8A6EFCCE4D.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_START.uasset'
+[2017.11.12-06.56.51:049][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_START.uasset
+[2017.11.12-06.56.51:055][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Buttons/btn_START_HOVER" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_START_HOVER.uasset" SILENT=true
+[2017.11.12-06.56.51:061][602]LogSavePackage: Save=4.83ms
+[2017.11.12-06.56.51:061][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/btn_START_HOVER47E0E14243E8189502DE47A99473D1E4.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_START_HOVER.uasset'
+[2017.11.12-06.56.51:063][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Buttons/btn_START_HOVER.uasset
+[2017.11.12-06.56.53:022][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuWidget" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2017.11.12-06.56.53:272][602]LogSavePackage: Save=244.38ms
+[2017.11.12-06.56.53:272][602]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/MainMenuWidget49D0DD2E47ADE14D14EE9191D6555FB4.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/MainMenuWidget.uasset'
+[2017.11.12-06.56.53:274][602]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/MainMenuWidget.uasset
+[2017.11.12-06.56.59:296][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/1280x720_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/1280x720_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:301][ 13]LogSavePackage: Save=3.86ms
+[2017.11.12-06.56.59:301][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/1280x720_Button9FCB3C5C49951F4C9D87EABF7272B29E.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/1280x720_Button.uasset'
+[2017.11.12-06.56.59:303][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/1280x720_Button.uasset
+[2017.11.12-06.56.59:311][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/1920x1080_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/1920x1080_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:316][ 13]LogSavePackage: Save=3.82ms
+[2017.11.12-06.56.59:316][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/1920x1080_ButtonA902FE6549D542E0B0222899152B6BCC.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/1920x1080_Button.uasset'
+[2017.11.12-06.56.59:317][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/1920x1080_Button.uasset
+[2017.11.12-06.56.59:325][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/640x480_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/640x480_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:329][ 13]LogSavePackage: Save=3.68ms
+[2017.11.12-06.56.59:330][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/640x480_Button48F29567458FDD78D481D28997D49348.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/640x480_Button.uasset'
+[2017.11.12-06.56.59:331][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/640x480_Button.uasset
+[2017.11.12-06.56.59:339][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Back_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Back_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:344][ 13]LogSavePackage: Save=3.49ms
+[2017.11.12-06.56.59:344][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Back_Button55C8C31A4F80EBF96D1639A5267303D3.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Back_Button.uasset'
+[2017.11.12-06.56.59:345][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Back_Button.uasset
+[2017.11.12-06.56.59:362][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Hand_Icon" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Hand_Icon.uasset" SILENT=true
+[2017.11.12-06.56.59:371][ 13]LogSavePackage: Save=7.48ms
+[2017.11.12-06.56.59:371][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Hand_Icon28A669614E64FF66CB860B9E3397459C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Hand_Icon.uasset'
+[2017.11.12-06.56.59:373][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Hand_Icon.uasset
+[2017.11.12-06.56.59:383][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/MenuScreen" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/MenuScreen.uasset" SILENT=true
+[2017.11.12-06.56.59:405][ 13]LogSavePackage: Save=20.85ms
+[2017.11.12-06.56.59:405][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/MenuScreen4648F2F940EF696B5A0BD7BF21D534C9.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/MenuScreen.uasset'
+[2017.11.12-06.56.59:407][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/MenuScreen.uasset
+[2017.11.12-06.56.59:415][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Options_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Options_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:420][ 13]LogSavePackage: Save=3.65ms
+[2017.11.12-06.56.59:420][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Options_ButtonEEBD5F6A4A5D918AFFA933890D4E0A64.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Options_Button.uasset'
+[2017.11.12-06.56.59:421][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Options_Button.uasset
+[2017.11.12-06.56.59:433][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Options_MenuFULL" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Options_MenuFULL.uasset" SILENT=true
+[2017.11.12-06.56.59:439][ 13]LogSavePackage: Save=4.88ms
+[2017.11.12-06.56.59:439][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Options_MenuFULLEC55E0894A0070C01433F2A2706F73B9.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Options_MenuFULL.uasset'
+[2017.11.12-06.56.59:441][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Options_MenuFULL.uasset
+[2017.11.12-06.56.59:452][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/Quit_MenuFULL" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Quit_MenuFULL.uasset" SILENT=true
+[2017.11.12-06.56.59:458][ 13]LogSavePackage: Save=4.76ms
+[2017.11.12-06.56.59:458][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Quit_MenuFULL05A43BAD460DD4BE0ED297B325803ECC.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Quit_MenuFULL.uasset'
+[2017.11.12-06.56.59:460][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/Quit_MenuFULL.uasset
+[2017.11.12-06.56.59:467][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/QuitGame_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/QuitGame_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:472][ 13]LogSavePackage: Save=3.65ms
+[2017.11.12-06.56.59:472][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/QuitGame_Button1438EDAF4908FDD9291F1E9A3E1FEA1F.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/QuitGame_Button.uasset'
+[2017.11.12-06.56.59:474][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/QuitGame_Button.uasset
+[2017.11.12-06.56.59:485][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/QuitGame_MenuFULL" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/QuitGame_MenuFULL.uasset" SILENT=true
+[2017.11.12-06.56.59:491][ 13]LogSavePackage: Save=5.13ms
+[2017.11.12-06.56.59:491][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/QuitGame_MenuFULL96FDDBEA48FC3A9777C92189C3934521.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/QuitGame_MenuFULL.uasset'
+[2017.11.12-06.56.59:493][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/QuitGame_MenuFULL.uasset
+[2017.11.12-06.56.59:501][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/StartGame_Button" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/StartGame_Button.uasset" SILENT=true
+[2017.11.12-06.56.59:506][ 13]LogSavePackage: Save=4.33ms
+[2017.11.12-06.56.59:506][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/StartGame_ButtonCC05C34643FC8CD5BBE517A858DA86FD.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/StartGame_Button.uasset'
+[2017.11.12-06.56.59:508][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/StartGame_Button.uasset
+[2017.11.12-06.56.59:519][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MenuAssets/TempMenu/StartGame_MenuFULL" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/StartGame_MenuFULL.uasset" SILENT=true
+[2017.11.12-06.56.59:526][ 13]LogSavePackage: Save=5.16ms
+[2017.11.12-06.56.59:526][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/StartGame_MenuFULL898CBA42411807EB63CE2E8615F2A790.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/StartGame_MenuFULL.uasset'
+[2017.11.12-06.56.59:528][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/MenuAssets/TempMenu/StartGame_MenuFULL.uasset
+[2017.11.12-06.57.01:384][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenuWidget" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/MainMenuWidget.uasset" SILENT=true
+[2017.11.12-06.57.01:627][ 13]LogSavePackage: Save=238.69ms
+[2017.11.12-06.57.01:627][ 13]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/MainMenuWidgetAEB648E34A45DFE676F271947F728339.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/MainMenuWidget.uasset'
+[2017.11.12-06.57.01:629][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/MainMenuWidget.uasset
+[2017.11.12-06.58.30:342][702]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Dropbox/_GameDev/Project_Content/Megaman_Legends_REDUX/3D/MAYA/MegamanProject_MAYA3D/assets/Megaman_Test_Mesh.fbx)
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: Geometry, ItemCount : 72
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: Material, ItemCount : 3
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: Implementation, ItemCount : 3
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: BindingTable, ItemCount : 3
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: Texture, ItemCount : 15
+[2017.11.12-06.58.30:381][702]LogFbx: ItemName: Model, ItemCount : 72
+[2017.11.12-06.58.30:382][702]LogFbx: ItemName: CollectionExclusive, ItemCount : 1
+[2017.11.12-06.58.30:382][702]LogFbx: ItemName: Video, ItemCount : 15
+[2017.11.12-06.58.30:391][702]LogFbx: Loading FBX Scene from ../../../../../../Dropbox/_GameDev/Project_Content/Megaman_Legends_REDUX/3D/MAYA/MegamanProject_MAYA3D/assets/Megaman_Test_Mesh.fbx
+[2017.11.12-06.58.30:565][702]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.12-06.58.39:200][702]LogFbx: Loading FBX Scene from ../../../../../../Dropbox/_GameDev/Project_Content/Megaman_Legends_REDUX/3D/MAYA/MegamanProject_MAYA3D/assets/Megaman_Test_Mesh.fbx
+[2017.11.12-06.58.39:375][702]LogFbx: FBX Scene Loaded Succesfully
+[2017.11.12-06.58.39:383][702]LogLinker: Can't find file '/Game/Megaman/M_HeadBodyHands'
+[2017.11.12-06.58.39:384][702]LogLinker: Can't find file '/Game/Megaman/M_HeadBodyHands'
+[2017.11.12-06.58.39:391][702]LogMaterial: Missing cached shader map for material M_HeadBodyHands, compiling. 
+[2017.11.12-06.58.39:468][702]LogFbx: Warning: Triangulating static mesh Head
+[2017.11.12-06.58.39:787][702]LogFbx: Warning: Triangulating static mesh LowerTeeth
+[2017.11.12-06.58.39:792][702]LogFbx: Warning: Triangulating static mesh Tongue
+[2017.11.12-06.58.39:813][702]LogLinker: Can't find file '/Game/Megaman/M_HairEyes'
+[2017.11.12-06.58.39:813][702]LogLinker: Can't find file '/Game/Megaman/M_HairEyes'
+[2017.11.12-06.58.39:820][702]LogMaterial: Missing cached shader map for material M_HairEyes, compiling. 
+[2017.11.12-06.58.39:869][702]LogFbx: Warning: Triangulating static mesh L_Brow
+[2017.11.12-06.58.39:870][702]LogFbx: Warning: Triangulating static mesh UpperTeeth
+[2017.11.12-06.58.39:875][702]LogFbx: Warning: Triangulating static mesh Abdomen
+[2017.11.12-06.58.39:887][702]LogFbx: Warning: Triangulating static mesh Pelvis
+[2017.11.12-06.58.39:934][702]LogFbx: Warning: Triangulating static mesh LowerChestPlate
+[2017.11.12-06.58.39:960][702]LogFbx: Warning: Triangulating static mesh ChestPlate
+[2017.11.12-06.58.40:016][702]LogFbx: Warning: Triangulating static mesh UpperChestPlate
+[2017.11.12-06.58.40:039][702]LogFbx: Warning: Triangulating static mesh R_Brow
+[2017.11.12-06.58.40:057][702]LogLinker: Can't find file '/Game/Megaman/M_ArmsLegs'
+[2017.11.12-06.58.40:059][702]LogLinker: Can't find file '/Game/Megaman/M_ArmsLegs'
+[2017.11.12-06.58.40:091][702]LogMaterial: Missing cached shader map for material M_ArmsLegs, compiling. 
+[2017.11.12-06.58.40:142][702]LogFbx: Warning: Triangulating static mesh R_Wrist
+[2017.11.12-06.58.40:147][702]LogFbx: Warning: Triangulating static mesh R_Forearm
+[2017.11.12-06.58.40:164][702]LogFbx: Warning: Triangulating static mesh R_UpperArm
+[2017.11.12-06.58.40:172][702]LogFbx: Warning: Triangulating static mesh R_Elbow
+[2017.11.12-06.58.40:200][702]LogFbx: Warning: Triangulating static mesh R_Hand
+[2017.11.12-06.58.40:653][702]LogFbx: Warning: Triangulating static mesh pCube20
+[2017.11.12-06.58.40:666][702]LogFbx: Warning: Triangulating static mesh R_LowerLeg
+[2017.11.12-06.58.40:720][702]LogFbx: Warning: Triangulating static mesh R_Foot
+[2017.11.12-06.58.40:768][702]LogFbx: Warning: Triangulating static mesh R_UpperLeg
+[2017.11.12-06.58.40:782][702]LogFbx: Warning: Triangulating static mesh R_Hip
+[2017.11.12-06.58.40:809][702]LogFbx: Warning: Triangulating static mesh R_Shoulder
+[2017.11.12-06.58.40:859][702]LogFbx: Warning: Triangulating static mesh R_Clavicle
+[2017.11.12-06.58.40:880][702]LogFbx: Warning: Triangulating static mesh L_Knee
+[2017.11.12-06.58.40:885][702]LogFbx: Warning: Triangulating static mesh L_Wrist
+[2017.11.12-06.58.40:892][702]LogFbx: Warning: Triangulating static mesh L_Hip
+[2017.11.12-06.58.40:919][702]LogFbx: Warning: Triangulating static mesh L_LowerLeg
+[2017.11.12-06.58.40:962][702]LogFbx: Warning: Triangulating static mesh L_Shoulder
+[2017.11.12-06.58.41:015][702]LogFbx: Warning: Triangulating static mesh L_UpperArm
+[2017.11.12-06.58.41:024][702]LogFbx: Warning: Triangulating static mesh L_Forearm
+[2017.11.12-06.58.41:046][702]LogFbx: Warning: Triangulating static mesh L_Foot
+[2017.11.12-06.58.41:094][702]LogFbx: Warning: Triangulating static mesh L_UpperLeg
+[2017.11.12-06.58.41:112][702]LogFbx: Warning: Triangulating static mesh L_Elbow
+[2017.11.12-06.58.41:152][702]LogFbx: Warning: Triangulating static mesh L_Hand
+[2017.11.12-06.58.41:640][702]LogFbx: Warning: Triangulating static mesh L_Clavicle
+[2017.11.12-06.58.41:663][702]LogFbx: Warning: Triangulating static mesh HairStrand_01
+[2017.11.12-06.58.41:668][702]LogFbx: Warning: Triangulating static mesh HairStrand_02
+[2017.11.12-06.58.41:673][702]LogFbx: Warning: Triangulating static mesh HairStrand_03
+[2017.11.12-06.58.41:678][702]LogFbx: Warning: Triangulating static mesh HairStrand_04
+[2017.11.12-06.58.41:683][702]LogFbx: Warning: Triangulating static mesh HairStrand_05
+[2017.11.12-06.58.41:688][702]LogFbx: Warning: Triangulating static mesh HairStrand_06
+[2017.11.12-06.58.41:692][702]LogFbx: Warning: Triangulating static mesh HairStrand_07
+[2017.11.12-06.58.41:697][702]LogFbx: Warning: Triangulating static mesh HairStrand_08
+[2017.11.12-06.58.41:702][702]LogFbx: Warning: Triangulating static mesh HairStrand_09
+[2017.11.12-06.58.41:706][702]LogFbx: Warning: Triangulating static mesh HairStrand_010
+[2017.11.12-06.58.41:710][702]LogFbx: Warning: Triangulating static mesh HairStrand_011
+[2017.11.12-06.58.41:715][702]LogFbx: Warning: Triangulating static mesh HairStrand_012
+[2017.11.12-06.58.41:720][702]LogFbx: Warning: Triangulating static mesh HairStrand_013
+[2017.11.12-06.58.41:725][702]LogFbx: Warning: Triangulating static mesh HairStrand_014
+[2017.11.12-06.58.41:735][702]LogFbx: Warning: Triangulating static mesh HairStrand_015
+[2017.11.12-06.58.41:742][702]LogFbx: Warning: Triangulating static mesh HairStrand_016
+[2017.11.12-06.58.41:748][702]LogFbx: Warning: Triangulating static mesh HairStrand_017
+[2017.11.12-06.58.41:753][702]LogFbx: Warning: Triangulating static mesh HairStrand_018
+[2017.11.12-06.58.41:758][702]LogFbx: Warning: Triangulating static mesh Mullet01
+[2017.11.12-06.58.41:762][702]LogFbx: Warning: Triangulating static mesh HairStrand_019
+[2017.11.12-06.58.41:771][702]LogFbx: Warning: Triangulating static mesh HairStrand_020
+[2017.11.12-06.58.41:775][702]LogFbx: Warning: Triangulating static mesh HairStrand_021
+[2017.11.12-06.58.41:780][702]LogFbx: Warning: Triangulating static mesh Mullet02
+[2017.11.12-06.58.41:795][702]LogFbx: Warning: Triangulating static mesh Mullet03
+[2017.11.12-06.58.41:800][702]LogFbx: Warning: Triangulating static mesh HairStrand_022
+[2017.11.12-06.58.41:809][702]LogFbx: Warning: Triangulating static mesh HairStrand_023
+[2017.11.12-06.58.41:817][702]LogFbx: Warning: Triangulating static mesh HairStrand_024
+[2017.11.12-06.58.41:825][702]LogFbx: Warning: Triangulating static mesh Mullet04
+[2017.11.12-06.58.41:829][702]LogFbx: Warning: Triangulating static mesh HairStrand_025
+[2017.11.12-06.58.41:838][702]LogFbx: Warning: Triangulating static mesh HairStrand_026
+[2017.11.12-06.58.41:845][702]LogFbx: Warning: Triangulating static mesh HairStrand_027
+[2017.11.12-06.58.41:850][702]LogFbx: Warning: Triangulating static mesh HairStrand_028
+[2017.11.12-06.58.41:854][702]LogFbx: Warning: Triangulating static mesh HairStrand_029
+[2017.11.12-06.58.41:861][702]LogFbx: Warning: Triangulating static mesh HairStrand_030
+[2017.11.12-06.58.41:872][702]LogFbx: Warning: Triangulating static mesh HairCap
+[2017.11.12-06.58.42:279][702]LogStaticMesh: Building static mesh Megaman_Test_Mesh...
+[2017.11.12-06.58.43:883][702]LogStaticMesh: Built static mesh [1.60s] /Game/Megaman/Megaman_Test_Mesh.Megaman_Test_Mesh
+[2017.11.12-06.58.56:313][195]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.12-06.59.54:127][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megaman/Megaman_Test_Mesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Megaman_Test_Mesh.uasset" SILENT=true
+[2017.11.12-06.59.54:152][ 50]LogSavePackage: Save=23.43ms
+[2017.11.12-06.59.54:152][ 50]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Megaman_Test_Mesh6C98FAA0411CC95C7B59D3A9E4181EDB.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Megaman_Test_Mesh.uasset'
+[2017.11.12-06.59.54:154][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Megaman_Test_Mesh.uasset
+[2017.11.12-06.59.54:177][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megaman/M_HeadBodyHands" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_HeadBodyHands.uasset" SILENT=true
+[2017.11.12-06.59.54:193][ 50]LogSavePackage: Save=14.26ms
+[2017.11.12-06.59.54:193][ 50]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_HeadBodyHands4E5DDB7F474864EC66AD89B4E2A72363.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_HeadBodyHands.uasset'
+[2017.11.12-06.59.54:195][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_HeadBodyHands.uasset
+[2017.11.12-06.59.54:217][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megaman/M_HairEyes" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_HairEyes.uasset" SILENT=true
+[2017.11.12-06.59.54:232][ 50]LogSavePackage: Save=14.32ms
+[2017.11.12-06.59.54:232][ 50]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_HairEyes6DA79456489ACEA519E683B1B44C16B7.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_HairEyes.uasset'
+[2017.11.12-06.59.54:234][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_HairEyes.uasset
+[2017.11.12-06.59.54:257][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megaman/M_ArmsLegs" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_ArmsLegs.uasset" SILENT=true
+[2017.11.12-06.59.54:272][ 50]LogSavePackage: Save=14.39ms
+[2017.11.12-06.59.54:272][ 50]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_ArmsLegs1F3038DC4EA14D4BCF092A82D0EABD28.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_ArmsLegs.uasset'
+[2017.11.12-06.59.54:274][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/M_ArmsLegs.uasset
+[2017.11.12-07.00.25:463][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megaman/Mesh/Megaman_Test_Mesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_Test_Mesh.uasset" SILENT=true
+[2017.11.12-07.00.25:487][247]LogSavePackage: Save=23.22ms
+[2017.11.12-07.00.25:487][247]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Megaman_Test_MeshC683580941BCC2AB0BA98D9E1C1C6CB8.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_Test_Mesh.uasset'
+[2017.11.12-07.00.25:489][247]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_Test_Mesh.uasset
+[2017.11.12-07.00.25:515][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Megaman/Mesh/Megaman_UE4_TempRig" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_UE4_TempRig.uasset" SILENT=true
+[2017.11.12-07.00.25:641][247]LogSavePackage: Save=125.04ms
+[2017.11.12-07.00.25:642][247]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Megaman_UE4_TempRigD8D4027140F426644EB475AC32C8AA8B.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_UE4_TempRig.uasset'
+[2017.11.12-07.00.25:644][247]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_UE4_TempRig.uasset
+[2017.11.12-07.00.25:695][247]LogSavePackage: Save=24.99ms
+[2017.11.12-07.00.25:696][247]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Megaman_UE4_TempRig_PhysicsAsset2E6AB9DD441C22FC05D2AB99B3B843B2.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_UE4_TempRig_PhysicsAsset.uasset'
+[2017.11.12-07.00.25:697][247]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Megaman/Mesh/Megaman_UE4_TempRig_PhysicsAsset.uasset
+[2017.11.12-07.00.26:361][247]LogSavePackage: Save=86.93ms
+[2017.11.12-07.00.26:361][247]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ThirdPersonCharacter4635CAB8490F1C24C4249C98DFA41DC9.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2017.11.12-07.00.26:363][247]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2017.11.12-07.00.26:374][247]LogSavePackage: Save=2.38ms
+[2017.11.12-07.00.26:374][247]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/UE4_Mannequin_Skeleton6F06E13B45ECB574BB6A9A89E8249170.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2017.11.12-07.00.26:376][247]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2017.11.12-07.01.15:555][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Main" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-07.01.15:962][183]LogSavePackage: Save=363.54ms
+[2017.11.12-07.01.15:962][183]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Main802A778547536BF19ED2E48668A1DFEC.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap'
+[2017.11.12-07.01.15:965][183]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap
+[2017.11.12-07.01.15:988][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Main_BuiltData" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main_BuiltData.uasset" SILENT=true
+[2017.11.12-07.01.16:385][183]LogSavePackage: Save=386.18ms
+[2017.11.12-07.01.16:385][183]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Main_BuiltData3B3A715346BDD0CBCB8374BAA5287632.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main_BuiltData.uasset'
+[2017.11.12-07.01.16:387][183]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main_BuiltData.uasset
+[2017.11.12-07.04.56:303][582]LogSavePackage: Save=17.55ms
+[2017.11.12-07.04.56:303][582]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BlockOut_SM5A9B05624CFFA62C46BF76B83E2EC791.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Mesh/HanmuruDoll_BlockOut_SM.uasset'
+[2017.11.12-07.04.56:305][582]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Mesh/HanmuruDoll_BlockOut_SM.uasset
+[2017.11.12-07.04.56:686][582]LogSavePackage: Save=47.23ms
+[2017.11.12-07.04.56:686][582]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BP31F8D12F4E97400571F85FB1107CA8BB.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.uasset'
+[2017.11.12-07.04.56:688][582]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.uasset
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:612][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:HanmuruHealth' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:HanmuruHealth' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:ExecuteUbergraph_HanmuruDoll_BP' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:613][832]LogMetaData: Removing '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.04.59:746][832]LogSavePackage: Save=53.44ms
+[2017.11.12-07.04.59:746][832]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BP18FD20C9412E5344F55748977FF0C868.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset'
+[2017.11.12-07.04.59:748][832]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset
+[2017.11.12-07.04.59:758][832]LogSavePackage: Save=1.13ms
+[2017.11.12-07.04.59:758][832]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BP167F90ED47F5867AFEB44C863703647D.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.uasset'
+[2017.11.12-07.04.59:759][832]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/HanmuruDoll_BP.uasset
+[2017.11.12-07.05.05:561][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone2" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-07.05.06:760][337]LogSavePackage: Save=1157.32ms
+[2017.11.12-07.05.06:760][337]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone234DEE9284DAB717082B48CBD3909E0E4.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap'
+[2017.11.12-07.05.06:762][337]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap
+[2017.11.12-07.05.06:765][337]LogFileHelpers: Saving map 'Ocean_Tower_Zone2' took 1.317
+[2017.11.12-07.05.17:138][106]LogSavePackage: Save=47.08ms
+[2017.11.12-07.05.17:138][106]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BP27AD1BBB42FEA95E8F39A9A5F4DA037F.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset'
+[2017.11.12-07.05.17:140][106]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset
+[2017.11.12-07.06.14:730][ 86]LogSavePackage: Save=18.46ms
+[2017.11.12-07.06.14:730][ 86]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BlockOut_SMF7D090D6498580F8332961AA92056864.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Mesh/Cannam_BlockOut_SM.uasset'
+[2017.11.12-07.06.14:732][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Mesh/Cannam_BlockOut_SM.uasset
+[2017.11.12-07.06.15:056][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Characters/Cannam/Cannam_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Cannam_BP.uasset" SILENT=true
+[2017.11.12-07.06.15:108][ 86]LogSavePackage: Save=47.25ms
+[2017.11.12-07.06.15:108][ 86]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BP3E3A646845A6D66CF4CE9E83EC673B15.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Cannam_BP.uasset'
+[2017.11.12-07.06.15:110][ 86]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Cannam_BP.uasset
+[2017.11.12-07.06.18:054][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:054][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:054][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:054][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:054][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:BndEvt__CannamCollider_K2Node_ComponentBoundEvent_5_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:CannamHP' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:CannamCollider' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:CannamHP' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:CannamCollider' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:ExecuteUbergraph_Cannam_BP' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:055][335]LogMetaData: Removing '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:BndEvt__CannamCollider_K2Node_ComponentBoundEvent_5_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Cannam_BP.PackageMetaData'
+[2017.11.12-07.06.18:187][335]LogSavePackage: Save=53.44ms
+[2017.11.12-07.06.18:187][335]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BP8A7301374835278A6A8DEC920CF9EA2A.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.uasset'
+[2017.11.12-07.06.18:188][335]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.uasset
+[2017.11.12-07.06.18:193][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Characters/Cannam/Cannam_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Cannam_BP.uasset" SILENT=true
+[2017.11.12-07.06.18:199][335]LogSavePackage: Save=1.24ms
+[2017.11.12-07.06.18:199][335]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BP7C1E92CD49A0B8912ABB54B298DA2432.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Cannam_BP.uasset'
+[2017.11.12-07.06.18:201][335]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Cannam_BP.uasset
+[2017.11.12-07.06.22:075][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone2" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-07.06.23:271][652]LogSavePackage: Save=1154.10ms
+[2017.11.12-07.06.23:271][652]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone2049CD3094F0D84E8DF0B0C82BA545515.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap'
+[2017.11.12-07.06.23:272][652]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap
+[2017.11.12-07.06.23:276][652]LogFileHelpers: Saving map 'Ocean_Tower_Zone2' took 1.312
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:BndEvt__CannamCollider_K2Node_ComponentBoundEvent_5_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:ExecuteUbergraph_Cannam_BP' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:CannamCollider' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:CannamHP' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:BndEvt__CannamCollider_K2Node_ComponentBoundEvent_5_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:CannamHP' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:373][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:CannamCollider' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:374][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.SKEL_Cannam_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:374][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:374][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:374][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:374][113]LogMetaData: Removing '/Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.PackageMetaData'
+[2017.11.12-07.07.12:451][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Cannam/Mesh/Cannam_BlockOut_SM" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Mesh/Cannam_BlockOut_SM.uasset" SILENT=true
+[2017.11.12-07.07.12:471][113]LogSavePackage: Save=18.38ms
+[2017.11.12-07.07.12:471][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BlockOut_SM4F9D6F6A4B39F44B168327B2C733A6DA.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Mesh/Cannam_BlockOut_SM.uasset'
+[2017.11.12-07.07.12:473][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Mesh/Cannam_BlockOut_SM.uasset
+[2017.11.12-07.07.12:499][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Cannam/Blueprints/Cannam_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Blueprints/Cannam_BP.uasset" SILENT=true
+[2017.11.12-07.07.12:553][113]LogSavePackage: Save=52.78ms
+[2017.11.12-07.07.12:553][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BPA3A0347848E6FD4FE09425A93C13B90C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Blueprints/Cannam_BP.uasset'
+[2017.11.12-07.07.12:555][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Blueprints/Cannam_BP.uasset
+[2017.11.12-07.07.12:565][113]LogSavePackage: Save=1.12ms
+[2017.11.12-07.07.12:565][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BPA7A7DE854C41F792390B50A10141680A.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.uasset'
+[2017.11.12-07.07.12:566][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Cannam/Blueprints/Cannam_BP.uasset
+[2017.11.12-07.07.12:948][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:ExecuteUbergraph_HanmuruDoll_BP' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:HanmuruHealth' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:HanmuruHealth' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.SKEL_HanmuruDoll_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.12:949][113]LogMetaData: Removing '/Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.PackageMetaData'
+[2017.11.12-07.07.13:043][113]LogSavePackage: Save=17.23ms
+[2017.11.12-07.07.13:043][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BlockOut_SM95C34E33490550B839C7DABA5BFEB126.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/HanmuruDoll/Mesh/HanmuruDoll_BlockOut_SM.uasset'
+[2017.11.12-07.07.13:045][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/HanmuruDoll/Mesh/HanmuruDoll_BlockOut_SM.uasset
+[2017.11.12-07.07.13:125][113]LogSavePackage: Save=53.17ms
+[2017.11.12-07.07.13:125][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BP71BE80B5409752FBD12AFDB160F74655.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset'
+[2017.11.12-07.07.13:127][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset
+[2017.11.12-07.07.13:137][113]LogSavePackage: Save=1.10ms
+[2017.11.12-07.07.13:137][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BP42DE52C94FC214F8B96F2B8A4057F168.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset'
+[2017.11.12-07.07.13:138][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:MirumijeeHealth' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:MirumijeeFALL' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:Mirumijee_ROOT' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:Mirumijee_Transform' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:StaticMeshComponent01' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:StaticMeshComponent02' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:StaticMeshComponent03' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:StaticMeshComponent0' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:ExecuteUbergraph_Mirumijee_BP' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:505][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_1_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:MirumijeeHealth' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:MirumijeeFALL' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:Mirumijee_ROOT' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:Mirumijee_Transform' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:StaticMeshComponent01' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:StaticMeshComponent02' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:StaticMeshComponent03' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:StaticMeshComponent0' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:506][113]LogMetaData: Removing '/Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.SKEL_Mirumijee_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.PackageMetaData'
+[2017.11.12-07.07.13:758][113]LogSavePackage: Save=107.51ms
+[2017.11.12-07.07.13:758][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Mirumijee_BP413DA38F42C923BE0DB7A7A731B2A21D.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.uasset'
+[2017.11.12-07.07.13:760][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.uasset
+[2017.11.12-07.07.13:771][113]LogSavePackage: Save=1.14ms
+[2017.11.12-07.07.13:771][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Mirumijee_BP265267CC44492DBEA3D1B1AB776FA9C8.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.uasset'
+[2017.11.12-07.07.13:773][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Mirumijee/Blueprints/Mirumijee_BP.uasset
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:ReceiveBeginPlay' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:ReceiveTick' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:isDestroyed' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:ZakobonHealth' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.SKEL_Zakobon_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:isDestroyed' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:ZakobonHealth' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:Capsule' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:UserConstructionScript' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:ExecuteUbergraph_Zakobon_BP' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.13:979][113]LogMetaData: Removing '/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:BndEvt__Capsule_K2Node_ComponentBoundEvent_0_ComponentHitSignature__DelegateSignature' ref from Metadata '/Game/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.PackageMetaData'
+[2017.11.12-07.07.14:063][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Textures/T_Zakobon_AO" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_AO.uasset" SILENT=true
+[2017.11.12-07.07.14:094][113]LogSavePackage: Save=29.19ms
+[2017.11.12-07.07.14:094][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_Zakobon_AOF24BFB954B3F252FE22454B0682717C7.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_AO.uasset'
+[2017.11.12-07.07.14:096][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_AO.uasset
+[2017.11.12-07.07.14:112][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Textures/T_Zakobon_COL" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_COL.uasset" SILENT=true
+[2017.11.12-07.07.14:236][113]LogSavePackage: Save=122.82ms
+[2017.11.12-07.07.14:236][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_Zakobon_COL9A8E770B4F48D76DE6623AA40E48E63F.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_COL.uasset'
+[2017.11.12-07.07.14:238][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_COL.uasset
+[2017.11.12-07.07.14:248][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Textures/T_Zakobon_OPA" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_OPA.uasset" SILENT=true
+[2017.11.12-07.07.14:262][113]LogSavePackage: Save=12.49ms
+[2017.11.12-07.07.14:262][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_Zakobon_OPA6745A6554179C4DAD0CF80B669839190.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_OPA.uasset'
+[2017.11.12-07.07.14:264][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_OPA.uasset
+[2017.11.12-07.07.14:306][113]LogSavePackage: Save=17.35ms
+[2017.11.12-07.07.14:306][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/M_Zakobon_EyeGlassCCA35C284FD4DBD6AEC6E7A2D1D2E7B6.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Materials/M_Zakobon_EyeGlass.uasset'
+[2017.11.12-07.07.14:308][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Materials/M_Zakobon_EyeGlass.uasset
+[2017.11.12-07.07.14:318][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Textures/T_Zakobon_EMS" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_EMS.uasset" SILENT=true
+[2017.11.12-07.07.14:329][113]LogSavePackage: Save=9.77ms
+[2017.11.12-07.07.14:329][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_Zakobon_EMS03F9772B47E95B58A77B5BBA4C732ABB.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_EMS.uasset'
+[2017.11.12-07.07.14:331][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_EMS.uasset
+[2017.11.12-07.07.14:348][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Textures/T_Zakobon_NRM" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_NRM.uasset" SILENT=true
+[2017.11.12-07.07.14:461][113]LogSavePackage: Save=112.01ms
+[2017.11.12-07.07.14:461][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_Zakobon_NRM13D6A5A342519B2049A00E9F1E09A224.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_NRM.uasset'
+[2017.11.12-07.07.14:463][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_NRM.uasset
+[2017.11.12-07.07.14:480][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Textures/T_Zakobon_RGH" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_RGH.uasset" SILENT=true
+[2017.11.12-07.07.14:575][113]LogSavePackage: Save=92.74ms
+[2017.11.12-07.07.14:575][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/T_Zakobon_RGH3D663CA4494867AAF9C25D9112815D83.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_RGH.uasset'
+[2017.11.12-07.07.14:577][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Textures/T_Zakobon_RGH.uasset
+[2017.11.12-07.07.14:601][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Materials/Zakobon_MAT" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Materials/Zakobon_MAT.uasset" SILENT=true
+[2017.11.12-07.07.14:623][113]LogSavePackage: Save=20.61ms
+[2017.11.12-07.07.14:623][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Zakobon_MAT8AA183BD49B569AB7773C594B40B16B7.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Materials/Zakobon_MAT.uasset'
+[2017.11.12-07.07.14:624][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Materials/Zakobon_MAT.uasset
+[2017.11.12-07.07.14:715][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Mesh/Zakobon" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Mesh/Zakobon.uasset" SILENT=true
+[2017.11.12-07.07.14:733][113]LogSavePackage: Save=17.37ms
+[2017.11.12-07.07.14:733][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Zakobon49F9009444C6982155B1608B51E8EF92.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Mesh/Zakobon.uasset'
+[2017.11.12-07.07.14:735][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Mesh/Zakobon.uasset
+[2017.11.12-07.07.14:759][113]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Bluprints/Zakobon_BP.uasset" SILENT=true
+[2017.11.12-07.07.14:816][113]LogSavePackage: Save=56.03ms
+[2017.11.12-07.07.14:816][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Zakobon_BP5B2B076541DAE4B400BFD9B9D7345F05.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Bluprints/Zakobon_BP.uasset'
+[2017.11.12-07.07.14:818][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Bluprints/Zakobon_BP.uasset
+[2017.11.12-07.07.14:828][113]LogSavePackage: Save=1.11ms
+[2017.11.12-07.07.14:828][113]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Zakobon_BPD8BFCA50455982E297EF84B036ABC246.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.uasset'
+[2017.11.12-07.07.14:830][113]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Characters/Zakobon/Bluprints/Zakobon_BP.uasset
+[2017.11.12-07.07.35:380][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone2" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-07.07.36:577][935]LogSavePackage: Save=1156.20ms
+[2017.11.12-07.07.36:577][935]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone2FC8DFBB6468B51F0AC5FD2A8A70A41AD.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap'
+[2017.11.12-07.07.36:579][935]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone2.umap
+[2017.11.12-07.07.36:582][935]LogFileHelpers: Saving map 'Ocean_Tower_Zone2' took 1.316
+[2017.11.12-07.07.36:617][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BoobyTrap_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/BoobyTrap_BP.uasset" SILENT=true
+[2017.11.12-07.07.36:739][935]LogSavePackage: Save=117.19ms
+[2017.11.12-07.07.36:739][935]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/BoobyTrap_BP2B9EEEF04E637CF38646B9A64494E59C.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/BoobyTrap_BP.uasset'
+[2017.11.12-07.07.36:741][935]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Blueprints/BoobyTrap_BP.uasset
+[2017.11.12-07.07.36:853][935]LogSavePackage: Save=37.46ms
+[2017.11.12-07.07.36:853][935]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ThirdPersonGameMode958284324F4C5C65FBA577B6D01901C3.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2017.11.12-07.07.36:854][935]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2017.11.12-07.07.36:970][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Zone1" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-07.07.37:719][935]LogSavePackage: Save=707.52ms
+[2017.11.12-07.07.37:719][935]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Zone19D97103D45B65FDF033A49BB002D0C9D.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap'
+[2017.11.12-07.07.37:721][935]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Zone1.umap
+[2017.11.12-07.07.37:722][935]LogFileHelpers: Saving map 'Ocean_Tower_Zone1' took 0.864
+[2017.11.12-07.10.20:069][567]LogSavePackage: Save=46.89ms
+[2017.11.12-07.10.20:069][567]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/HanmuruDoll_BPCF5ACE35498409F9F4E795A342F9B695.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset'
+[2017.11.12-07.10.20:071][567]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.uasset
+[2017.11.12-07.10.20:096][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Cannam/Blueprints/Cannam_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Blueprints/Cannam_BP.uasset" SILENT=true
+[2017.11.12-07.10.20:147][567]LogSavePackage: Save=46.39ms
+[2017.11.12-07.10.20:147][567]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Cannam_BP700E5AC541A51B08C4C943BE5DB6C2D6.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Blueprints/Cannam_BP.uasset'
+[2017.11.12-07.10.20:149][567]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Cannam/Blueprints/Cannam_BP.uasset
+[2017.11.12-07.10.20:172][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Bluprints/Zakobon_BP.uasset" SILENT=true
+[2017.11.12-07.10.20:226][567]LogSavePackage: Save=49.78ms
+[2017.11.12-07.10.20:226][567]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Zakobon_BP2D659DB7484D4C6D02C72EB87FD7E9DE.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Bluprints/Zakobon_BP.uasset'
+[2017.11.12-07.10.20:228][567]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Reaverbots/Zakobon/Bluprints/Zakobon_BP.uasset
+[2017.11.12-07.10.31:849][532]LogSavePackage: Save=14.98ms
+[2017.11.12-07.10.31:849][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/RightArm_StaticMesh71F8F1E242945E500DFFFEA1AEB9B765.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2017.11.12-07.10.31:851][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2017.11.12-07.10.31:855][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/RightArm_StaticMesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" SILENT=true
+[2017.11.12-07.10.31:862][532]LogSavePackage: Save=1.11ms
+[2017.11.12-07.10.31:862][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/RightArm_StaticMeshEE36BC9346DD85CCC8F77997509BF105.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2017.11.12-07.10.31:864][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2017.11.12-07.10.31:905][532]LogSavePackage: Save=14.77ms
+[2017.11.12-07.10.31:905][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ramp_StaticMesh8BB4C1B24760418AAC070A879369D54A.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2017.11.12-07.10.31:907][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2017.11.12-07.10.31:911][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/Ramp_StaticMesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" SILENT=true
+[2017.11.12-07.10.31:917][532]LogSavePackage: Save=0.99ms
+[2017.11.12-07.10.31:917][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ramp_StaticMeshC917C2B44FAC103685F7D38D1F17E912.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2017.11.12-07.10.31:919][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2017.11.12-07.10.31:959][532]LogSavePackage: Save=14.62ms
+[2017.11.12-07.10.31:959][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Linear_Stair_StaticMesh01E40C3D4DEF040FA5A5488070CE87EA.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2017.11.12-07.10.31:961][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2017.11.12-07.10.31:964][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/Linear_Stair_StaticMesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" SILENT=true
+[2017.11.12-07.10.31:971][532]LogSavePackage: Save=0.98ms
+[2017.11.12-07.10.31:971][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Linear_Stair_StaticMeshD325736D4936D5A86DF12A938BB39059.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2017.11.12-07.10.31:972][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2017.11.12-07.10.32:014][532]LogSavePackage: Save=14.72ms
+[2017.11.12-07.10.32:014][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/LeftArm_StaticMeshBC2833D24CA12EA740724198AC9958FD.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2017.11.12-07.10.32:016][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2017.11.12-07.10.32:019][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/LeftArm_StaticMesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" SILENT=true
+[2017.11.12-07.10.32:025][532]LogSavePackage: Save=0.99ms
+[2017.11.12-07.10.32:025][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/LeftArm_StaticMesh742C8B9247299554190659B71255415D.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2017.11.12-07.10.32:027][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2017.11.12-07.10.32:067][532]LogSavePackage: Save=14.68ms
+[2017.11.12-07.10.32:067][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Bump_StaticMeshD21EA704496BE28F2E4147A87D2A4065.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2017.11.12-07.10.32:069][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2017.11.12-07.10.32:072][532]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/Bump_StaticMesh" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" SILENT=true
+[2017.11.12-07.10.32:078][532]LogSavePackage: Save=0.94ms
+[2017.11.12-07.10.32:078][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Bump_StaticMesh47AED67E4852567A3559CD8A3A99A8D8.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2017.11.12-07.10.32:080][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2017.11.12-07.10.32:121][532]LogSavePackage: Save=15.51ms
+[2017.11.12-07.10.32:121][532]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/RampMaterial062E6AF14263B49151175A87DF3755F2.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/RampMaterial.uasset'
+[2017.11.12-07.10.32:123][532]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/StarterContent/ThirdPerson/Meshes/RampMaterial.uasset
+[2017.11.12-07.10.36:838][879]LogSavePackage: Save=240.38ms
+[2017.11.12-07.10.36:838][879]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/ThirdPersonExampleMap103C86D64F2312542DE40F8EFE86ED3E.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2017.11.12-07.10.36:841][879]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2017.11.12-07.10.36:847][879]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.417
+[2017.11.12-07.11.39:626][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Main" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.12-07.11.40:030][525]LogSavePackage: Save=357.43ms
+[2017.11.12-07.11.40:030][525]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Main1E439BE8418A7B9A5877C0B8AAB4837D.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap'
+[2017.11.12-07.11.40:032][525]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main.umap
+[2017.11.12-07.11.40:056][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Main_BuiltData" FILE="../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main_BuiltData.uasset" SILENT=true
+[2017.11.12-07.11.40:443][525]LogSavePackage: Save=374.98ms
+[2017.11.12-07.11.40:443][525]LogSavePackage: Moving '../../../../../Unreal Projects/MML_Redux 4.18/Saved/Ocean_Tower_Main_BuiltData35115E4744ECF5707947E3A2A354968A.tmp' to '../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main_BuiltData.uasset'
+[2017.11.12-07.11.40:445][525]LogSavePackage: Display: Finished SavePackage ../../../../../Unreal Projects/MML_Redux 4.18/Content/Maps/Ocean_Tower_Main_BuiltData.uasset
+[2017.11.12-07.12.00:461][456]Cmd: QUIT_EDITOR
+[2017.11.12-07.12.00:485][456]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.12-07.12.00:486][456]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.12-07.12.00:503][456]LogExit: Preparing to exit.
+[2017.11.12-07.12.01:076][456]LogDirectoryWatcher: A directory notification for 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Content/' was aborted.
+[2017.11.12-07.12.01:147][456]LogExit: Editor shut down
+[2017.11.12-07.12.01:153][456]LogExit: Transaction tracking system shut down
+[2017.11.12-07.12.01:343][456]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.12-07.12.01:343][456]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Projects/MML_Redux 4.18/Content/' was aborted.
+[2017.11.12-07.12.01:343][456]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.12-07.12.01:343][456]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.11.12-07.12.01:343][456]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.11.12-07.12.01:344][456]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.12-07.12.01:344][456]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.12-07.12.01:732][456]LogExit: Object subsystem successfully closed.
+[2017.11.12-07.12.01:787][456]LogD3D11RHI: Shutdown
+[2017.11.12-07.12.01:787][456]LogD3D11RHI: CleanupD3DDevice
+[2017.11.12-07.12.01:794][456]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.12-07.12.01:814][456]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (562)
+[2017.11.12-07.12.01:814][456]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (560)
+[2017.11.12-07.12.01:814][456]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2017.11.12-07.12.01:814][456]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (556)
+[2017.11.12-07.12.01:814][456]LogModuleManager: Shutting down and abandoning module WorldBrowser (554)
+[2017.11.12-07.12.01:815][456]LogModuleManager: Shutting down and abandoning module SceneOutliner (552)
+[2017.11.12-07.12.01:815][456]LogModuleManager: Shutting down and abandoning module AddContentDialog (550)
+[2017.11.12-07.12.01:815][456]LogDirectoryWatcher: A directory notification for 'E:/Unreal Engine Content/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.11.12-07.12.01:816][456]LogModuleManager: Shutting down and abandoning module WidgetCarousel (549)
+[2017.11.12-07.12.01:816][456]LogModuleManager: Shutting down and abandoning module EditorWidgets (546)
+[2017.11.12-07.12.01:816][456]LogModuleManager: Shutting down and abandoning module CollectionManager (544)
+[2017.11.12-07.12.01:816][456]LogDirectoryWatcher: A directory notification for 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Content/Collections/' was aborted.
+[2017.11.12-07.12.01:816][456]LogDirectoryWatcher: A directory notification for 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Content/Developers/JJ/Collections/' was aborted.
+[2017.11.12-07.12.01:816][456]LogDirectoryWatcher: A directory notification for 'E:/Unreal Engine Content/Unreal Projects/MML_Redux 4.18/Saved/Collections/' was aborted.
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module StatsViewer (542)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module FoliageEdit (540)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module LandscapeEditor (538)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module MeshPaintMode (536)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (534)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module ActorPickerMode (532)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module GeometryMode (530)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module TextureAlignMode (528)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module BspMode (526)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (524)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module HardwareSurvey (522)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (520)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module AutomationWorker (518)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (516)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (514)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module PlacementMode (513)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (510)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (508)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (506)
+[2017.11.12-07.12.01:817][456]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (504)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (502)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (500)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (498)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (496)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (494)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module CharacterAI (492)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AudioCapture (490)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module SequenceRecorder (489)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module SmartSnapping (486)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module SessionServices (484)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module ViewportSnapping (482)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module ViewportInteraction (480)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module ClothPainter (478)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (477)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module LogVisualizer (474)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module IntroTutorials (472)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (471)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (468)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (466)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (464)
+[2017.11.12-07.12.01:818][456]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (463)
+[2017.11.12-07.12.02:185][456]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (460)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (458)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (456)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module InputBindingEditor (454)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module MergeActors (452)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module SizeMap (450)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module TreeMap (448)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module ReferenceViewer (446)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (444)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module LocalizationService (443)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module HardwareTargeting (440)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (438)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module UndoHistory (436)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module XmlParser (434)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module Blutility (432)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (430)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (429)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (426)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module SettingsEditor (424)
+[2017.11.12-07.12.02:186][456]LogModuleManager: Shutting down and abandoning module ProjectLauncher (422)
+[2017.11.12-07.12.02:187][456]LogModuleManager: Shutting down and abandoning module SessionFrontend (420)
+[2017.11.12-07.12.02:187][456]LogModuleManager: Shutting down and abandoning module ProfilerClient (418)
+[2017.11.12-07.12.02:187][456]LogModuleManager: Shutting down and abandoning module DeviceManager (416)
+[2017.11.12-07.12.02:187][456]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (415)
+[2017.11.12-07.12.02:252][456]LogModuleManager: Shutting down and abandoning module AutomationController (412)
+[2017.11.12-07.12.02:252][456]LogModuleManager: Shutting down and abandoning module AutomationWindow (410)
+[2017.11.12-07.12.02:252][456]LogModuleManager: Shutting down and abandoning module Layers (408)
+[2017.11.12-07.12.02:252][456]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (406)
+[2017.11.12-07.12.02:252][456]LogModuleManager: Shutting down and abandoning module DetailCustomizations (404)
+[2017.11.12-07.12.02:252][456]LogModuleManager: Shutting down and abandoning module PackagesDialog (402)
+[2017.11.12-07.12.02:253][456]LogModuleManager: Shutting down and abandoning module Persona (400)
+[2017.11.12-07.12.02:253][456]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (399)
+[2017.11.12-07.12.02:253][456]LogModuleManager: Shutting down and abandoning module AnimGraph (397)
+[2017.11.12-07.12.02:253][456]LogModuleManager: Shutting down and abandoning module Kismet (394)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module ClassViewer (392)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module Toolbox (390)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module ModuleUI (388)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module MovieSceneTools (386)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module OutputLog (384)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module GammaUI (382)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module Documentation (380)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (378)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module MovieScene (376)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (374)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module LauncherPlatform (372)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module AnalyticsET (370)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module PortalServices (368)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module PortalRpc (366)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module MessagingRpc (364)
+[2017.11.12-07.12.02:264][456]LogModuleManager: Shutting down and abandoning module AIModule (362)
+[2017.11.12-07.12.02:265][456]LogModuleManager: Shutting down and abandoning module GameplayDebugger (361)
+[2017.11.12-07.12.02:265][456]LogModuleManager: Shutting down and abandoning module AITestSuite (359)
+[2017.11.12-07.12.02:265][456]LogModuleManager: Shutting down and abandoning module DesktopPlatform (356)
+[2017.11.12-07.12.02:265][456]LogModuleManager: Shutting down and abandoning module ProfilerService (354)
+[2017.11.12-07.12.02:298][456]LogModuleManager: Shutting down and abandoning module TaskGraph (352)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module SubstanceSource (350)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module SubstanceEditor (348)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module SteamVRController (346)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (344)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (342)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module OculusInput (340)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (338)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (336)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module CableComponent (334)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (332)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module AndroidPermission (330)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module ActorSequence (326)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (324)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (322)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module MediaCompositing (320)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module HTML5Networking (318)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module AlembicImporter (316)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module AlembicLibrary (315)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module GeometryCache (314)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (313)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (308)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module PluginBrowser (306)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (304)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (302)
+[2017.11.12-07.12.02:299][456]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (300)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module UObjectPlugin (298)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (296)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (294)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module GitSourceControl (292)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module SourceControl (291)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (288)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (286)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (284)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module Paper2DEditor (282)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module MeshPaint (281)
+[2017.11.12-07.12.02:300][456]LogModuleManager: Shutting down and abandoning module LevelEditor (279)
+[2017.11.12-07.12.02:302][456]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (278)
+[2017.11.12-07.12.02:302][456]LogModuleManager: Shutting down and abandoning module MainFrame (276)
+[2017.11.12-07.12.02:302][456]LogModuleManager: Shutting down and abandoning module HotReload (275)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module SubstanceCore (270)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.11.12-07.12.02:303][456]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.11.12-07.12.02:404][456]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.11.12-07.12.02:506][456]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.11.12-07.12.02:506][456]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.11.12-07.12.02:506][456]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.11.12-07.12.02:506][456]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.11.12-07.12.02:506][456]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.11.12-07.12.02:506][456]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.11.12-07.12.02:507][456]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.11.12-07.12.02:507][456]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.11.12-07.12.02:507][456]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.11.12-07.12.02:508][456]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.11.12-07.12.02:514][456]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.12-07.12.02:515][456]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.12-07.12.02:519][456]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.11.12-07.12.02:520][456]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.11.12-07.12.02:543][456]LogDerivedDataCache: Shutdown
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.11.12-07.12.02:543][456]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.11.12-07.12.02:544][456]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.11.12-07.12.02:545][456]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.12-07.12.02:545][456]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.12-07.12.02:545][456]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.12-07.12.02:545][456]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B15C5A361-415C-4C90-0F95-6FA15C5136E4%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.0-3709383%2B%2B%2BUE4%2BRelease-4.18&UserID=655cea6e4121de58d6b235bb33e22ffc%7C75ca7cb601194ffd9d7e74056c45c473%7C287c710b-2862-4bac-8cb2-ca0bc618d20d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.12-07.12.02:581][456]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.12-07.12.02:582][456]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.12-07.12.02:582][456]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.12-07.12.02:582][456]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.12-07.12.02:582][456]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.12-07.12.02:583][456]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.12-07.12.02:583][456]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.12-07.12.02:583][456]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.12-07.12.02:585][456]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.12-07.12.02:592][456]LogExit: Exiting.
+[2017.11.12-07.12.02:603][456]Log file closed, 11/11/17 23:12:02

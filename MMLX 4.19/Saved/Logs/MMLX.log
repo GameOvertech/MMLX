@@ -1,0 +1,1441 @@
+﻿Log file open, 05/04/18 02:01:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MMLX
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(793754516) SRandInit(793754516).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.762625
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceCore.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceSource.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Marketplace/Substance/Binaries/Win64/UE4Editor-SubstanceLiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Substance
+LogStreaming: Display: Took  5.326s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am JJ-PC (192.168.1.3:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: E:/Unreal Engine Content/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.04-09.01.43:261][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-09.01.43:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.04-09.01.43:343][  0]LogInit: Computer: JJ-PC
+[2018.05.04-09.01.43:343][  0]LogInit: User: JJ
+[2018.05.04-09.01.43:343][  0]LogInit: CPU Page size=4096, Cores=8
+[2018.05.04-09.01.43:343][  0]LogInit: High frequency timer resolution =2.597662 MHz
+[2018.05.04-09.01.43:343][  0]LogMemory: Memory total: Physical=64.0GB (64GB approx)
+[2018.05.04-09.01.43:343][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.04-09.01.43:343][  0]LogMemory: Process Physical Memory: 275.52 MB used, 275.52 MB peak
+[2018.05.04-09.01.43:343][  0]LogMemory: Process Virtual Memory: 272.17 MB used, 272.17 MB peak
+[2018.05.04-09.01.43:343][  0]LogMemory: Physical Memory: 13400.68 MB used,  52123.47 MB free, 65524.16 MB total
+[2018.05.04-09.01.43:343][  0]LogMemory: Virtual Memory: 693.64 MB used,  52123.47 MB free, 134217728.00 MB total
+[2018.05.04-09.01.43:638][  0]LogInit: Using OS detected language (en-US).
+[2018.05.04-09.01.43:638][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.04-09.01.43:745][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.04-09.01.44:518][  0]LogStreaming: Display: Took  0.879s to EndInitTextLocalization.
+[2018.05.04-09.01.44:519][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.04-09.01.44:765][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.04-09.01.44:765][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.04-09.01.47:211][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.04-09.01.47:277][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.05.04-09.01.47:277][  0]LogD3D11RHI:       4053/0/32762 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.05.04-09.01.47:279][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.04-09.01.47:279][  0]LogD3D11RHI:       0/0/32762 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.04-09.01.47:279][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.04-09.01.47:292][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.04-09.01.47:292][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.04-09.01.47:292][  0]LogWindows: EnumDisplayDevices:
+[2018.05.04-09.01.47:292][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.05.04-09.01.47:292][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.05.04-09.01.47:293][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.05.04-09.01.47:293][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.05.04-09.01.47:293][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.05.04-09.01.47:293][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.05.04-09.01.47:293][  0]LogD3D11RHI:   Driver Version: 391.01 (internal:23.21.13.9101, unified:391.01)
+[2018.05.04-09.01.47:293][  0]LogD3D11RHI:      Driver Date: 2-23-2018
+[2018.05.04-09.01.47:293][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.05.04-09.01.47:348][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.04-09.01.47:348][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.04-09.01.47:348][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.04-09.01.47:385][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.04-09.01.47:474][  0]LogShaderCompilers: Guid format shader working directory is 7 characters bigger than the processId version (../../../../../../Git/MMLX/MMLX 4.19/Intermediate/Shaders/WorkingDirectory/4052/).
+[2018.05.04-09.01.47:474][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/JJ/AppData/Local/Temp/UnrealShaderWorkingDir/3FAED16F4C87679417FA48B371C77068/'.
+[2018.05.04-09.01.48:348][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.04-09.01.48:369][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.04-09.01.48:391][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.04-09.01.48:413][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.04-09.01.48:462][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.04-09.01.48:484][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.04-09.01.48:506][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.04-09.01.48:528][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.04-09.01.48:538][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.04-09.01.48:558][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.04-09.01.48:577][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.04-09.01.48:596][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.04-09.01.48:615][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.04-09.01.48:635][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.04-09.01.48:653][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.04-09.01.48:692][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.04-09.01.48:692][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.04-09.01.48:724][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.04-09.01.48:727][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.04-09.01.48:854][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.04-09.01.48:873][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.04-09.01.48:893][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.04-09.01.48:913][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.04-09.01.48:933][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.04-09.01.48:957][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.04-09.01.48:957][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.04-09.01.49:646][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.04-09.01.49:646][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.04-09.01.49:646][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.04-09.01.53:121][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.04-09.01.53:278][  0]LogDerivedDataCache: Loaded boot cache 0.16s 74MB C:/Users/JJ/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.04-09.01.53:278][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/JJ/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.04-09.01.53:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Git/MMLX/MMLX 4.19/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.04-09.01.53:278][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.04-09.01.53:278][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Git/MMLX/MMLX 4.19/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.04-09.01.53:278][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.04-09.01.53:328][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.04-09.01.53:341][  0]LogDerivedDataCache: Using Local data cache path C:/Users/JJ/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.04-09.01.53:341][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.04-09.01.53:341][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.04-09.01.53:360][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.04-09.01.53:360][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.04-09.01.53:384][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-09.01.53:384][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.04-09.01.57:362][  0]LogAssetRegistry: FAssetRegistry took 0.0296 seconds to start up
+[2018.05.04-09.01.57:984][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.04-09.01.58:621][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.04-09.01.58:626][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.04-09.01.58:626][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.04-09.01.58:626][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.04-09.01.58:626][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.04-09.01.58:626][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.04-09.01.58:730][  0]LogNetVersion: MMLX , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 141907774)
+[2018.05.04-09.02.00:364][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.339607 seconds
+[2018.05.04-09.02.00:373][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.04-09.02.00:373][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.05.04-09.02.00:373][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.04-09.02.39:806][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.04-09.02.39:855][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.04-09.02.40:283][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.05.04-09.02.40:730][  0]SourceControl: Source control is disabled
+[2018.05.04-09.02.40:730][  0]SourceControl: Source control is disabled
+[2018.05.04-09.02.40:766][  0]SourceControl: Source control is disabled
+[2018.05.04-09.02.40:803][  0]SourceControl: Source control is disabled
+[2018.05.04-09.02.41:756][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.04-09.02.42:092][  0]LogOcInput: OculusInput pre-init called
+[2018.05.04-09.02.42:872][  0]LogEngine: Initializing Engine...
+[2018.05.04-09.02.42:898][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2018.05.04-09.02.42:900][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-09.02.42:901][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-09.02.43:269][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.04-09.02.43:314][  0]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.02.43:347][  0]LogInit: FAudioDevice initialized.
+[2018.05.04-09.02.43:486][  0]LogDerivedDataCache: Saved boot cache 0.14s 74MB C:/Users/JJ/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.04-09.02.43:512][  0]LogInit: Texture streaming: Enabled
+[2018.05.04-09.02.43:538][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.04-09.02.43:560][  0]LogInit: Transaction tracking system initialized
+[2018.05.04-09.02.43:596][  0]BlueprintLog: New page: Editor Load
+[2018.05.04-09.02.43:724][  0]LocalizationService: Localization service is disabled
+[2018.05.04-09.02.43:902][  0]LogConsoleResponse: Display: 
+[2018.05.04-09.02.44:135][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.04-09.02.44:136][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.04-09.02.44:136][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.04-09.02.44:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.04-09.02.44:136][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.04-09.02.44:893][  0]LogFileCache: Scanning file cache for directory 'E:/Git/MMLX/MMLX 4.19/Content/' took 0.04s
+[2018.05.04-09.02.45:074][  0]SourceControl: Source control is disabled
+[2018.05.04-09.02.45:074][  0]Cmd: MAP LOAD FILE="../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.04-09.02.45:074][  0]LightingResults: New page: Lighting Build
+[2018.05.04-09.02.45:078][  0]MapCheck: New page: Map Check
+[2018.05.04-09.02.45:078][  0]LightingResults: New page: Lighting Build
+[2018.05.04-09.02.45:261][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f7230a200, Size=608, Default__BP_TowerElevator_C Function /Game/Blueprints/Actor/BP_TowerElevator.BP_TowerElevator_C:ExecuteUbergraph_BP_TowerElevator
+[2018.05.04-09.02.45:272][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f7230a200, Size=608
+[2018.05.04-09.02.45:272][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f7230a200, Size=608, Default__BP_TowerElevator_C Function /Engine/Transient.REINST_BP_TowerElevator_C_5:ExecuteUbergraph_BP_TowerElevator
+[2018.05.04-09.02.45:280][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f7217e980, Size=592, Default__BP_TowerElevator_C Function /Game/Blueprints/Actor/BP_TowerElevator.BP_TowerElevator_C:ExecuteUbergraph_BP_TowerElevator
+[2018.05.04-09.02.45:308][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f504dfc00, Size=912, Default__TreasureChest_BP_C Function /Game/Blueprints/Actor/TreasureChest_BP.TreasureChest_BP_C:ExecuteUbergraph_TreasureChest_BP
+[2018.05.04-09.02.45:320][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f504dfc00, Size=912
+[2018.05.04-09.02.45:320][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f504dfc00, Size=912, Default__TreasureChest_BP_C Function /Engine/Transient.REINST_TreasureChest_BP_C_7:ExecuteUbergraph_TreasureChest_BP
+[2018.05.04-09.02.45:333][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f504de800, Size=912, Default__TreasureChest_BP_C Function /Game/Blueprints/Actor/TreasureChest_BP.TreasureChest_BP_C:ExecuteUbergraph_TreasureChest_BP
+[2018.05.04-09.02.45:366][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f5046a430, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/StarterContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.04-09.02.45:377][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f5046a430, Size=72
+[2018.05.04-09.02.45:377][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50491170, Size=72, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.04-09.02.45:389][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f5108e750, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/StarterContent/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.04-09.02.45:393][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f504cf740, Size=144, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.02.45:397][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/special_weapon_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:399][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/buster_part_type_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:400][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/special_item_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:402][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/normal_item_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:403][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f51076980, Size=624, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.04-09.02.45:467][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f510303a0, Size=224, Default__PauseMenu_C Function /Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu
+[2018.05.04-09.02.45:470][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f510ab100, Size=640, Default__buster_part_item_widget_C Function /Game/Megaman/Inventory/buster_part_item_widget.buster_part_item_widget_C:ExecuteUbergraph_buster_part_item_widget
+[2018.05.04-09.02.45:475][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50cd3660, Size=224, Default__buster_part_item_summary_widget_C Function /Game/Megaman/Inventory/buster_part_item_summary_widget.buster_part_item_summary_widget_C:ExecuteUbergraph_buster_part_item_summary_widget
+[2018.05.04-09.02.45:536][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f721e8950, Size=104, Default__normal_item_widget_C Function /Game/Megaman/Inventory/normal_item_widget.normal_item_widget_C:ExecuteUbergraph_normal_item_widget
+[2018.05.04-09.02.45:544][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f72709c90, Size=56, Default__special_item_widget_C Function /Game/Megaman/Inventory/special_item_widget.special_item_widget_C:ExecuteUbergraph_special_item_widget
+[2018.05.04-09.02.45:553][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50c167a0, Size=136, Default__special_weapon_item_widget_C Function /Game/Megaman/Inventory/special_weapon_item_widget.special_weapon_item_widget_C:ExecuteUbergraph_special_weapon_item_widget
+[2018.05.04-09.02.45:621][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/greenZennyMat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:625][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/SpecialItemsTextures/MMLKeyItem02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:626][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/SpecialItemsTextures/MMLKeyItem03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:627][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/SpecialWeaponsTextures/MMLWActiveBuster.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:628][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/SpecialWeaponsTextures/MMLWDrillArm.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:629][  0]LogLinker: Warning: Asset '../../../../../../Git/MMLX/MMLX 4.19/Content/Megaman/Inventory/SpecialWeaponsTextures/MMLWSplashMine.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.05.04-09.02.45:660][  0]LogBlueprint: Warning: [Compiler GreenZenny_BP] Get : 'xxx' variable not found. Base class was probably changed. /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP
+[2018.05.04-09.02.45:681][  0]LogBlueprint: Warning: [Compiler PauseMenu] Get : 'Image_0' variable not found. Base class was probably changed. /Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu
+[2018.05.04-09.02.45:682][  0]LogBlueprint: Warning: [Compiler PauseMenu] Set : 'Image_0' variable not found. Base class was probably changed. /Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu
+[2018.05.04-09.02.45:682][  0]LogBlueprint: Warning: [Compiler PauseMenu] Set Image_0 : 'Image_0' variable not found. Base class was probably changed. /Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu
+[2018.05.04-09.02.45:682][  0]LogBlueprint: Warning: [Compiler PauseMenu] Get : 'Image_0' variable not found. Base class was probably changed. /Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu
+[2018.05.04-09.02.45:694][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f504cf740, Size=144
+[2018.05.04-09.02.45:694][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f52408360, Size=144, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_10:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.02.45:695][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50cd3660, Size=224
+[2018.05.04-09.02.45:695][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f547cfc80, Size=224, Default__buster_part_item_summary_widget_C Function /Engine/Transient.REINST_buster_part_item_summary_widget_C_0:ExecuteUbergraph_buster_part_item_summary_widget
+[2018.05.04-09.02.45:696][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f510ab100, Size=640
+[2018.05.04-09.02.45:696][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50774e00, Size=640, Default__buster_part_item_widget_C Function /Engine/Transient.REINST_buster_part_item_widget_C_1:ExecuteUbergraph_buster_part_item_widget
+[2018.05.04-09.02.45:696][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f721e8950, Size=104
+[2018.05.04-09.02.45:696][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f700a59f0, Size=104, Default__normal_item_widget_C Function /Engine/Transient.REINST_normal_item_widget_C_2:ExecuteUbergraph_normal_item_widget
+[2018.05.04-09.02.45:699][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f510303a0, Size=224
+[2018.05.04-09.02.45:699][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f547cc1e0, Size=224, Default__PauseMenu_C Function /Engine/Transient.REINST_PauseMenu_C_3:ExecuteUbergraph_PauseMenu
+[2018.05.04-09.02.45:699][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f72709c90, Size=56
+[2018.05.04-09.02.45:699][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f507c5fd8, Size=56, Default__special_item_widget_C Function /Engine/Transient.REINST_special_item_widget_C_4:ExecuteUbergraph_special_item_widget
+[2018.05.04-09.02.45:699][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50c167a0, Size=136
+[2018.05.04-09.02.45:700][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f547adda0, Size=136, Default__special_weapon_item_widget_C Function /Engine/Transient.REINST_special_weapon_item_widget_C_5:ExecuteUbergraph_special_weapon_item_widget
+[2018.05.04-09.02.45:701][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f51076980, Size=624
+[2018.05.04-09.02.45:701][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50774180, Size=624, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_11:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.04-09.02.45:704][  0]LogBlueprint: Warning: [Compiler GreenZenny_BP] Could not find a variable named "xxx" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get xxx
+[2018.05.04-09.02.45:782][  0]LogBlueprint: Error: [Compiler GreenZenny_BP] The property associated with  Xxx  could not be found
+[2018.05.04-09.02.45:783][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f544fa160, Size=136, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.02.45:785][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f544efba0, Size=224, Default__buster_part_item_summary_widget_C Function /Game/Megaman/Inventory/buster_part_item_summary_widget.buster_part_item_summary_widget_C:ExecuteUbergraph_buster_part_item_summary_widget
+[2018.05.04-09.02.45:791][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f54509300, Size=640, Default__buster_part_item_widget_C Function /Game/Megaman/Inventory/buster_part_item_widget.buster_part_item_widget_C:ExecuteUbergraph_buster_part_item_widget
+[2018.05.04-09.02.45:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f5447a010, Size=104, Default__normal_item_widget_C Function /Game/Megaman/Inventory/normal_item_widget.normal_item_widget_C:ExecuteUbergraph_normal_item_widget
+[2018.05.04-09.02.45:813][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f544ef9e0, Size=224, Default__PauseMenu_C Function /Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu_C:ExecuteUbergraph_PauseMenu
+[2018.05.04-09.02.45:818][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f553c6390, Size=56, Default__special_item_widget_C Function /Game/Megaman/Inventory/special_item_widget.special_item_widget_C:ExecuteUbergraph_special_item_widget
+[2018.05.04-09.02.45:821][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f55374e00, Size=136, Default__special_weapon_item_widget_C Function /Game/Megaman/Inventory/special_weapon_item_widget.special_weapon_item_widget_C:ExecuteUbergraph_special_weapon_item_widget
+[2018.05.04-09.02.45:825][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f5442e700, Size=624, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.04-09.02.45:847][  0]LogBlueprint: Warning: [Compiler GreenZenny_BP] [0073.30] Compile of GreenZenny_BP failed. 1 Fatal Issue(s) 2 Warning(s) [in 203 ms] (/Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP)
+[2018.05.04-09.02.45:848][  0]LogBlueprint: Warning: [Compiler PauseMenu] [0073.30] Compile of PauseMenu successful, but with 4 Warning(s) [in 204 ms] (/Game/MenuAssets/PauseMenu/PauseMenu.PauseMenu)
+[2018.05.04-09.02.45:906][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f546763a8, Size=4, Default__GameFaderWidget_C Function /Game/Blueprints/Widget/GameFaderWidget.GameFaderWidget_C:ExecuteUbergraph_GameFaderWidget
+[2018.05.04-09.02.45:911][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f546763a8, Size=4
+[2018.05.04-09.02.45:911][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f546763a8, Size=4, Default__GameFaderWidget_C Function /Engine/Transient.REINST_GameFaderWidget_C_6:ExecuteUbergraph_GameFaderWidget
+[2018.05.04-09.02.45:913][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f54676470, Size=4, Default__GameFaderWidget_C Function /Game/Blueprints/Widget/GameFaderWidget.GameFaderWidget_C:ExecuteUbergraph_GameFaderWidget
+[2018.05.04-09.02.45:921][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50849030, Size=40, Default__Ocean_Tower_Main_C Function /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.02.45:928][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50849030, Size=40
+[2018.05.04-09.02.45:928][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50849030, Size=40, Default__Ocean_Tower_Main_C Function /Engine/Transient.REINST_Ocean_Tower_Main_C_21:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.02.45:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f50848dd8, Size=40, Default__Ocean_Tower_Main_C Function /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: MMLWSplashMine (AutoDXT, 64X48)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: MMLWDrillArm (AutoDXT, 64X48)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: MMLWActiveBuster (AutoDXT, 64X48)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: MMLKeyItem03 (AutoDXT, 32X32)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: MMLKeyItem02 (AutoDXT, 32X32)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: pause_menu_background (BGRA8, 1198X839)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: HQ_Lightmap1_36 (AutoDXT, 64X64)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: HQ_Lightmap1_34 (AutoDXT, 256X256)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_36 (DXT1, 64X64)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_34 (DXT1, 256X256)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X1024)
+[2018.05.04-09.02.46:207][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.05.04-09.02.46:305][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.05.04-09.02.46:305][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2018.05.04-09.02.46:305][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2018.05.04-09.02.46:305][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.05.04-09.02.46:305][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2018.05.04-09.02.46:305][  0]LogStaticMesh: Building static mesh ZennyMesh...
+[2018.05.04-09.02.46:313][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2018.05.04-09.02.46:313][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Blueprints/Zenny/ZennyMesh.ZennyMesh
+[2018.05.04-09.02.46:365][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx-getzenny1...
+[2018.05.04-09.02.46:433][  0]LogMaterial: Missing cached shader map for material greenZennyMat, compiling. 
+[2018.05.04-09.02.46:716][  0]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.04-09.02.46:716][  0]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.04-09.02.46:716][  0]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.04-09.02.46:716][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx-cursor-move1...
+[2018.05.04-09.02.46:744][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave sfx-cursor-back1...
+[2018.05.04-09.02.46:797][  0]LogMaterial: Missing cached shader map for material M_HeadBodyHands, compiling. 
+[2018.05.04-09.02.46:840][  0]LogMaterial: Missing cached shader map for material M_HairEyes, compiling. 
+[2018.05.04-09.02.46:879][  0]LogMaterial: Missing cached shader map for material M_ArmsLegs, compiling. 
+[2018.05.04-09.02.47:012][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [82.687050ms] /Game/Megaman/Mesh/Megaman_UE4_TempRig.Megaman_UE4_TempRig
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 180
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 170
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 160
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 150
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 140
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 130
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 120
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 110
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 100
+[2018.05.04-09.02.47:335][  0]LogShaderCompilers: Display: Shaders left to compile 90
+[2018.05.04-09.02.47:595][  0]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.02.47:623][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone2) is flushing async loading
+[2018.05.04-09.02.47:663][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f015ca378, Size=8, Default__ForceField_BP_C Function /Game/Blueprints/Actor/ForceField_BP.ForceField_BP_C:ExecuteUbergraph_ForceField_BP
+[2018.05.04-09.02.47:668][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f015ca378, Size=8
+[2018.05.04-09.02.47:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f015ca378, Size=8, Default__ForceField_BP_C Function /Engine/Transient.REINST_ForceField_BP_C_23:ExecuteUbergraph_ForceField_BP
+[2018.05.04-09.02.47:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f015ca278, Size=8, Default__ForceField_BP_C Function /Game/Blueprints/Actor/ForceField_BP.ForceField_BP_C:ExecuteUbergraph_ForceField_BP
+[2018.05.04-09.02.47:691][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f01694400, Size=944, Default__BP_Door_C Function /Game/Blueprints/Actor/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.05.04-09.02.47:706][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f01694400, Size=944
+[2018.05.04-09.02.47:706][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ad73800, Size=944, Default__BP_Door_C Function /Engine/Transient.REINST_BP_Door_C_25:ExecuteUbergraph_BP_Door
+[2018.05.04-09.02.47:718][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ad72c00, Size=944, Default__BP_Door_C Function /Game/Blueprints/Actor/BP_Door.BP_Door_C:ExecuteUbergraph_BP_Door
+[2018.05.04-09.02.47:727][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2adb6680, Size=344, Default__Generator_BP_C Function /Game/Blueprints/Actor/Generator_BP.Generator_BP_C:ExecuteUbergraph_Generator_BP
+[2018.05.04-09.02.47:729][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2adff830, Size=72, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.05.04-09.02.47:742][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ad63280, Size=336, Default__TrapDoor_BP_C Function /Game/Blueprints/Actor/TrapDoor_BP.TrapDoor_BP_C:ExecuteUbergraph_TrapDoor_BP
+[2018.05.04-09.02.47:767][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ae11a80, Size=640, Default__Mirumijee_BP_C Function /Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:ExecuteUbergraph_Mirumijee_BP
+[2018.05.04-09.02.47:794][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2ae11a80, Size=640
+[2018.05.04-09.02.47:794][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ac3c900, Size=640, Default__Mirumijee_BP_C Function /Engine/Transient.REINST_Mirumijee_BP_C_27:ExecuteUbergraph_Mirumijee_BP
+[2018.05.04-09.02.47:795][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2ad63280, Size=336
+[2018.05.04-09.02.47:795][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b10f280, Size=336, Default__TrapDoor_BP_C Function /Engine/Transient.REINST_TrapDoor_BP_C_28:ExecuteUbergraph_TrapDoor_BP
+[2018.05.04-09.02.47:796][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2adb6680, Size=344
+[2018.05.04-09.02.47:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b10e800, Size=344, Default__Generator_BP_C Function /Engine/Transient.REINST_Generator_BP_C_29:ExecuteUbergraph_Generator_BP
+[2018.05.04-09.02.47:796][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2adff830, Size=72
+[2018.05.04-09.02.47:796][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b0b5850, Size=72, Default__ThirdPersonGameMode_C Function /Engine/Transient.REINST_ThirdPersonGameMode_C_30:ExecuteUbergraph_ThirdPersonGameMode
+[2018.05.04-09.02.47:818][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1b2e80, Size=640, Default__Mirumijee_BP_C Function /Game/Reaverbots/Mirumijee/Blueprints/Mirumijee_BP.Mirumijee_BP_C:ExecuteUbergraph_Mirumijee_BP
+[2018.05.04-09.02.47:820][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1b9600, Size=336, Default__TrapDoor_BP_C Function /Game/Blueprints/Actor/TrapDoor_BP.TrapDoor_BP_C:ExecuteUbergraph_TrapDoor_BP
+[2018.05.04-09.02.47:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1b9000, Size=344, Default__Generator_BP_C Function /Game/Blueprints/Actor/Generator_BP.Generator_BP_C:ExecuteUbergraph_Generator_BP
+[2018.05.04-09.02.47:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1e6390, Size=72, Default__ThirdPersonGameMode_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:ExecuteUbergraph_ThirdPersonGameMode
+[2018.05.04-09.02.47:841][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b168800, Size=216, Default__RefractorContainer_BP_C Function /Game/Blueprints/Actor/RefractorContainer_BP.RefractorContainer_BP_C:ExecuteUbergraph_RefractorContainer_BP
+[2018.05.04-09.02.47:847][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b168800, Size=216
+[2018.05.04-09.02.47:847][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b168800, Size=216, Default__RefractorContainer_BP_C Function /Engine/Transient.REINST_RefractorContainer_BP_C_35:ExecuteUbergraph_RefractorContainer_BP
+[2018.05.04-09.02.47:851][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1db580, Size=216, Default__RefractorContainer_BP_C Function /Game/Blueprints/Actor/RefractorContainer_BP.RefractorContainer_BP_C:ExecuteUbergraph_RefractorContainer_BP
+[2018.05.04-09.02.47:860][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1db040, Size=216, Default__Cannam_BP_C Function /Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:ExecuteUbergraph_Cannam_BP
+[2018.05.04-09.02.47:865][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1db040, Size=216
+[2018.05.04-09.02.47:865][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1db040, Size=216, Default__Cannam_BP_C Function /Engine/Transient.REINST_Cannam_BP_C_37:ExecuteUbergraph_Cannam_BP
+[2018.05.04-09.02.47:869][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1d97c0, Size=216, Default__Cannam_BP_C Function /Game/Reaverbots/Cannam/Blueprints/Cannam_BP.Cannam_BP_C:ExecuteUbergraph_Cannam_BP
+[2018.05.04-09.02.47:878][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1d9440, Size=216, Default__HanmuruDoll_BP_C Function /Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:ExecuteUbergraph_HanmuruDoll_BP
+[2018.05.04-09.02.47:884][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1d9440, Size=216
+[2018.05.04-09.02.47:884][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b1d9440, Size=216, Default__HanmuruDoll_BP_C Function /Engine/Transient.REINST_HanmuruDoll_BP_C_39:ExecuteUbergraph_HanmuruDoll_BP
+[2018.05.04-09.02.47:888][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f92167ac0, Size=216, Default__HanmuruDoll_BP_C Function /Game/Reaverbots/HanmuruDoll/Blueprints/HanmuruDoll_BP.HanmuruDoll_BP_C:ExecuteUbergraph_HanmuruDoll_BP
+[2018.05.04-09.02.47:944][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2b157b00, Size=576, Default__Zakobon_BP_C Function /Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:ExecuteUbergraph_Zakobon_BP
+[2018.05.04-09.02.47:958][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b157b00, Size=576
+[2018.05.04-09.02.47:959][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f2ac3d080, Size=576, Default__Zakobon_BP_C Function /Engine/Transient.REINST_Zakobon_BP_C_41:ExecuteUbergraph_Zakobon_BP
+[2018.05.04-09.02.47:970][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f040df880, Size=560, Default__Zakobon_BP_C Function /Game/Reaverbots/Zakobon/Bluprints/Zakobon_BP.Zakobon_BP_C:ExecuteUbergraph_Zakobon_BP
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_14 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_20 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_16 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_15 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_23 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_26 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_19 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_17 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_18 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_25 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_27 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_24 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_28 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogTexture: Display: Building textures: HQ_Lightmap0_21 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.48:614][  0]LogStaticMesh: Building static mesh Zakobon...
+[2018.05.04-09.02.48:994][  0]LogStaticMesh: Built static mesh [0.38s] /Game/Reaverbots/Zakobon/Mesh/Zakobon.Zakobon
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: HQ_Lightmap0_5 (AutoDXT, 512X512)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: HQ_Lightmap1_22 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: HQ_Lightmap1_29 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_16 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_17 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_18 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_19 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_20 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:016][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_21 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_23 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_24 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_25 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_26 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_27 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (DXT1, 512X512)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_28 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_22 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_29 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 256X256)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2018.05.04-09.02.52:017][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 1024X512)
+[2018.05.04-09.02.52:017][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone1) is flushing async loading
+[2018.05.04-09.02.52:044][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f05cab200, Size=784, Default__BoobyTrap_BP_C Function /Game/Blueprints/Actor/BoobyTrap_BP.BoobyTrap_BP_C:ExecuteUbergraph_BoobyTrap_BP
+[2018.05.04-09.02.52:070][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f05cab200, Size=784
+[2018.05.04-09.02.52:070][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f05cab200, Size=784, Default__BoobyTrap_BP_C Function /Engine/Transient.REINST_BoobyTrap_BP_C_43:ExecuteUbergraph_BoobyTrap_BP
+[2018.05.04-09.02.52:095][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f05caa400, Size=784, Default__BoobyTrap_BP_C Function /Game/Blueprints/Actor/BoobyTrap_BP.BoobyTrap_BP_C:ExecuteUbergraph_BoobyTrap_BP
+[2018.05.04-09.02.54:549][  0]LogTexture: Display: Building textures: HQ_Lightmap1_35 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:549][  0]LogTexture: Display: Building textures: HQ_Lightmap0_32 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap0_30 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap0_31 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap0_10 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap1_33 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap0_13 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap0_9 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: HQ_Lightmap0_11 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_30 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_31 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:550][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_32 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_33 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_35 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (BGRA8, 16X512)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2018.05.04-09.02.54:551][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone3) is flushing async loading
+[2018.05.04-09.02.54:634][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f7a390ed8, Size=4, Default__END_GFX_C Function /Game/Blueprints/Widget/END_GFX.END_GFX_C:ExecuteUbergraph_END_GFX
+[2018.05.04-09.02.54:640][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f7a390ed8, Size=4
+[2018.05.04-09.02.54:640][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f7a390ed8, Size=4, Default__END_GFX_C Function /Engine/Transient.REINST_END_GFX_C_7:ExecuteUbergraph_END_GFX
+[2018.05.04-09.02.54:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f7a390e40, Size=4, Default__END_GFX_C Function /Game/Blueprints/Widget/END_GFX.END_GFX_C:ExecuteUbergraph_END_GFX
+[2018.05.04-09.02.54:653][  0]LogShaderCompilers: Display: Shaders left to compile 80
+[2018.05.04-09.02.54:653][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f9239d080, Size=136, Default__Ocean_Tower_Zone3_C Function /Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C:ExecuteUbergraph_Ocean_Tower_Zone3
+[2018.05.04-09.02.54:668][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f9239d080, Size=136
+[2018.05.04-09.02.54:668][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f15056fc0, Size=136, Default__Ocean_Tower_Zone3_C Function /Engine/Transient.REINST_Ocean_Tower_Zone3_C_46:ExecuteUbergraph_Ocean_Tower_Zone3
+[2018.05.04-09.02.54:680][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f15055080, Size=144, Default__Ocean_Tower_Zone3_C Function /Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C:ExecuteUbergraph_Ocean_Tower_Zone3
+[2018.05.04-09.02.54:729][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (BGRA8, 512X128)
+[2018.05.04-09.02.54:764][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 1024X1024)
+[2018.05.04-09.02.54:764][  0]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 1024X1024)
+[2018.05.04-09.02.54:764][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 512X512)
+[2018.05.04-09.02.55:034][  0]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 512X512)
+[2018.05.04-09.02.55:034][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X512)
+[2018.05.04-09.02.55:035][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f7230a200, Size=608
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f504dfc00, Size=912
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50491170, Size=72
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f52408360, Size=144
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50774180, Size=624
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f547cc1e0, Size=224
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50774e00, Size=640
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f547cfc80, Size=224
+[2018.05.04-09.02.55:128][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f700a59f0, Size=104
+[2018.05.04-09.02.55:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f507c5fd8, Size=56
+[2018.05.04-09.02.55:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f547adda0, Size=136
+[2018.05.04-09.02.55:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f546763a8, Size=4
+[2018.05.04-09.02.55:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50849030, Size=40
+[2018.05.04-09.02.55:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f015ca378, Size=8
+[2018.05.04-09.02.55:129][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2ad73800, Size=944
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b10e800, Size=344
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b0b5850, Size=72
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b10f280, Size=336
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2ac3c900, Size=640
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b168800, Size=216
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1db040, Size=216
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1d9440, Size=216
+[2018.05.04-09.02.55:130][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2ac3d080, Size=576
+[2018.05.04-09.02.55:131][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f05cab200, Size=784
+[2018.05.04-09.02.55:131][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f7a390ed8, Size=4
+[2018.05.04-09.02.55:131][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f15056fc0, Size=136
+[2018.05.04-09.02.55:142][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.04-09.02.55:325][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 182.826ms to complete.
+[2018.05.04-09.02.55:325][  0]LogFileHelpers: Loading map 'Ocean_Tower_Main' took 10.251
+[2018.05.04-09.02.55:766][  0]LogCollectionManager: Loaded 0 collections in 0.003973 seconds
+[2018.05.04-09.02.55:894][  0]LogFileCache: Scanning file cache for directory 'E:/Git/MMLX/MMLX 4.19/Saved/Collections/' took 0.01s
+[2018.05.04-09.02.55:894][  0]LogFileCache: Scanning file cache for directory 'E:/Git/MMLX/MMLX 4.19/Content/Developers/JJ/Collections/' took 0.01s
+[2018.05.04-09.02.55:894][  0]LogFileCache: Scanning file cache for directory 'E:/Git/MMLX/MMLX 4.19/Content/Collections/' took 0.01s
+[2018.05.04-09.02.55:894][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.05.04-09.02.55:941][  0]LogContentBrowser: Native class hierarchy populated in 0.0470 seconds. Added 2466 classes and 564 folders.
+[2018.05.04-09.02.55:962][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.05.04-09.02.56:888][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.05.04-09.02.56:902][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2018.05.04-09.02.56:934][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0007 seconds. Added 2 classes and 3 folders.
+[2018.05.04-09.02.57:213][  0]LogSlate: Took 0.010179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.04-09.02.57:229][  0]LogSlate: Took 0.012776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.04-09.02.57:258][  0]LogSlate: Took 0.016323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.04-09.02.57:630][  0]LogRenderer: Reallocating scene render targets to support 1616x756 Format 10 NumSamples 1 (Frame:1).
+[2018.05.04-09.02.58:128][  0]LogShaderCompilers: Display: Shaders left to compile 70
+[2018.05.04-09.02.58:152][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.05.04-09.02.58:152][  0]LogLoad: (Engine Initialization) Total time: 85.60 seconds
+[2018.05.04-09.02.58:152][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.04-09.02.58:546][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.05.04-09.02.58:546][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.04-09.02.58:718][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.05.04-09.02.58:741][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.05.04-09.02.59:023][  2]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.05.04-09.02.59:023][  2]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.05.04-09.02.59:560][  3]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.05.04-09.03.00:632][  6]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.05.04-09.03.00:632][  6]LogAssetRegistry: Asset discovery search completed in 63.2919 seconds
+[2018.05.04-09.03.00:644][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.05.04-09.03.00:644][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000183 seconds (updated 0 objects)
+[2018.05.04-09.03.03:543][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.03.03:854][ 30]LogFileCache: Retrieving MD5 hashes for directory 'E:/Git/MMLX/MMLX 4.19/Content/' took 5.34s
+[2018.05.04-09.03.09:642][603]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.03.09:730][613]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.03.09:750][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.03.09:750][613]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.03.09:763][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.03.14:370][613]LogSlate: Window 'Message' being destroyed
+[2018.05.04-09.03.14:399][613]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:03:14 PM)
+[2018.05.04-09.03.14:400][613]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.03.14:415][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015293s)
+[2018.05.04-09.03.14:416][613]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.03.14:416][613]LogPlayLevel: PIE: World Init took: (0.001170s)
+[2018.05.04-09.03.14:416][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.016718s)
+[2018.05.04-09.03.14:437][613]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.03.14:447][613]LogInit: FAudioDevice initialized.
+[2018.05.04-09.03.14:497][613]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.03.14:598][613]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.03.14
+[2018.05.04-09.03.14:619][613]LogWorld: Bringing up level for play took: 0.024024
+[2018.05.04-09.03.14:633][613]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 11 classes and 0 folders.
+[2018.05.04-09.03.14:636][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.03.14:636][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.03.14:636][613]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.03.14:779][613]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main 4.956
+[2018.05.04-09.03.14:780][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.03.14:780][613]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.03.22:197][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.03.27:585][876]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP11
+[2018.05.04-09.03.30:256][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.03.30:256][151]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.03.30:311][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.03.30:311][151]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.03.34:449][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.03.39:225][  7]LogSlate: Took 0.019354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.04-09.03.39:721][  7]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 116 classes and 0 folders.
+[2018.05.04-09.03.40:286][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f27a79ab8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.04-09.03.40:287][  7]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f27a79ab0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.05.04-09.03.41:235][  7]LogSlate: Took 0.014649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.05.04-09.03.41:525][  8]LogSlate: Took 0.002864 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.05.04-09.06.12:519][224]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.06.12:546][224]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f544fa160, Size=136
+[2018.05.04-09.06.12:546][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020faeca02c0, Size=136, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_64:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.06.12:551][224]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020fa9ba4e80, Size=128, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.06.14:930][335]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.06.14:968][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.06.14:968][335]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.06.14:968][335]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.06.14:968][335]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:06:14 PM)
+[2018.05.04-09.06.14:968][335]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.06.14:984][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015087s)
+[2018.05.04-09.06.14:985][335]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.06.14:985][335]LogPlayLevel: PIE: World Init took: (0.001074s)
+[2018.05.04-09.06.14:985][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.016377s)
+[2018.05.04-09.06.15:006][335]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020faeca02c0, Size=136
+[2018.05.04-09.06.15:015][335]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.06.15:025][335]LogInit: FAudioDevice initialized.
+[2018.05.04-09.06.15:069][335]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.06.15:165][335]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.06.15
+[2018.05.04-09.06.15:166][335]LogWorld: Bringing up level for play took: 0.003698
+[2018.05.04-09.06.15:169][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.06.15:169][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.06.15:169][335]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.06.15:306][335]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main -0.518
+[2018.05.04-09.06.15:306][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.06.15:306][335]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.06.19:632][568]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.06.19:903][583]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.06.22:413][722]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP11
+[2018.05.04-09.06.22:957][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.06.22:957][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.06.22:958][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP2
+[2018.05.04-09.06.22:958][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.06.22:959][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP4
+[2018.05.04-09.06.22:959][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP5
+[2018.05.04-09.06.22:960][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.06.22:960][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP7
+[2018.05.04-09.06.22:961][750]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP9
+[2018.05.04-09.06.23:123][758]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.06.24:919][841]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP4
+[2018.05.04-09.06.24:958][843]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.06.25:108][851]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP9
+[2018.05.04-09.06.25:245][858]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.06.25:287][860]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.06.25:327][862]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.06.25:940][892]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP12
+[2018.05.04-09.06.26:048][897]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP4
+[2018.05.04-09.06.26:541][922]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP5
+[2018.05.04-09.06.26:561][923]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP2
+[2018.05.04-09.06.26:618][926]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.06.27:577][978]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.06.29:375][ 67]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.06.30:393][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.06.30:393][120]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.06.30:455][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.06.30:456][120]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.06.31:466][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.08.51:608][792]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.08.51:634][792]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020fa9ba4e80, Size=128
+[2018.05.04-09.08.51:635][792]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f09da3e80, Size=128, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_70:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.08.51:641][792]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f09da2b80, Size=128, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.08.57:048][ 39]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.08.57:081][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.08.57:082][ 39]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.08.57:082][ 39]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.08.57:082][ 39]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:08:57 PM)
+[2018.05.04-09.08.57:082][ 39]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.08.57:097][ 39]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014542s)
+[2018.05.04-09.08.57:098][ 39]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.08.57:098][ 39]LogPlayLevel: PIE: World Init took: (0.001026s)
+[2018.05.04-09.08.57:098][ 39]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.015774s)
+[2018.05.04-09.08.57:121][ 39]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f09da3e80, Size=128
+[2018.05.04-09.08.57:130][ 39]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.08.57:140][ 39]LogInit: FAudioDevice initialized.
+[2018.05.04-09.08.57:177][ 39]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.08.57:274][ 39]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.08.57
+[2018.05.04-09.08.57:275][ 39]LogWorld: Bringing up level for play took: 0.003634
+[2018.05.04-09.08.57:278][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.08.57:278][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.08.57:278][ 39]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.08.57:415][ 39]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main -0.408
+[2018.05.04-09.08.57:416][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.08.57:416][ 39]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.05:539][475]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.09.05:557][476]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.09.05:576][477]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.09.11:278][783]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP11
+[2018.05.04-09.09.14:208][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.09.14:208][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.09.14:209][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP2
+[2018.05.04-09.09.14:209][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.09.14:210][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP4
+[2018.05.04-09.09.14:210][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP5
+[2018.05.04-09.09.14:211][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.09.14:212][943]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.09.20:673][273]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.09.20:693][274]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP4
+[2018.05.04-09.09.20:829][281]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.09.20:849][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.09.21:906][334]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.09.21:963][337]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP7
+[2018.05.04-09.09.22:135][346]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.09.22:154][347]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.09.23:755][419]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP7
+[2018.05.04-09.09.23:874][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.09.23:874][425]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.09.24:308][448]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP12
+[2018.05.04-09.09.27:752][632]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.09.28:331][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.09.28:331][663]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.28:392][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.09.28:392][663]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.29:453][707]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.09.39:210][210]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.09.39:228][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.09.39:229][210]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.39:229][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.09.39:229][210]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:09:39 PM)
+[2018.05.04-09.09.39:229][210]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.09.39:244][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015085s)
+[2018.05.04-09.09.39:245][210]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.09.39:245][210]LogPlayLevel: PIE: World Init took: (0.001068s)
+[2018.05.04-09.09.39:245][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.016364s)
+[2018.05.04-09.09.39:276][210]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.09.39:287][210]LogInit: FAudioDevice initialized.
+[2018.05.04-09.09.39:322][210]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.09.39:420][210]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.09.39
+[2018.05.04-09.09.39:421][210]LogWorld: Bringing up level for play took: 0.003618
+[2018.05.04-09.09.39:424][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.09.39:424][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.09.39:424][210]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.09.39:561][210]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main -0.262
+[2018.05.04-09.09.39:562][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.09.39:562][210]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.41:793][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.09.41:793][328]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.41:862][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.09.41:862][328]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.09.42:656][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.09.48:649][636]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020fad5ac138, Size=4, Default__SKEL_GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.SKEL_GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.11.03:990][471]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.11.04:001][471]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020fad5ac138, Size=4
+[2018.05.04-09.11.04:001][471]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020fad5ac138, Size=4, Default__SKEL_GreenZenny_BP_C Function /Engine/Transient.REINST_SKEL_GreenZenny_BP_C_74:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.11.04:016][471]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f09da2b80, Size=128
+[2018.05.04-09.11.04:016][471]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f05e34f00, Size=128, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_78:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.11.04:023][471]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020fa96731c0, Size=176, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.11.04:611][471]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020fad5ac138, Size=4
+[2018.05.04-09.11.06:670][561]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.11.06:697][561]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020fa96731c0, Size=176
+[2018.05.04-09.11.06:697][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0d8f9cc0, Size=176, GreenZenny_BP_C_19 Function /Engine/Transient.REINST_GreenZenny_BP_C_84:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.11.06:705][561]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0ebeea40, Size=176, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.11.07:286][561]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f05e34f00, Size=128
+[2018.05.04-09.11.08:047][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Zenny/GreenZenny_BP" FILE="../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/GreenZenny_BP.uasset" SILENT=true
+[2018.05.04-09.11.08:094][587]LogSavePackage: Save=43.10ms
+[2018.05.04-09.11.08:094][587]LogSavePackage: Moving '../../../../../../Git/MMLX/MMLX 4.19/Saved/GreenZenny_BP88EA23164AD30E4E1D59E48D4FA075F9.tmp' to '../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/GreenZenny_BP.uasset'
+[2018.05.04-09.11.08:096][587]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/GreenZenny_BP.uasset
+[2018.05.04-09.11.10:882][714]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-09.11.12:465][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0d8f9cc0, Size=176
+[2018.05.04-09.11.12:616][773]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Main" FILE="../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-09.11.12:672][773]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f50848dd8, Size=40
+[2018.05.04-09.11.12:672][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0bf40e28, Size=40, Default__Ocean_Tower_Main_C Function /Engine/Transient.REINST_Ocean_Tower_Main_C_88:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.11.12:677][773]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0bf40090, Size=40, Default__Ocean_Tower_Main_C Function /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.11.12:928][773]LogSavePackage: Save=282.96ms
+[2018.05.04-09.11.12:928][773]LogSavePackage: Moving '../../../../../../Git/MMLX/MMLX 4.19/Saved/Ocean_Tower_Main97ACA05E4C7EDE6CE69A528912A7F03A.tmp' to '../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap'
+[2018.05.04-09.11.12:930][773]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap
+[2018.05.04-09.11.12:965][773]LogFileHelpers: Saving map 'Ocean_Tower_Main' took 0.461
+[2018.05.04-09.11.14:575][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.11.14:682][852]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.11.14:717][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.11.14:717][852]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.11.14:717][852]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.11.14:717][852]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:11:14 PM)
+[2018.05.04-09.11.14:718][852]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.11.14:732][852]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014636s)
+[2018.05.04-09.11.14:733][852]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.11.14:733][852]LogPlayLevel: PIE: World Init took: (0.001045s)
+[2018.05.04-09.11.14:733][852]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.015890s)
+[2018.05.04-09.11.14:754][852]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0bf40e28, Size=40
+[2018.05.04-09.11.14:764][852]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.11.14:774][852]LogInit: FAudioDevice initialized.
+[2018.05.04-09.11.14:812][852]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.11.14:913][852]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.11.14
+[2018.05.04-09.11.14:914][852]LogWorld: Bringing up level for play took: 0.003783
+[2018.05.04-09.11.14:916][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.11.14:916][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.11.14:917][852]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.11.15:052][852]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main 1.229
+[2018.05.04-09.11.15:053][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.11.15:053][852]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.11.19:362][ 42]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.11.25:586][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.11.25:586][332]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.11.25:652][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.11.25:653][332]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.11.26:489][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.11.38:715][959]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.11.38:734][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.11.38:734][959]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.11.38:735][959]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.11.38:735][959]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:11:38 PM)
+[2018.05.04-09.11.38:735][959]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.11.38:750][959]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015026s)
+[2018.05.04-09.11.38:751][959]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.11.38:751][959]LogPlayLevel: PIE: World Init took: (0.001012s)
+[2018.05.04-09.11.38:751][959]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.016248s)
+[2018.05.04-09.11.38:782][959]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.11.38:792][959]LogInit: FAudioDevice initialized.
+[2018.05.04-09.11.38:827][959]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.11.38:930][959]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.11.38
+[2018.05.04-09.11.38:931][959]LogWorld: Bringing up level for play took: 0.004046
+[2018.05.04-09.11.38:934][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.11.38:934][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.11.38:934][959]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.11.39:072][959]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main 1.249
+[2018.05.04-09.11.39:073][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.11.39:073][959]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.11.49:100][400]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP11
+[2018.05.04-09.11.51:528][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.11.51:529][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP2
+[2018.05.04-09.11.51:530][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP4
+[2018.05.04-09.11.51:530][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP5
+[2018.05.04-09.11.51:530][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.11.51:531][510]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP7
+[2018.05.04-09.11.51:554][511]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.11.53:328][579]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.11.53:443][584]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.11.53:488][586]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP5
+[2018.05.04-09.11.53:814][598]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.11.53:955][604]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.11.55:062][652]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.11.55:109][654]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.11.55:452][669]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP12
+[2018.05.04-09.11.56:995][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.11.56:996][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP9
+[2018.05.04-09.11.56:997][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP11
+[2018.05.04-09.11.56:997][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP12
+[2018.05.04-09.11.56:998][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP13
+[2018.05.04-09.11.56:998][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP15
+[2018.05.04-09.11.56:999][737]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP16
+[2018.05.04-09.11.58:077][782]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP9
+[2018.05.04-09.11.58:246][789]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP11
+[2018.05.04-09.11.58:246][789]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP12
+[2018.05.04-09.11.58:537][801]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP12
+[2018.05.04-09.11.58:611][804]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP14
+[2018.05.04-09.11.58:688][807]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP10
+[2018.05.04-09.12.00:832][899]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.12.01:551][930]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP12
+[2018.05.04-09.12.01:810][941]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP10
+[2018.05.04-09.12.02:159][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP17
+[2018.05.04-09.12.02:160][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP18
+[2018.05.04-09.12.02:161][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP19
+[2018.05.04-09.12.02:162][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP21
+[2018.05.04-09.12.02:163][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP23
+[2018.05.04-09.12.02:164][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP24
+[2018.05.04-09.12.02:166][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP26
+[2018.05.04-09.12.02:166][956]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP27
+[2018.05.04-09.12.02:292][961]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP22
+[2018.05.04-09.12.02:340][963]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP20
+[2018.05.04-09.12.02:390][965]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP25
+[2018.05.04-09.12.02:537][971]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP17
+[2018.05.04-09.12.03:052][992]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP17
+[2018.05.04-09.12.03:589][ 14]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP21
+[2018.05.04-09.12.03:615][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP23
+[2018.05.04-09.12.03:639][ 16]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP24
+[2018.05.04-09.12.03:663][ 17]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.12.04:458][ 50]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP21
+[2018.05.04-09.12.04:482][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP23
+[2018.05.04-09.12.04:648][ 58]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP24
+[2018.05.04-09.12.04:886][ 68]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP17
+[2018.05.04-09.12.05:027][ 74]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP19
+[2018.05.04-09.12.05:268][ 84]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP25
+[2018.05.04-09.12.07:551][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.12.07:551][178]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.12.07:613][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.12.07:613][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.12.08:688][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.12.12:709][400]LogRenderer: Reallocating scene render targets to support 1616x840 Format 10 NumSamples 1 (Frame:1).
+[2018.05.04-09.12.33:135][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.13.57:497][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.15.17:738][823]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.15.17:765][823]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0ebeea40, Size=176
+[2018.05.04-09.15.17:765][823]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020fb0b67c40, Size=176, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_94:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.15.17:770][823]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f22ab2160, Size=104, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.15.20:090][908]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.15.20:126][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.15.20:126][908]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.15.20:127][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.15.20:127][908]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:15:20 PM)
+[2018.05.04-09.15.20:127][908]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.15.20:142][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014702s)
+[2018.05.04-09.15.20:143][908]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.15.20:143][908]LogPlayLevel: PIE: World Init took: (0.001050s)
+[2018.05.04-09.15.20:143][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.015967s)
+[2018.05.04-09.15.20:165][908]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020fb0b67c40, Size=176
+[2018.05.04-09.15.20:173][908]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.15.20:184][908]LogInit: FAudioDevice initialized.
+[2018.05.04-09.15.20:218][908]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.15.20:316][908]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.15.20
+[2018.05.04-09.15.20:317][908]LogWorld: Bringing up level for play took: 0.003639
+[2018.05.04-09.15.20:320][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.15.20:320][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.15.20:320][908]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.15.20:457][908]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main 0.634
+[2018.05.04-09.15.20:458][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.15.20:458][908]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.15.27:481][282]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP11
+[2018.05.04-09.15.29:160][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.15.29:161][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP1
+[2018.05.04-09.15.29:162][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP3
+[2018.05.04-09.15.29:162][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP5
+[2018.05.04-09.15.29:163][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP6
+[2018.05.04-09.15.29:163][361]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP7
+[2018.05.04-09.15.29:262][366]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP2
+[2018.05.04-09.15.30:482][428]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP13
+[2018.05.04-09.15.30:902][451]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] Zakobon_BP12
+[2018.05.04-09.15.31:176][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP8
+[2018.05.04-09.15.31:177][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP9
+[2018.05.04-09.15.31:177][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP10
+[2018.05.04-09.15.31:178][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP11
+[2018.05.04-09.15.31:178][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP12
+[2018.05.04-09.15.31:179][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP13
+[2018.05.04-09.15.31:179][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP14
+[2018.05.04-09.15.31:180][466]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP16
+[2018.05.04-09.15.32:345][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.15.32:345][529]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.15.32:404][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.15.32:404][529]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.15.33:555][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.16.02:865][ 24]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2018.05.04-09.16.02:865][ 24]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2018.05.04-09.16.33:130][570]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.16.33:156][570]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f22ab2160, Size=104
+[2018.05.04-09.16.33:156][570]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020fa823a240, Size=104, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_100:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.16.33:162][570]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0dba4280, Size=176, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.16.40:135][865]LogTemp: Repeating last play command: Selected Viewport
+[2018.05.04-09.16.40:171][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.16.40:171][865]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.16.40:171][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.05.04-09.16.40:172][865]PIE: New page: PIE session: Ocean_Tower_Main (May 3, 2018, 7:16:40 PM)
+[2018.05.04-09.16.40:172][865]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.05.04-09.16.40:188][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016459s)
+[2018.05.04-09.16.40:189][865]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.05.04-09.16.40:189][865]LogPlayLevel: PIE: World Init took: (0.001097s)
+[2018.05.04-09.16.40:189][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.017783s)
+[2018.05.04-09.16.40:210][865]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020fa823a240, Size=104
+[2018.05.04-09.16.40:219][865]LogInit: XAudio2 using 'Speakers (Bose USB Audio)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x60f)
+[2018.05.04-09.16.40:230][865]LogInit: FAudioDevice initialized.
+[2018.05.04-09.16.40:273][865]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.05.04-09.16.40:370][865]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.05.04-02.16.40
+[2018.05.04-09.16.40:371][865]LogWorld: Bringing up level for play took: 0.003952
+[2018.05.04-09.16.40:374][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] ThirdPersonCharacter
+[2018.05.04-09.16.40:374][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.16.40:374][865]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] SpectatorPawn
+[2018.05.04-09.16.40:515][865]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main 0.692
+[2018.05.04-09.16.40:516][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.16.40:516][865]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.16.45:582][ 93]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.16.45:627][ 95]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] GreenZenny_BP
+[2018.05.04-09.16.47:390][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.16.47:390][176]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.16.47:452][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.05.04-09.16.47:452][176]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.05.04-09.16.49:534][261]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.17.15:506][589]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::EqualEqual_ObjectObject' [Element not found.]
+[2018.05.04-09.17.29:662][286]BlueprintLog: New page: Compile GreenZenny_BP
+[2018.05.04-09.17.29:691][286]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0dba4280, Size=176
+[2018.05.04-09.17.29:691][286]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f75a95900, Size=176, Default__GreenZenny_BP_C Function /Engine/Transient.REINST_GreenZenny_BP_C_106:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.17.29:698][286]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f75a97a00, Size=176, Default__GreenZenny_BP_C Function /Game/Blueprints/Zenny/GreenZenny_BP.GreenZenny_BP_C:ExecuteUbergraph_GreenZenny_BP
+[2018.05.04-09.17.33:394][440]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f75a95900, Size=176
+[2018.05.04-09.17.33:539][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Ocean_Tower_Main" FILE="../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.05.04-09.17.33:596][440]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0bf40090, Size=40
+[2018.05.04-09.17.33:596][440]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0bf40090, Size=40, Default__Ocean_Tower_Main_C Function /Engine/Transient.REINST_Ocean_Tower_Main_C_110:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.17.33:601][440]LogUObjectGlobals: Created PersistentFrame Addr=0x0000020f0bf41328, Size=40, Default__Ocean_Tower_Main_C Function /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C:ExecuteUbergraph_Ocean_Tower_Main
+[2018.05.04-09.17.33:855][440]LogSavePackage: Save=288.15ms
+[2018.05.04-09.17.33:855][440]LogSavePackage: Moving '../../../../../../Git/MMLX/MMLX 4.19/Saved/Ocean_Tower_Main9AA1B0E741275CBBAFAA2B902437F698.tmp' to '../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap'
+[2018.05.04-09.17.33:856][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/MMLX/MMLX 4.19/Content/Maps/Ocean_Tower_Main.umap
+[2018.05.04-09.17.33:880][440]LogFileHelpers: Saving map 'Ocean_Tower_Main' took 0.448
+[2018.05.04-09.17.33:903][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Zenny/GreenZenny_BP" FILE="../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/GreenZenny_BP.uasset" SILENT=true
+[2018.05.04-09.17.33:948][440]LogSavePackage: Save=42.12ms
+[2018.05.04-09.17.33:948][440]LogSavePackage: Moving '../../../../../../Git/MMLX/MMLX 4.19/Saved/GreenZenny_BP6E8EFC7D4161A958468968B562BFE0E7.tmp' to '../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/GreenZenny_BP.uasset'
+[2018.05.04-09.17.33:950][440]LogSavePackage: Display: Finished SavePackage ../../../../../../Git/MMLX/MMLX 4.19/Content/Blueprints/Zenny/GreenZenny_BP.uasset
+[2018.05.04-09.17.52:852][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-09.17.54:038][547]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0bf40090, Size=40
+[2018.05.04-09.18.04:102][114]LogSlate: Window 'GreenZenny_BP' being destroyed
+[2018.05.04-09.18.04:115][114]LogSlate: Window 'GreenZenny_BP' being destroyed
+[2018.05.04-09.18.11:344][808]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.04-09.18.13:213][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.04-09.18.13:405][972]LogSlate: Window 'MMLX - Unreal Editor' being destroyed
+[2018.05.04-09.18.13:406][972]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.04-09.18.13:406][972]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.04-09.18.13:652][973]Cmd: QUIT_EDITOR
+[2018.05.04-09.18.14:293][973]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.04-09.18.14:293][973]LogExit: Preparing to exit.
+[2018.05.04-09.18.14:982][973]LogDirectoryWatcher: A directory notification for 'E:/Git/MMLX/MMLX 4.19/Content/' was aborted.
+[2018.05.04-09.18.15:062][973]LogExit: Editor shut down
+[2018.05.04-09.18.15:068][973]LogExit: Transaction tracking system shut down
+[2018.05.04-09.18.15:070][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f7217e980, Size=592
+[2018.05.04-09.18.15:070][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f504de800, Size=912
+[2018.05.04-09.18.15:070][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f5108e750, Size=72
+[2018.05.04-09.18.15:071][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f544efba0, Size=224
+[2018.05.04-09.18.15:072][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f54509300, Size=640
+[2018.05.04-09.18.15:072][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f5447a010, Size=104
+[2018.05.04-09.18.15:072][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f544ef9e0, Size=224
+[2018.05.04-09.18.15:072][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f553c6390, Size=56
+[2018.05.04-09.18.15:072][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f55374e00, Size=136
+[2018.05.04-09.18.15:072][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f5442e700, Size=624
+[2018.05.04-09.18.15:079][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f54676470, Size=4
+[2018.05.04-09.18.15:080][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f015ca278, Size=8
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2ad72c00, Size=944
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1b2e80, Size=640
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1b9600, Size=336
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1b9000, Size=344
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1e6390, Size=72
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1db580, Size=216
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f2b1d97c0, Size=216
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f92167ac0, Size=216
+[2018.05.04-09.18.15:081][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f040df880, Size=560
+[2018.05.04-09.18.15:083][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f05caa400, Size=784
+[2018.05.04-09.18.15:084][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f7a390e40, Size=4
+[2018.05.04-09.18.15:084][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f15055080, Size=144
+[2018.05.04-09.18.15:086][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f27a79ab8, Size=4
+[2018.05.04-09.18.15:086][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f27a79ab0, Size=4
+[2018.05.04-09.18.15:087][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f75a97a00, Size=176
+[2018.05.04-09.18.15:088][973]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000020f0bf41328, Size=40
+[2018.05.04-09.18.15:278][973]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.04-09.18.15:278][973]LogDirectoryWatcher: A directory notification for '../../../../../../Git/MMLX/MMLX 4.19/Content/' was aborted.
+[2018.05.04-09.18.15:278][973]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.04-09.18.15:279][973]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.04-09.18.15:279][973]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.04-09.18.15:279][973]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.04-09.18.15:279][973]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.04-09.18.15:279][973]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.04-09.18.15:441][973]LogExit: Object subsystem successfully closed.
+[2018.05.04-09.18.15:467][973]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.04-09.18.15:473][973]LogD3D11RHI: Shutdown
+[2018.05.04-09.18.15:473][973]LogD3D11RHI: CleanupD3DDevice
+[2018.05.04-09.18.15:477][973]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.04-09.18.15:504][973]LogModuleManager: Shutting down and abandoning module BlueprintGraph (588)
+[2018.05.04-09.18.15:504][973]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (586)
+[2018.05.04-09.18.15:504][973]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (584)
+[2018.05.04-09.18.15:504][973]LogModuleManager: Shutting down and abandoning module WorldBrowser (582)
+[2018.05.04-09.18.15:504][973]LogModuleManager: Shutting down and abandoning module SceneOutliner (580)
+[2018.05.04-09.18.15:504][973]LogModuleManager: Shutting down and abandoning module AddContentDialog (578)
+[2018.05.04-09.18.15:504][973]LogDirectoryWatcher: A directory notification for 'E:/Unreal Engine Content/Epic Games/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.04-09.18.15:506][973]LogModuleManager: Shutting down and abandoning module WidgetCarousel (577)
+[2018.05.04-09.18.15:506][973]LogModuleManager: Shutting down and abandoning module EditorWidgets (574)
+[2018.05.04-09.18.15:506][973]LogModuleManager: Shutting down and abandoning module CollectionManager (572)
+[2018.05.04-09.18.15:506][973]LogDirectoryWatcher: A directory notification for 'E:/Git/MMLX/MMLX 4.19/Content/Collections/' was aborted.
+[2018.05.04-09.18.15:506][973]LogDirectoryWatcher: A directory notification for 'E:/Git/MMLX/MMLX 4.19/Content/Developers/JJ/Collections/' was aborted.
+[2018.05.04-09.18.15:506][973]LogDirectoryWatcher: A directory notification for 'E:/Git/MMLX/MMLX 4.19/Saved/Collections/' was aborted.
+[2018.05.04-09.18.15:506][973]LogModuleManager: Shutting down and abandoning module StatsViewer (570)
+[2018.05.04-09.18.15:506][973]LogModuleManager: Shutting down and abandoning module FoliageEdit (568)
+[2018.05.04-09.18.15:506][973]LogModuleManager: Shutting down and abandoning module LandscapeEditor (566)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module MeshPaintMode (564)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (562)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module ActorPickerMode (560)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module GeometryMode (558)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module TextureAlignMode (556)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module BspMode (554)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (552)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module HardwareSurvey (550)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (548)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module AutomationWorker (546)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (544)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module SequenceRecorder (543)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (540)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (538)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module PlacementMode (537)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module MaterialEditor (536)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (532)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (530)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (528)
+[2018.05.04-09.18.15:507][973]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (526)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (524)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (522)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (520)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (518)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (516)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (514)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module CharacterAI (512)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module SmartSnapping (510)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module SessionServices (508)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module ViewportSnapping (506)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module ViewportInteraction (504)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module ClothPainter (502)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (501)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module LogVisualizer (498)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module IntroTutorials (496)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (495)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (492)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (490)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (488)
+[2018.05.04-09.18.15:508][973]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (487)
+[2018.05.04-09.18.16:106][973]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (484)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (482)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (480)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module InputBindingEditor (478)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module MergeActors (476)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (474)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module LocalizationService (473)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module HardwareTargeting (470)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (468)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module UndoHistory (466)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module XmlParser (464)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module Blutility (462)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (460)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (459)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (456)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module SettingsEditor (454)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module ProjectLauncher (452)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module SessionFrontend (450)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module ProfilerClient (448)
+[2018.05.04-09.18.16:107][973]LogModuleManager: Shutting down and abandoning module DeviceManager (446)
+[2018.05.04-09.18.16:108][973]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (445)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module AutomationController (442)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module AutomationWindow (440)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module Layers (438)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (436)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module DetailCustomizations (434)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module PackagesDialog (432)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module Persona (430)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (429)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module AnimGraph (427)
+[2018.05.04-09.18.16:174][973]LogModuleManager: Shutting down and abandoning module Kismet (424)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module GraphEditor (422)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module ClassViewer (420)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module Toolbox (418)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module ModuleUI (416)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module MovieSceneTools (414)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module OutputLog (412)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module GammaUI (410)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module Documentation (408)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (406)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module MovieScene (404)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (402)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module LauncherPlatform (400)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module AnalyticsET (398)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module PortalServices (396)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module PortalRpc (394)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module MessagingRpc (392)
+[2018.05.04-09.18.16:185][973]LogModuleManager: Shutting down and abandoning module AIModule (390)
+[2018.05.04-09.18.16:186][973]LogModuleManager: Shutting down and abandoning module GameplayDebugger (389)
+[2018.05.04-09.18.16:186][973]LogModuleManager: Shutting down and abandoning module AITestSuite (387)
+[2018.05.04-09.18.16:186][973]LogModuleManager: Shutting down and abandoning module DesktopPlatform (384)
+[2018.05.04-09.18.16:186][973]LogModuleManager: Shutting down and abandoning module ProfilerService (382)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module TaskGraph (380)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (378)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module SubstanceSource (376)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module SubstanceEditor (374)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module SteamVRController (372)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (370)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (368)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module OculusInput (366)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (364)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (362)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module CableComponent (360)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module AudioCapture (358)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (356)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module AndroidPermission (354)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (350)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (348)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (346)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module MediaCompositing (344)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module LinearTimecode (342)
+[2018.05.04-09.18.16:412][973]LogModuleManager: Shutting down and abandoning module ImgMedia (340)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module HTML5Networking (338)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module AlembicImporter (336)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module AlembicLibrary (335)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module GeometryCache (334)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (333)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module DatasmithContent (328)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (326)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module PluginBrowser (324)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (322)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (320)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module CryptoKeys (318)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (316)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (314)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module UObjectPlugin (312)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (310)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (308)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module GitSourceControl (306)
+[2018.05.04-09.18.16:416][973]LogModuleManager: Shutting down and abandoning module SourceControl (305)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (302)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (300)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (298)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (296)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module Paper2DEditor (294)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module MeshPaint (293)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module SubstanceCore (290)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.04-09.18.16:417][973]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.04-09.18.16:518][973]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.04-09.18.16:619][973]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.04-09.18.16:619][973]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.04-09.18.16:619][973]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.04-09.18.16:619][973]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.04-09.18.16:619][973]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.04-09.18.16:619][973]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.04-09.18.16:620][973]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.04-09.18.16:620][973]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.04-09.18.16:620][973]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.04-09.18.16:620][973]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.04-09.18.16:621][973]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.04-09.18.16:622][973]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.04-09.18.16:622][973]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.04-09.18.16:622][973]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.04-09.18.16:622][973]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.04-09.18.17:573][973]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.04-09.18.17:573][973]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.04-09.18.17:573][973]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.04-09.18.17:573][973]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.04-09.18.17:579][973]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.04-09.18.17:580][973]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.04-09.18.17:582][973]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.04-09.18.17:582][973]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.04-09.18.17:582][973]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.04-09.18.17:582][973]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.04-09.18.17:583][973]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.04-09.18.17:584][973]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.04-09.18.17:627][973]LogDerivedDataCache: Shutdown
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.04-09.18.17:628][973]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.04-09.18.17:629][973]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.04-09.18.17:629][973]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.04-09.18.17:629][973]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B59AD1ADC-4B8C-DF5E-3EEC-DB8CF46DFCAE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=655cea6e4121de58d6b235bb33e22ffc%7C75ca7cb601194ffd9d7e74056c45c473%7C287c710b-2862-4bac-8cb2-ca0bc618d20d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.04-09.18.17:643][973]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.04-09.18.17:644][973]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.04-09.18.17:644][973]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.04-09.18.17:645][973]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.04-09.18.17:645][973]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.04-09.18.17:645][973]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.04-09.18.17:645][973]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.04-09.18.17:645][973]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.04-09.18.17:646][973]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.04-09.18.17:646][973]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.04-09.18.17:647][973]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.04-09.18.17:660][973]LogExit: Exiting.
+[2018.05.04-09.18.17:674][973]Log file closed, 05/04/18 02:18:17

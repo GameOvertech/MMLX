@@ -1,0 +1,643 @@
+------------------
+System Information
+------------------
+  DxDiag Previously: Crashed in system information (stage 1) & DirectShow (stage 1) & MediaFoundation (stage 1). Re-running DxDiag with "dontskip" command line parameter or choosing not to bypass information gathering when prompted might result in DxDiag successfully obtaining this information
+
+------------
+DxDiag Notes
+------------
+      Display Tab 1: No problems found.
+        Sound Tab 1: No problems found.
+        Sound Tab 2: No problems found.
+        Sound Tab 3: No problems found.
+          Input Tab: No problems found.
+
+---------------
+Display Devices
+---------------
+           Card name: NVIDIA GeForce GTX 980 Ti
+        Manufacturer: NVIDIA
+           Chip type: GeForce GTX 980 Ti
+            DAC type: Integrated RAMDAC
+         Device Type: Full Device (POST)
+          Device Key: Enum\PCI\VEN_10DE&DEV_17C8&SUBSYS_19963842&REV_A1
+       Device Status: 0180200A [DN_DRIVER_LOADED|DN_STARTED|DN_DISABLEABLE|DN_NT_ENUMERATOR|DN_NT_DRIVER] 
+ Device Problem Code: No Problem
+ Driver Problem Code: Unknown
+      Display Memory: 38827 MB
+    Dedicated Memory: 6103 MB
+       Shared Memory: 32723 MB
+        Current Mode: 2560 x 1440 (32 bit) (59Hz)
+         HDR Support: Not Supported
+    Display Topology: Internal
+ Display Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709
+     Color Primaries: Red(0.661633,0.332531), Green(0.302258,0.613781), Blue(0.149914,0.060070), White Point(0.313977,0.329602)
+   Display Luminance: Min Luminance = 0.500000, Max Luminance = 270.000000, MaxFullFrameLuminance = 270.000000
+        Monitor Name: Generic PnP Monitor
+       Monitor Model: ASUS PB258
+          Monitor Id: ACI25A1
+         Native Mode: 2560 x 1440(p) (59.951Hz)
+         Output Type: HDMI
+Monitor Capabilities: HDR Not Supported
+Display Pixel Format: DISPLAYCONFIG_PIXELFORMAT_32BPP
+      Advanced Color: Not Supported
+         Driver Name: C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll,C:\WINDOWS\System32\DriverStore\FileRepository\nv_ref_pubwu.inf_amd64_2e7fa54192fe16d0\nvldumdx.dll
+ Driver File Version: 23.21.0013.8813 (English)
+      Driver Version: 23.21.13.8813
+         DDI Version: 12
+      Feature Levels: 12_1,12_0,11_1,11_0,10_1,10_0,9_3,9_2,9_1
+        Driver Model: WDDM 2.3
+ Graphics Preemption: DMA
+  Compute Preemption: DMA
+            Miracast: Not Supported
+ Hybrid Graphics GPU: Not Supported
+      Power P-states: Not Supported
+      Virtualization: Paravirtualization 
+          Block List: No Blocks
+  Catalog Attributes: N/A
+   Driver Attributes: Final Retail
+    Driver Date/Size: 10/26/2017 8:00:00 PM, 945072 bytes
+         WHQL Logo'd: Yes
+     WHQL Date Stamp: Unknown
+   Device Identifier: {D7B71E3E-5488-11CF-9F79-9B391BC2DA35}
+           Vendor ID: 0x10DE
+           Device ID: 0x17C8
+           SubSys ID: 0x19963842
+         Revision ID: 0x00A1
+  Driver Strong Name: oem12.inf:0f066de3672d1ed2:Section110:23.21.13.8813:pci\ven_10de&dev_17c8
+      Rank Of Driver: 00D12001
+         Video Accel: 
+         DXVA2 Modes: DXVA2_ModeMPEG2_VLD  DXVA2_ModeVC1_D2010  DXVA2_ModeVC1_VLD  DXVA2_ModeH264_VLD_Stereo_Progressive_NoFGT  DXVA2_ModeH264_VLD_Stereo_NoFGT  DXVA2_ModeH264_VLD_NoFGT  DXVA2_ModeHEVC_VLD_Main  DXVA2_ModeMPEG4pt2_VLD_Simple  DXVA2_ModeMPEG4pt2_VLD_AdvSimple_NoGMC  
+   Deinterlace Caps: {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YUY2,YUY2) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(UYVY,UYVY) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(YV12,0x32315659) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_PixelAdaptive 
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY 
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(NV12,0x3231564e) Frames(Prev/Fwd/Back)=(0,0,0) Caps=VideoProcess_YUV2RGB VideoProcess_StretchX VideoProcess_StretchY DeinterlaceTech_BOBVerticalStretch 
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC1,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC2,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC3,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(IMC4,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S340,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {6CB69578-7617-4637-91E5-1C02DB810285}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {F9F19DA5-3B09-4B2F-9D89-C64753E3EAAB}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {5A54A0C9-C7EC-4BD9-8EDE-F3C75DC4393B}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+                     {335AA36E-7884-43A4-9C91-7F87FAF3E37E}: Format(In/Out)=(S342,UNKNOWN) Frames(Prev/Fwd/Back)=(0,0,0) Caps=
+        D3D9 Overlay: Supported
+             DXVA-HD: Supported
+        DDraw Status: Enabled
+          D3D Status: Enabled
+          AGP Status: Enabled
+       MPO MaxPlanes: 1
+            MPO Caps: Not Supported
+         MPO Stretch: Not Supported
+     MPO Media Hints: Not Supported
+         MPO Formats: Not Supported
+    PanelFitter Caps: Not Supported
+ PanelFitter Stretch: Not Supported
+
+-------------
+Sound Devices
+-------------
+            Description: ASUS PB258-4 (NVIDIA High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10DE&DEV_0070&SUBSYS_38421996&REV_1001
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: nvhda64v.sys
+         Driver Version: 1.03.0035.0001 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 10/27/2017 12:00:00 AM, 233904 bytes
+            Other Files: 
+        Driver Provider: NVIDIA Corporation
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Realtek Digital Output (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_10438608&REV_1000
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.7525 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 6/2/2015 12:00:00 AM, 4477656 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+            Description: Realtek Digital Output(Optical) (Realtek High Definition Audio)
+ Default Sound Playback: No
+ Default Voice Playback: No
+            Hardware ID: HDAUDIO\FUNC_01&VEN_10EC&DEV_0900&SUBSYS_10438608&REV_1000
+        Manufacturer ID: 1
+             Product ID: 100
+                   Type: WDM
+            Driver Name: RTKVHD64.sys
+         Driver Version: 6.00.0001.7525 (English)
+      Driver Attributes: Final Retail
+            WHQL Logo'd: n/a
+          Date and Size: 6/2/2015 12:00:00 AM, 4477656 bytes
+            Other Files: 
+        Driver Provider: Realtek Semiconductor Corp.
+         HW Accel Level: Basic
+              Cap Flags: 0x0
+    Min/Max Sample Rate: 0, 0
+Static/Strm HW Mix Bufs: 0, 0
+ Static/Strm HW 3D Bufs: 0, 0
+              HW Memory: 0
+       Voice Management: No
+ EAX(tm) 2.0 Listen/Src: No, No
+   I3DL2(tm) Listen/Src: No, No
+Sensaura(tm) ZoomFX(tm): No
+
+---------------------
+Sound Capture Devices
+---------------------
+---------------------
+Video Capture Devices
+Number of Devices: 0
+---------------------
+-------------------
+DirectInput Devices
+-------------------
+      Device Name: Mouse
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Keyboard
+         Attached: 1
+    Controller ID: n/a
+Vendor/Product ID: n/a
+        FF Driver: n/a
+
+      Device Name: Corsair K70 RGB Gaming Keyboard 
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1B1C, 0x1B13
+        FF Driver: n/a
+
+      Device Name: Corsair K70 RGB Gaming Keyboard 
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1B1C, 0x1B13
+        FF Driver: n/a
+
+      Device Name: Corsair K70 RGB Gaming Keyboard 
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1B1C, 0x1B13
+        FF Driver: n/a
+
+      Device Name: Razer DeathAdder Chroma
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0043
+        FF Driver: n/a
+
+      Device Name: Razer DeathAdder Chroma
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0043
+        FF Driver: n/a
+
+      Device Name: Razer DeathAdder Chroma
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0043
+        FF Driver: n/a
+
+      Device Name: Razer DeathAdder Chroma
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1532, 0x0043
+        FF Driver: n/a
+
+      Device Name: Corsair K70 RGB Gaming Keyboard 
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1B1C, 0x1B13
+        FF Driver: n/a
+
+      Device Name: Corsair composite virtual input device
+         Attached: 1
+    Controller ID: 0x0
+Vendor/Product ID: 0x1B1C, 0x1BF0
+        FF Driver: n/a
+
+Poll w/ Interrupt: No
+
+-----------
+USB Devices
+-----------
++ USB Root Hub (USB 3.0)
+| Vendor/Product ID: 0x8086, 0x8D31
+| Matching Device ID: USB\ROOT_HUB30
+| Service: USBHUB3
+| Driver: USBHUB3.SYS, 6/8/2018 05:30:50, 565152 bytes
+| 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x1B1C, 0x1B13
+| | Location: Port_#0006.Hub_#0003
+| | Matching Device ID: USB\COMPOSITE
+| | Service: usbccgp
+| | Driver: usbccgp.sys, 4/11/2018 19:33:52, 168864 bytes
+| | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x1B1C, 0x1B13
+| | | Location: 0000.0014.0000.006.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 4/11/2018 19:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/11/2018 19:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+| | | 
+| | +-+ HID Keyboard Device
+| | | | Vendor/Product ID: 0x1B1C, 0x1B13
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 4/11/2018 19:33:52, 40448 bytes
+| | | | Driver: kbdclass.sys, 4/11/2018 19:33:52, 63904 bytes
+| | | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x1B1C, 0x1B13
+| | | Location: 0000.0014.0000.006.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 4/11/2018 19:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/11/2018 19:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+| | | 
+| | +-+ HID Keyboard Device
+| | | | Vendor/Product ID: 0x1B1C, 0x1B13
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 4/11/2018 19:33:52, 40448 bytes
+| | | | Driver: kbdclass.sys, 4/11/2018 19:33:52, 63904 bytes
+| | 
++-+ USB Composite Device
+| | Vendor/Product ID: 0x1532, 0x0043
+| | Location: Port_#0014.Hub_#0003
+| | Matching Device ID: USB\COMPOSITE
+| | Service: usbccgp
+| | Driver: usbccgp.sys, 4/11/2018 19:33:52, 168864 bytes
+| | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x1532, 0x0043
+| | | Location: 0000.0014.0000.014.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 4/11/2018 19:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/11/2018 19:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+| | | 
+| | +-+ Razer DeathAdder Chroma
+| | | | Vendor/Product ID: 0x1532, 0x0043
+| | | | Matching Device ID: HID\VID_1532&PID_0043&MI_00
+| | | | Upper Filters: rzudd
+| | | | Service: mouhid
+| | | | Driver: rzudd.sys, 6/23/2016 07:55:34, 203288 bytes
+| | | | Driver: mouhid.sys, 4/11/2018 19:33:52, 33280 bytes
+| | | | Driver: mouclass.sys, 4/11/2018 19:33:52, 56728 bytes
+| | | 
+| +-+ Razer DeathAdder Chroma
+| | | Vendor/Product ID: 0x1532, 0x0043
+| | | Location: 0000.0014.0000.014.000.000.000.000.000
+| | | Matching Device ID: USB\VID_1532&PID_0043&MI_01
+| | | Lower Filters: rzendpt
+| | | Service: HidUsb
+| | | Driver: rzendpt.sys, 6/23/2016 07:55:20, 51736 bytes
+| | | Driver: hidusb.sys, 4/11/2018 19:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/11/2018 19:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+| | | 
+| | +-+ HID Keyboard Device
+| | | | Vendor/Product ID: 0x1532, 0x0043
+| | | | Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| | | | Service: kbdhid
+| | | | Driver: kbdhid.sys, 4/11/2018 19:33:52, 40448 bytes
+| | | | Driver: kbdclass.sys, 4/11/2018 19:33:52, 63904 bytes
+| | | 
+| +-+ USB Input Device
+| | | Vendor/Product ID: 0x1532, 0x0043
+| | | Location: 0000.0014.0000.014.000.000.000.000.000
+| | | Matching Device ID: USB\Class_03&SubClass_01
+| | | Service: HidUsb
+| | | Driver: hidusb.sys, 4/11/2018 19:33:52, 42496 bytes
+| | | Driver: hidclass.sys, 4/11/2018 19:33:52, 173568 bytes
+| | | Driver: hidparse.sys, 6/8/2018 05:01:36, 46080 bytes
+| | | 
+| | +-+ Razer DeathAdder Chroma
+| | | | Vendor/Product ID: 0x1532, 0x0043
+| | | | Matching Device ID: HID\VID_1532&PID_0043&MI_02
+| | | | Upper Filters: rzudd
+| | | | Service: kbdhid
+| | | | Driver: rzudd.sys, 6/23/2016 07:55:34, 203288 bytes
+| | | | Driver: kbdhid.sys, 4/11/2018 19:33:52, 40448 bytes
+| | | | Driver: kbdclass.sys, 4/11/2018 19:33:52, 63904 bytes
+
+----------------
+Gameport Devices
+----------------
+
+------------
+PS/2 Devices
+------------
++ HID Keyboard Device
+| Vendor/Product ID: 0x1B1C, 0x0000
+| Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| Service: kbdhid
+| Driver: kbdhid.sys, 4/11/2018 19:33:52, 40448 bytes
+| Driver: kbdclass.sys, 4/11/2018 19:33:52, 63904 bytes
+| 
++ HID Keyboard Device
+| Vendor/Product ID: 0x1B1C, 0x0000
+| Matching Device ID: HID_DEVICE_SYSTEM_KEYBOARD
+| Service: kbdhid
+| Driver: kbdhid.sys, 4/11/2018 19:33:52, 40448 bytes
+| Driver: kbdclass.sys, 4/11/2018 19:33:52, 63904 bytes
+| 
++ HID-compliant mouse
+| Vendor/Product ID: 0x1B1C, 0x0000
+| Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| Service: mouhid
+| Driver: mouhid.sys, 4/11/2018 19:33:52, 33280 bytes
+| Driver: mouclass.sys, 4/11/2018 19:33:52, 56728 bytes
+| 
++ HID-compliant mouse
+| Vendor/Product ID: 0x1B1C, 0x0000
+| Matching Device ID: HID_DEVICE_SYSTEM_MOUSE
+| Service: mouhid
+| Driver: mouhid.sys, 4/11/2018 19:33:52, 33280 bytes
+| Driver: mouclass.sys, 4/11/2018 19:33:52, 56728 bytes
+
+---------------
+EVR Power Information
+---------------
+Current Setting: {5C67A112-A4C9-483F-B4A7-1D473BECAFDC} (Quality) 
+  Quality Flags: 2576
+    Enabled:
+    Force throttling
+    Allow half deinterlace
+    Allow scaling
+    Decode Power Usage: 100
+  Balanced Flags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 50
+  PowerFlags: 1424
+    Enabled:
+    Force throttling
+    Allow batching
+    Force half deinterlace
+    Force scaling
+    Decode Power Usage: 0
+
+---------------
+Diagnostics
+---------------
+
+Windows Error Reporting:
++++ WER0 +++:
+Fault bucket 1318830659494817777, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: AsusFanControlService.exe
+P2: 1.0.1.4
+P3: 54f6c4c7
+P4: KERNELBASE.dll
+P5: 10.0.17134.112
+P6: c863c6f9
+P7: c000041d
+P8: 0010db52
+P9: 
+P10: 
+
+
++++ WER1 +++:
+Fault bucket 1417115004613894334, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: AsusFanControlService.exe
+P2: 1.0.1.4
+P3: 54f6c4c7
+P4: KERNELBASE.dll
+P5: 10.0.17134.112
+P6: c863c6f9
+P7: 0eedfade
+P8: 0010db52
+P9: 
+P10: 
+
+
++++ WER2 +++:
+Fault bucket 1781134258058553087, type 5
+Event Name: CLR20r3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: CorsairLink4.Service.exe
+P2: 4.7.0.77
+P3: 590b4eb0
+P4: System.Management
+P5: 4.7.3056.0
+P6: 5a8e5a11
+P7: 8a
+P8: 51
+P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P10: 
+
+
++++ WER3 +++:
+Fault bucket 120498906135, type 4
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: NvStreamService.exe
+P2: 7.1.2084.9592
+P3: 57605a68
+P4: NvStreamService.exe
+P5: 7.1.2084.9592
+P6: 57605a68
+P7: c0000005
+P8: 000000000006060d
+P9: 
+P10: 
+
+
++++ WER4 +++:
+Fault bucket , type 0
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: NvStreamService.exe
+P2: 7.1.2084.9592
+P3: 57605a68
+P4: NvStreamService.exe
+P5: 7.1.2084.9592
+P6: 57605a68
+P7: c0000005
+P8: 000000000006060d
+P9: 
+P10: 
+
+
++++ WER5 +++:
+Fault bucket 1802292290425173425, type 5
+Event Name: RADAR_PRE_LEAK_WOW64
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: game.exe
+P2: 0.0.0.0
+P3: 10.0.17134.2.0.0
+P4: 
+P5: 
+P6: 
+P7: 
+P8: 
+P9: 
+P10: 
+
+
++++ WER6 +++:
+Fault bucket 145964034, type 4
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: Dolphin.exe
+P2: 0.0.0.0
+P3: 5299030d
+P4: Dolphin.exe
+P5: 0.0.0.0
+P6: 5299030d
+P7: c0000005
+P8: 00000000005d4be4
+P9: 
+P10: 
+
+
++++ WER7 +++:
+Fault bucket 1781134258058553087, type 5
+Event Name: CLR20r3
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: CorsairLink4.Service.exe
+P2: 4.7.0.77
+P3: 590b4eb0
+P4: System.Management
+P5: 4.7.3056.0
+P6: 5a8e5a11
+P7: 8a
+P8: 51
+P9: PSZQOADHX1U5ZAHBHOHGHLDGIY4QIXHX
+P10: 
+
+
++++ WER8 +++:
+Fault bucket 1417115004613894334, type 1
+Event Name: APPCRASH
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: AsusFanControlService.exe
+P2: 1.0.1.4
+P3: 54f6c4c7
+P4: KERNELBASE.dll
+P5: 10.0.17134.112
+P6: c863c6f9
+P7: 0eedfade
+P8: 0010db52
+P9: 
+P10: 
+
+
++++ WER9 +++:
+Fault bucket 2173272163288431646, type 5
+Event Name: WaasMedicFailure2
+Response: Not available
+Cab Id: 0
+
+Problem signature:
+P1: 10.0.17134.1
+P2: Detection
+P3: unknown
+P4: unknown
+P5: BinaryHealthPlugin
+P6: 0x800f0902
+P7: unknown
+P8: unknown
+P9: unknown
+P10: 
+
+

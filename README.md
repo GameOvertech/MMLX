@@ -10,3 +10,8 @@ General Information on the Project:
 https://megamanlegendsx.com
 
 Running on UE4 4.2
+
+If you would like to get added to the project, and get access to the trello board & discord room, please contact us @
+megamanlegendsx.mmlx@gmail.com
+
+

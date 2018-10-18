@@ -1,0 +1,1058 @@
+﻿Log file open, 10/17/18 21:27:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MMLX
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.510491
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin Substance
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.120s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-5930K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: D:/New folder/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.10.18-01.27.52:334][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-01.27.52:334][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.10.18-01.27.52:363][  0]LogHAL: Display: Platform has ~ 64 GB [68626223104 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.10.18-01.27.52:363][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.10.18-01.27.52:363][  0]LogInit: Going up to parent DeviceProfile []
+[2018.10.18-01.27.52:376][  0]LogInit: Computer: DESKTOP-CF0T73E
+[2018.10.18-01.27.52:376][  0]LogInit: User: ruwd
+[2018.10.18-01.27.52:376][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.10.18-01.27.52:376][  0]LogInit: High frequency timer resolution =3.415994 MHz
+[2018.10.18-01.27.52:376][  0]LogMemory: Memory total: Physical=63.9GB (64GB approx)
+[2018.10.18-01.27.52:376][  0]LogMemory: Platform Memory Stats for Windows
+[2018.10.18-01.27.52:376][  0]LogMemory: Process Physical Memory: 101.46 MB used, 101.46 MB peak
+[2018.10.18-01.27.52:376][  0]LogMemory: Process Virtual Memory: 85.97 MB used, 85.97 MB peak
+[2018.10.18-01.27.52:376][  0]LogMemory: Physical Memory: 8441.52 MB used,  57005.55 MB free, 65447.07 MB total
+[2018.10.18-01.27.52:376][  0]LogMemory: Virtual Memory: 4652.76 MB used,  57005.55 MB free, 134217728.00 MB total
+[2018.10.18-01.27.52:611][  0]LogInit: Using OS detected language (en-US).
+[2018.10.18-01.27.52:611][  0]LogInit: Using OS detected locale (en-US).
+[2018.10.18-01.27.52:612][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.10.18-01.27.53:227][  0]LogStreaming: Display: Took  0.615s to InitEngineTextLocalization.
+[2018.10.18-01.27.53:227][  0]LogInit: Setting process to per monitor DPI aware
+[2018.10.18-01.27.53:335][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.10.18-01.27.53:335][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.10.18-01.27.56:925][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-01.27.56:925][  0]LogD3D11RHI: D3D11 adapters:
+[2018.10.18-01.27.57:017][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.10.18-01.27.57:017][  0]LogD3D11RHI:       6097/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.10.18-01.27.57:019][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.10.18-01.27.57:019][  0]LogD3D11RHI:       0/0/32723 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.10.18-01.27.57:019][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.10.18-01.27.57:027][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.10.18-01.27.57:027][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.10.18-01.27.57:027][  0]LogWindows: EnumDisplayDevices:
+[2018.10.18-01.27.57:027][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.10.18-01.27.57:027][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.10.18-01.27.57:028][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.10.18-01.27.57:028][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.10.18-01.27.57:028][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.10.18-01.27.57:028][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.10.18-01.27.57:028][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2018.10.18-01.27.57:028][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2018.10.18-01.27.57:028][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.10.18-01.27.57:069][  0]LogD3D11RHI: Async texture creation enabled
+[2018.10.18-01.27.57:089][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.10.18-01.27.57:138][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Intermediate/Shaders/WorkingDirectory/10828/).
+[2018.10.18-01.27.57:138][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ruwd/AppData/Local/Temp/UnrealShaderWorkingDir/9549A5A64C8D6E0F265F2784FC50CBD0/'.
+[2018.10.18-01.27.57:689][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.10.18-01.27.57:716][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.10.18-01.27.57:741][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.10.18-01.27.57:792][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.10.18-01.27.57:837][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.10.18-01.27.57:876][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.10.18-01.27.57:929][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.10.18-01.27.57:981][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.10.18-01.27.58:013][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:240][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.10.18-01.27.58:265][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.10.18-01.27.58:417][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-01.27.58:417][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.10.18-01.27.58:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-01.27.58:482][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.10.18-01.27.58:522][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.10.18-01.27.58:569][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.10.18-01.27.58:610][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.10.18-01.27.58:675][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.10.18-01.27.58:722][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.10.18-01.27.58:722][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.10.18-01.27.59:169][  0]LogXGEController: Cleaning working directory: C:/Users/ruwd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.18-01.27.59:169][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.10.18-01.27.59:170][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.10.18-01.27.59:170][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.10.18-01.28.01:844][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.10.18-01.28.01:958][  0]LogDerivedDataCache: Loaded boot cache 0.11s 71MB C:/Users/ruwd/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.18-01.28.01:959][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ruwd/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.10.18-01.28.01:959][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.10.18-01.28.01:959][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.10.18-01.28.01:960][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.10.18-01.28.01:960][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.10.18-01.28.01:987][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.10.18-01.28.02:000][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ruwd/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.10.18-01.28.02:000][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.10.18-01.28.02:000][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.10.18-01.28.02:041][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.10.18-01.28.02:044][  0]LogSlate: Using FreeType 2.6.0
+[2018.10.18-01.28.02:077][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.10.18-01.28.02:474][  0]LogAssetRegistry: FAssetRegistry took 0.0266 seconds to start up
+[2018.10.18-01.28.02:923][  0]LogInit: Selected Device Profile: [Windows]
+[2018.10.18-01.28.03:402][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.10.18-01.28.03:456][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.10.18-01.28.03:456][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.10.18-01.28.03:456][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.10.18-01.28.03:456][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.10.18-01.28.03:496][  0]LogNetVersion: MMLX 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2966571756)
+[2018.10.18-01.28.04:194][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.090365 seconds
+[2018.10.18-01.28.04:200][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.10.18-01.28.04:200][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.10.18-01.28.04:200][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.10.18-01.28.09:414][  0]LogSubstanceCoreModule: Substance [CPU] Engine Loaded, Max Texture Size = 2048
+[2018.10.18-01.28.09:459][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.10.18-01.28.09:529][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.10.18-01.28.10:115][  0]SourceControl: Source control is disabled
+[2018.10.18-01.28.10:115][  0]SourceControl: Source control is disabled
+[2018.10.18-01.28.10:146][  0]SourceControl: Source control is disabled
+[2018.10.18-01.28.10:174][  0]SourceControl: Source control is disabled
+[2018.10.18-01.28.11:019][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.10.18-01.28.11:388][  0]LogOcInput: OculusInput pre-init called
+[2018.10.18-01.28.11:818][  0]LogEngine: Initializing Engine...
+[2018.10.18-01.28.11:819][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.10.18-01.28.11:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.18-01.28.11:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-01.28.11:821][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.18-01.28.11:822][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-01.28.12:079][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.10.18-01.28.12:110][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.10.18-01.28.12:138][  0]LogInit: XAudio2 using 'Speakers (Bose Mini II SoundLink Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-01.28.12:381][  0]LogInit: FAudioDevice initialized.
+[2018.10.18-01.28.12:382][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.10.18-01.28.12:452][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/ruwd/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.10.18-01.28.12:457][  0]LogInit: Texture streaming: Enabled
+[2018.10.18-01.28.12:541][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.10.18-01.28.12:587][  0]LogInit: Transaction tracking system initialized
+[2018.10.18-01.28.12:720][  0]BlueprintLog: New page: Editor Load
+[2018.10.18-01.28.13:283][  0]LocalizationService: Localization service is disabled
+[2018.10.18-01.28.14:068][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.10.18-01.28.14:068][  0]LogCook: Display: Mobile HDR setting 1
+[2018.10.18-01.28.14:068][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.10.18-01.28.14:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.10.18-01.28.14:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.10.18-01.28.14:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.10.18-01.28.14:068][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.10.18-01.28.14:864][  0]LogFileCache: Scanning file cache for directory 'D:/MMLX Developement/git 4/MMLX/MMLX 4.20/Content/' took 0.02s
+[2018.10.18-01.28.14:891][  0]SourceControl: Source control is disabled
+[2018.10.18-01.28.14:897][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/New folder/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.10.18-01.28.14:899][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.10.18-01.28.14:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.10.18-01.28.14:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.10.18-01.28.14:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.10.18-01.28.14:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.10.18-01.28.14:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.10.18-01.28.14:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.10.18-01.28.14:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.10.18-01.28.14:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.10.18-01.28.14:979][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.10.18-01.28.14:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.10.18-01.28.15:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.10.18-01.28.15:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.10.18-01.28.15:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.10.18-01.28.15:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.10.18-01.28.15:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.10.18-01.28.15:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.10.18-01.28.15:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.10.18-01.28.15:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Fire01.uasset"
+[2018.10.18-01.28.15:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.10.18-01.28.15:121][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.10.18-01.28.15:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.10.18-01.28.15:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Light01.uasset"
+[2018.10.18-01.28.15:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.10.18-01.28.15:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Light02.uasset"
+[2018.10.18-01.28.15:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.10.18-01.28.15:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.10.18-01.28.15:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.10.18-01.28.15:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.10.18-01.28.15:256][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.10.18-01.28.15:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.10.18-01.28.15:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.10.18-01.28.15:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.10.18-01.28.15:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.10.18-01.28.15:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Steam01.uasset"
+[2018.10.18-01.28.15:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.10.18-01.28.15:362][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.10.18-01.28.15:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.10.18-01.28.15:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.10.18-01.28.15:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.10.18-01.28.15:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.10.18-01.28.15:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.10.18-01.28.15:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.10.18-01.28.15:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.10.18-01.28.15:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.10.18-01.28.15:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.10.18-01.28.15:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.10.18-01.28.15:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.10.18-01.28.15:572][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.10.18-01.28.15:591][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.10.18-01.28.15:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.10.18-01.28.15:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.10.18-01.28.15:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.10.18-01.28.15:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.10.18-01.28.15:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.10.18-01.28.15:795][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.10.18-01.28.15:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.10.18-01.28.15:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Maps/StarterMap.umap"
+[2018.10.18-01.28.15:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.10.18-01.28.15:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.10.18-01.28.15:885][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.10.18-01.28.15:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.10.18-01.28.15:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.10.18-01.28.15:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.10.18-01.28.15:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.10.18-01.28.15:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.10.18-01.28.15:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.10.18-01.28.15:940][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.10.18-01.28.15:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.10.18-01.28.15:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.10.18-01.28.15:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.10.18-01.28.15:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.10.18-01.28.15:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.10.18-01.28.15:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.10.18-01.28.15:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.10.18-01.28.16:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.10.18-01.28.16:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.10.18-01.28.16:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.10.18-01.28.16:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.10.18-01.28.16:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.10.18-01.28.16:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.10.18-01.28.16:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.10.18-01.28.16:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.10.18-01.28.16:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.10.18-01.28.16:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.10.18-01.28.16:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.10.18-01.28.16:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.10.18-01.28.16:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.10.18-01.28.16:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.10.18-01.28.16:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.10.18-01.28.16:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.10.18-01.28.16:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.10.18-01.28.16:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.10.18-01.28.16:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.10.18-01.28.16:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.10.18-01.28.16:226][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.10.18-01.28.16:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.10.18-01.28.16:253][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.10.18-01.28.16:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.10.18-01.28.16:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.10.18-01.28.16:283][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.10.18-01.28.16:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.10.18-01.28.16:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.10.18-01.28.16:318][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.10.18-01.28.16:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.10.18-01.28.16:351][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.10.18-01.28.16:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.10.18-01.28.16:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.10.18-01.28.16:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.10.18-01.28.16:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.10.18-01.28.16:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.10.18-01.28.16:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.10.18-01.28.16:413][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.10.18-01.28.16:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.10.18-01.28.16:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.10.18-01.28.16:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.10.18-01.28.16:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.10.18-01.28.16:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.10.18-01.28.16:484][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.10.18-01.28.16:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.10.18-01.28.16:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.10.18-01.28.16:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.10.18-01.28.16:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.10.18-01.28.16:542][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Door.uasset"
+[2018.10.18-01.28.16:556][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.10.18-01.28.16:584][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.10.18-01.28.16:594][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.10.18-01.28.16:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.10.18-01.28.16:616][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.10.18-01.28.16:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.10.18-01.28.16:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.10.18-01.28.16:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.10.18-01.28.16:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.10.18-01.28.16:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.10.18-01.28.16:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.10.18-01.28.16:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.10.18-01.28.16:724][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.10.18-01.28.16:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.10.18-01.28.16:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.10.18-01.28.16:752][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.10.18-01.28.16:765][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.10.18-01.28.16:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.10.18-01.28.16:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.10.18-01.28.16:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.10.18-01.28.16:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.10.18-01.28.16:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.10.18-01.28.16:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.10.18-01.28.16:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.10.18-01.28.16:835][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.10.18-01.28.16:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.10.18-01.28.16:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.10.18-01.28.16:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.10.18-01.28.16:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.10.18-01.28.16:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.10.18-01.28.16:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.10.18-01.28.16:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.10.18-01.28.16:922][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.10.18-01.28.16:929][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.10.18-01.28.16:937][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.10.18-01.28.16:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.10.18-01.28.16:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.10.18-01.28.16:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.10.18-01.28.16:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.10.18-01.28.16:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.10.18-01.28.16:987][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.10.18-01.28.17:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.10.18-01.28.17:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.10.18-01.28.17:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.10.18-01.28.17:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.10.18-01.28.17:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.10.18-01.28.17:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.10.18-01.28.17:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.10.18-01.28.17:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.10.18-01.28.17:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.10.18-01.28.17:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.10.18-01.28.17:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.10.18-01.28.17:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.10.18-01.28.17:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.10.18-01.28.17:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.10.18-01.28.17:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.10.18-01.28.17:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.10.18-01.28.17:372][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.10.18-01.28.17:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.10.18-01.28.17:386][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.10.18-01.28.17:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.10.18-01.28.17:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.10.18-01.28.17:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.10.18-01.28.17:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.10.18-01.28.17:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.10.18-01.28.17:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.10.18-01.28.17:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.10.18-01.28.17:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.10.18-01.28.17:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.10.18-01.28.17:574][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.10.18-01.28.17:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.10.18-01.28.17:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.10.18-01.28.17:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.10.18-01.28.17:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.10.18-01.28.17:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.10.18-01.28.17:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.10.18-01.28.17:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.10.18-01.28.17:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.10.18-01.28.17:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.10.18-01.28.17:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.10.18-01.28.18:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.10.18-01.28.18:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.10.18-01.28.18:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.10.18-01.28.18:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.10.18-01.28.18:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.10.18-01.28.18:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.10.18-01.28.18:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.10.18-01.28.18:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.10.18-01.28.18:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.10.18-01.28.18:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.10.18-01.28.18:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.10.18-01.28.18:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.10.18-01.28.18:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.10.18-01.28.18:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.10.18-01.28.18:218][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.10.18-01.28.18:239][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.10.18-01.28.18:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.10.18-01.28.18:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.10.18-01.28.18:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.10.18-01.28.18:366][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.10.18-01.28.18:398][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.10.18-01.28.18:431][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.10.18-01.28.18:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.10.18-01.28.18:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.10.18-01.28.18:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.10.18-01.28.18:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.10.18-01.28.18:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.10.18-01.28.18:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.10.18-01.28.18:626][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.10.18-01.28.18:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.10.18-01.28.18:676][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.10.18-01.28.18:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.10.18-01.28.18:719][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.10.18-01.28.18:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.10.18-01.28.18:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.10.18-01.28.18:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.10.18-01.28.18:810][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.10.18-01.28.18:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.10.18-01.28.18:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.10.18-01.28.18:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.10.18-01.28.18:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.10.18-01.28.18:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.10.18-01.28.18:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.10.18-01.28.18:938][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.10.18-01.28.18:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.10.18-01.28.18:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.10.18-01.28.18:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.10.18-01.28.18:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.10.18-01.28.19:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.10.18-01.28.19:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.10.18-01.28.19:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.10.18-01.28.19:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.10.18-01.28.19:106][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.10.18-01.28.19:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.10.18-01.28.19:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.10.18-01.28.19:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.10.18-01.28.19:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.10.18-01.28.19:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.10.18-01.28.19:234][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.10.18-01.28.19:262][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.10.18-01.28.19:292][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.10.18-01.28.19:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.10.18-01.28.19:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.10.18-01.28.19:369][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.10.18-01.28.19:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.10.18-01.28.19:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.10.18-01.28.19:427][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.10.18-01.28.19:530][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.10.18-01.28.19:671][  0]LogSavePackage: Moving '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Saved/Floor_400x4006270C1F14160B3B157943E8F495D02E8.tmp' to '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.10.18-01.28.19:680][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.10.18-01.28.19:684][  0]Cmd: MAP LOAD FILE="../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Maps/Ocean_Tower_Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.10.18-01.28.19:685][  0]LightingResults: New page: Lighting Build
+[2018.10.18-01.28.19:689][  0]MapCheck: New page: Map Check
+[2018.10.18-01.28.19:689][  0]LightingResults: New page: Lighting Build
+[2018.10.18-01.28.19:877][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/special_weapon_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.19:879][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/buster_part_type_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.19:880][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/special_item_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.19:881][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/normal_item_struct.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:132][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/SpecialItemsTextures/MMLKeyItem02.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:133][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/SpecialItemsTextures/MMLKeyItem03.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:134][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/SpecialWeaponsTextures/MMLWActiveBuster.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:135][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/SpecialWeaponsTextures/MMLWDrillArm.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:136][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Megaman/Inventory/SpecialWeaponsTextures/MMLWSplashMine.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:295][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Blueprints/Zenny/greenZennyMat.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.20:296][  0]LogLinker: Warning: Asset '../../../../../MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Audio/SFX/sfx_general/sfx-getzenny1.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2018.10.18-01.28.24:870][  0]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.10.18-01.28.24:915][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone2) is flushing async loading
+[2018.10.18-01.28.24:915][  0]LogStreaming: Display: Flushing async loaders.
+[2018.10.18-01.28.25:224][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone1) is flushing async loading
+[2018.10.18-01.28.25:373][  0]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Maps/Ocean_Tower_Zone3) is flushing async loading
+[2018.10.18-01.28.25:456][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.10.18-01.28.25:519][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.10.18-01.28.25:611][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 91.576ms to complete.
+[2018.10.18-01.28.25:611][  0]LogFileHelpers: Loading map 'Ocean_Tower_Main' took 5.926
+[2018.10.18-01.28.25:780][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-01.28.25:790][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-01.28.25:807][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-01.28.25:820][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-01.28.25:862][  0]LogCollectionManager: Loaded 0 collections in 0.002142 seconds
+[2018.10.18-01.28.25:912][  0]LogFileCache: Scanning file cache for directory 'D:/MMLX Developement/git 4/MMLX/MMLX 4.20/Saved/Collections/' took 0.01s
+[2018.10.18-01.28.25:912][  0]LogFileCache: Scanning file cache for directory 'D:/MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Developers/ruwd/Collections/' took 0.01s
+[2018.10.18-01.28.25:912][  0]LogFileCache: Scanning file cache for directory 'D:/MMLX Developement/git 4/MMLX/MMLX 4.20/Content/Collections/' took 0.01s
+[2018.10.18-01.28.25:912][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.10.18-01.28.25:934][  0]LogContentBrowser: Native class hierarchy populated in 0.0211 seconds. Added 2586 classes and 609 folders.
+[2018.10.18-01.28.25:942][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.10.18-01.28.26:593][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.18-01.28.26:623][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2018.10.18-01.28.26:671][  0]LogSlate: Took 0.009368 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.10.18-01.28.26:684][  0]LogSlate: Took 0.008924 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.10.18-01.28.26:699][  0]LogSlate: Took 0.007096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.10.18-01.28.26:795][  0]LogRenderer: Reallocating scene render targets to support 1288x624 Format 10 NumSamples 1 (Frame:1).
+[2018.10.18-01.28.27:069][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.10.18-01.28.27:070][  0]LogLoad: (Engine Initialization) Total time: 38.72 seconds
+[2018.10.18-01.28.27:070][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.10.18-01.28.27:082][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-01.28.27:125][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.10.18-01.28.27:263][  1]LogSubstanceLiveLink: Warning: Unable to send data along socket, closing connection
+[2018.10.18-01.28.27:336][  2]LogAssetRegistry: Asset discovery search completed in 24.8846 seconds
+[2018.10.18-01.28.27:338][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.10.18-01.28.27:338][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000056 seconds (updated 0 objects)
+[2018.10.18-01.28.30:604][362]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-01.28.30:696][373]LogTemp: Repeating last play command: Selected Viewport
+[2018.10.18-01.28.30:703][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.10.18-01.28.30:703][373]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.10.18-01.28.30:703][373]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.10.18-01.28.30:716][373]PIE: New page: PIE session: Ocean_Tower_Main (Oct 17, 2018, 5:28:30 PM)
+[2018.10.18-01.28.30:716][373]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Ocean_Tower_Main
+[2018.10.18-01.28.30:741][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024483s)
+[2018.10.18-01.28.30:741][373]LogAIModule: Creating AISystem for world Ocean_Tower_Main
+[2018.10.18-01.28.30:741][373]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2018.10.18-01.28.30:741][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main to /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main (0.025293s)
+[2018.10.18-01.28.30:797][373]LogInit: XAudio2 using 'Speakers (Bose Mini II SoundLink Stereo)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.10.18-01.28.30:807][373]LogInit: FAudioDevice initialized.
+[2018.10.18-01.28.30:850][373]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.10.18-01.28.30:924][373]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Ocean_Tower_Main.Ocean_Tower_Main up for play (max tick rate 0) at 2018.10.17-21.28.30
+[2018.10.18-01.28.30:928][373]LogWorld: Bringing up level for play took: 0.014707
+[2018.10.18-01.28.30:950][373]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 10 classes and 0 folders.
+[2018.10.18-01.28.31:054][373]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Ocean_Tower_Main 1.122
+[2018.10.18-01.28.31:054][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.10.18-01.28.31:054][373]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.10.18-01.28.31:806][445]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:823][446]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:834][447]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:848][448]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:856][449]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:864][450]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:873][451]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:881][452]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:890][453]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:899][454]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:907][455]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:916][456]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:924][457]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:933][458]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:941][459]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:950][460]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:961][461]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:969][462]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:977][463]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:987][464]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.31:996][465]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:005][466]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:013][467]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:022][468]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:030][469]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:039][470]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:047][471]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:056][472]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:064][473]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:072][474]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:081][475]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:089][476]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:097][477]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:106][478]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:114][479]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:122][480]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:131][481]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:139][482]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:148][483]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:157][484]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:165][485]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:173][486]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:181][487]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:190][488]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:199][489]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:207][490]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:222][491]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:233][492]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:242][493]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:249][494]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:257][495]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:265][496]LogFileCache: Retrieving MD5 hashes for directory 'D:/MMLX Developement/git 4/MMLX/MMLX 4.20/Content/' took 5.17s
+[2018.10.18-01.28.32:267][496]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:275][497]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:284][498]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:292][499]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:301][500]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:309][501]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:317][502]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:329][503]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:340][504]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:349][505]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:357][506]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:366][507]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:374][508]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:383][509]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:392][510]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:401][511]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:409][512]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:417][513]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:426][514]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:434][515]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:442][516]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:453][517]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:462][518]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:469][519]LogBlueprintUserMessages: [MegaMan_AnimBP_C_0] Transforming.... Please Hold....
+[2018.10.18-01.28.32:470][519]LogBlueprintUserMessages: [Megaman_C_0] true
+[2018.10.18-01.28.34:143][707]LogBlueprintUserMessages: [Zakobon_with_attack3_8] Zakobon_with_attack3 sees you
+[2018.10.18-01.28.34:770][781]LogBlueprintUserMessages: [Zakobon_with_attack2_5] Zakobon_with_attack2 sees you
+[2018.10.18-01.28.35:195][831]LogBlueprintUserMessages: [Zakobon_with_attack_2] Zakobon_with_attack sees you
+[2018.10.18-01.28.35:772][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.10.18-01.28.35:772][897]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.10.18-01.28.35:772][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-01.28.35:820][897]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.10.18-01.28.35:820][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main' with GeneratedClass '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Main.Ocean_Tower_Main:PersistentLevel.Ocean_Tower_Main'
+[2018.10.18-01.28.35:820][897]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3' with GeneratedClass '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3_C' with ClassGeneratedBy '/Game/Maps/Ocean_Tower_Zone3.Ocean_Tower_Zone3:PersistentLevel.Ocean_Tower_Zone3'
+[2018.10.18-01.28.35:867][897]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.10.18-01.28.35:908][898]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2018.10.18-01.28.37:211][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.18-01.28.37:373][ 60]LogSlate: Window 'MMLX - Unreal Editor' being destroyed
+[2018.10.18-01.28.37:373][ 60]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-01.28.37:375][ 60]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.10.18-01.28.37:550][ 61]Cmd: QUIT_EDITOR
+[2018.10.18-01.28.37:686][ 61]LogExit: Preparing to exit.
+[2018.10.18-01.28.38:736][ 61]LogExit: Editor shut down
+[2018.10.18-01.28.38:736][ 61]LogExit: Transaction tracking system shut down
+[2018.10.18-01.28.39:183][ 61]LogExit: Object subsystem successfully closed.
+[2018.10.18-01.28.39:218][ 61]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.10.18-01.28.39:226][ 61]LogD3D11RHI: Shutdown
+[2018.10.18-01.28.39:226][ 61]LogD3D11RHI: CleanupD3DDevice
+[2018.10.18-01.28.39:230][ 61]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.10.18-01.28.39:261][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (622)
+[2018.10.18-01.28.39:261][ 61]LogModuleManager: Shutting down and abandoning module Voice (620)
+[2018.10.18-01.28.39:261][ 61]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (618)
+[2018.10.18-01.28.39:261][ 61]LogModuleManager: Shutting down and abandoning module SceneOutliner (616)
+[2018.10.18-01.28.39:261][ 61]LogModuleManager: Shutting down and abandoning module AddContentDialog (614)
+[2018.10.18-01.28.39:262][ 61]LogModuleManager: Shutting down and abandoning module WidgetCarousel (613)
+[2018.10.18-01.28.39:262][ 61]LogModuleManager: Shutting down and abandoning module EditorWidgets (610)
+[2018.10.18-01.28.39:262][ 61]LogModuleManager: Shutting down and abandoning module CollectionManager (608)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module StatsViewer (606)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module FoliageEdit (604)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module LandscapeEditor (602)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module MeshPaintMode (600)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (598)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module ActorPickerMode (596)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module GeometryMode (594)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module TextureAlignMode (592)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module BspMode (590)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (588)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (586)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module AutomationWorker (584)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (582)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module SequenceRecorder (581)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (578)
+[2018.10.18-01.28.39:263][ 61]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (576)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module PlacementMode (575)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module MaterialEditor (574)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (570)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (568)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (566)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (564)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (562)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (560)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (558)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (556)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (554)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (552)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (550)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (548)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (546)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module CharacterAI (544)
+[2018.10.18-01.28.39:264][ 61]LogModuleManager: Shutting down and abandoning module SmartSnapping (542)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module SessionServices (540)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module ViewportSnapping (538)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module ViewportInteraction (536)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module ClothPainter (534)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (533)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module LogVisualizer (530)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module IntroTutorials (528)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (527)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (524)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (522)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (520)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (518)
+[2018.10.18-01.28.39:265][ 61]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (517)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (514)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (512)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (510)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (508)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module InputBindingEditor (506)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module MergeActors (504)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (502)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module LocalizationService (501)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module HardwareTargeting (498)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (496)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module UndoHistory (494)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module XmlParser (492)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module Blutility (490)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (488)
+[2018.10.18-01.28.39:609][ 61]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (487)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (484)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module SettingsEditor (482)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module ProjectLauncher (480)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module SessionFrontend (478)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module ProfilerClient (476)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module DeviceManager (474)
+[2018.10.18-01.28.39:610][ 61]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (473)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module AutomationController (470)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module AutomationWindow (468)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module Layers (466)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (464)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module DetailCustomizations (462)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module PackagesDialog (460)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module Persona (458)
+[2018.10.18-01.28.39:675][ 61]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (457)
+[2018.10.18-01.28.39:676][ 61]LogModuleManager: Shutting down and abandoning module AnimGraph (455)
+[2018.10.18-01.28.39:676][ 61]LogModuleManager: Shutting down and abandoning module Kismet (452)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module GraphEditor (450)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module ClassViewer (448)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module Toolbox (446)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module ModuleUI (444)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTools (442)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module OutputLog (440)
+[2018.10.18-01.28.39:681][ 61]LogModuleManager: Shutting down and abandoning module GammaUI (438)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module Documentation (436)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2018.10.18-01.28.39:682][ 61]LogModuleManager: Shutting down and abandoning module ProfilerService (408)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module TaskGraph (406)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module SubstanceLiveLink (404)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module SubstanceSource (402)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module SubstanceEditor (400)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.10.18-01.28.39:823][ 61]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (372)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module MediaCompositing (370)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module LinearTimecode (368)
+[2018.10.18-01.28.39:824][ 61]LogModuleManager: Shutting down and abandoning module ImgMedia (366)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module HTML5Networking (364)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (362)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (360)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module BackChannel (358)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module AppleVision (356)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (344)
+[2018.10.18-01.28.39:831][ 61]LogModuleManager: Shutting down and abandoning module DatasmithContent (342)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (330)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module CryptoKeys (328)
+[2018.10.18-01.28.39:832][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (326)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (324)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module UObjectPlugin (322)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (320)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (318)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module GitSourceControl (316)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module SourceControl (315)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (312)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (310)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (308)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (306)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module Paper2DEditor (304)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module MeshPaint (303)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (300)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (298)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module PhysXVehicles (296)
+[2018.10.18-01.28.39:833][ 61]LogModuleManager: Shutting down and abandoning module OculusEditor (294)
+[2018.10.18-01.28.39:834][ 61]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (292)
+[2018.10.18-01.28.39:834][ 61]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (290)
+[2018.10.18-01.28.39:834][ 61]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (288)
+[2018.10.18-01.28.39:834][ 61]LogModuleManager: Shutting down and abandoning module ActorSequence (286)
+[2018.10.18-01.28.39:834][ 61]LogModuleManager: Shutting down and abandoning module UdpMessaging (284)
+[2018.10.18-01.28.39:935][ 61]LogModuleManager: Shutting down and abandoning module TcpMessaging (282)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module SubstanceCore (280)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.10.18-01.28.40:036][ 61]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.10.18-01.28.40:038][ 61]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.10.18-01.28.40:038][ 61]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.10.18-01.28.40:038][ 61]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.10.18-01.28.40:038][ 61]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.10.18-01.28.40:039][ 61]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.10.18-01.28.40:041][ 61]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.10.18-01.28.40:041][ 61]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.10.18-01.28.40:041][ 61]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.10.18-01.28.40:041][ 61]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.10.18-01.28.40:041][ 61]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.10.18-01.28.40:041][ 61]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.10.18-01.28.40:044][ 61]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.10.18-01.28.40:050][ 61]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.10.18-01.28.40:051][ 61]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.10.18-01.28.40:052][ 61]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.10.18-01.28.40:052][ 61]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.10.18-01.28.40:052][ 61]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.10.18-01.28.40:052][ 61]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.10.18-01.28.40:055][ 61]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.10.18-01.28.40:055][ 61]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.10.18-01.28.40:056][ 61]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.10.18-01.28.40:529][ 61]LogDerivedDataCache: Shutdown
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.10.18-01.28.40:529][ 61]LogXGEController: Cleaning working directory: C:/Users/ruwd/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.10.18-01.28.40:529][ 61]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.10.18-01.28.40:530][ 61]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.10.18-01.28.40:532][ 61]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.10.18-01.28.40:532][ 61]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.10.18-01.28.40:533][ 61]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.10.18-01.28.40:533][ 61]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.10.18-01.28.40:545][ 61]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.10.18-01.28.40:546][ 61]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.10.18-01.28.40:546][ 61]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.10.18-01.28.40:546][ 61]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.10.18-01.28.40:546][ 61]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.10.18-01.28.40:547][ 61]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.10.18-01.28.40:547][ 61]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.10.18-01.28.40:576][ 61]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.10.18-01.28.40:576][ 61]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.10.18-01.28.40:576][ 61]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB46838EE-4634-E0B6-DBBD-9386B00B1A0F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.3-4369336%2B%2B%2BUE4%2BRelease-4.20&UserID=1b29747d4622d99b3debc19b6bbc37c9%7C26edd4b22864457b98f8e74c4f8ea8a4%7Ce7e5514a-4c20-45b5-87b5-931e01ccd4c9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.10.18-01.28.40:582][ 61]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.10.18-01.28.40:585][ 61]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.10.18-01.28.40:585][ 61]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.10.18-01.28.40:586][ 61]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.10.18-01.28.40:587][ 61]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.10.18-01.28.40:609][ 61]LogExit: Exiting.
+[2018.10.18-01.28.40:654][ 61]Log file closed, 10/17/18 21:28:40
